@@ -21,7 +21,6 @@ nodeDF$AuthorKeyword = paste0(nodeDF$`Author`, ' - ', nodeDF$`Major keyword`)
 trimNodes = cutNodes(nodeDF, trimCol = 'Last authors', minVal = 3)
 trimEdges = cutEdges(trimNodes, edgeDF)
 networkColab = networkD3Colab(trimEdges, trimNodes)
-networkColab
 htmlwidgets::saveWidget(networkColab, paste0(firstName, '_', lastName, '_colabNetwork.html'))
 
 firstName = 'Seth'
@@ -34,7 +33,6 @@ nodeDF$AuthorKeyword = paste0(nodeDF$`Author`, ' - ', nodeDF$`Major keyword`)
 trimNodes = cutNodes(nodeDF, trimCol = 'Last authors', minVal = 3)
 trimEdges = cutEdges(trimNodes, edgeDF)
 networkColab = networkD3Colab(trimEdges, trimNodes)
-networkColab
 htmlwidgets::saveWidget(networkColab, paste0(firstName, '_', lastName, '_colabNetwork.html'))
 
 #Bring 2 authors together
