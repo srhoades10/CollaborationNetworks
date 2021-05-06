@@ -1,0 +1,826 @@
+,Author1,Author2,nPapers,nCitations,id1,id2
+0,Seth Rhoades,Sibel Cal-Kayitmazbatir,1,0,0,1
+1,Seth Rhoades,Eylem Kulkoyluoglu-Cotul,1,0,0,2
+2,Seth Rhoades,Jacqueline Growe,4,0,0,3
+3,Seth Rhoades,Christopher Selby,3,0,0,4
+4,Seth Rhoades,Dania Malik,4,0,0,5
+5,Seth Rhoades,Hasimcan Oner,1,0,0,6
+6,Seth Rhoades,Hande Asimgil,1,0,0,7
+7,Seth Rhoades,Lauren Francey,3,0,0,8
+8,Seth Rhoades,Aziz Sancar,3,0,0,9
+9,Seth Rhoades,Warren Kruger,1,0,0,10
+10,Seth Rhoades,John Hogenesch,4,0,0,11
+11,Seth Rhoades,Aalim Weljie,15,0,0,12
+12,Seth Rhoades,Ron Anafi,3,0,0,13
+13,Seth Rhoades,Ibrahim Halil Kavakli,1,0,0,14
+14,Seth Rhoades,Pearl Lee,1,0,0,15
+15,Seth Rhoades,Nicholas Perkons,1,0,0,16
+16,Seth Rhoades,Peiwei Huangyang,1,0,0,17
+17,Seth Rhoades,Sanika Khare,1,0,0,18
+18,Seth Rhoades,Michelle Burrows,1,0,0,19
+19,Seth Rhoades,Jennifer Finan,1,0,0,20
+20,Seth Rhoades,Itzhak Nissim,1,0,0,21
+21,Seth Rhoades,M Celeste Simon,1,0,0,23
+22,Seth Rhoades,Annie Hsieh,1,0,0,24
+23,Seth Rhoades,Xiangzhong Zheng,1,0,0,25
+24,Seth Rhoades,Zhifeng Yue,2,0,0,26
+25,Seth Rhoades,Zachary Stine,1,0,0,27
+26,Seth Rhoades,Anthony Mancuso,1,0,0,28
+27,Seth Rhoades,Rebekah Brooks,1,0,0,29
+28,Seth Rhoades,Robert Eisenman,1,0,0,30
+29,Seth Rhoades,Amita Sehgal,3,0,0,31
+30,Seth Rhoades,Chi Dang,3,0,0,32
+31,Seth Rhoades,Jacob Hughey,2,0,0,33
+32,Seth Rhoades,Darwin Fu,1,0,0,34
+33,Seth Rhoades,Lisa Bastarache,2,0,0,35
+34,Seth Rhoades,Joshua Denny,2,0,0,36
+35,Seth Rhoades,Qingxia Chen,1,0,0,37
+36,Seth Rhoades,Emanuela Ricciotti,1,0,0,38
+37,Seth Rhoades,Cecilia Castro,1,0,0,39
+38,Seth Rhoades,Soon Yew Tang,1,0,0,40
+39,Seth Rhoades,James West,1,0,0,42
+40,Seth Rhoades,Xuanwen Li,1,0,0,43
+41,Seth Rhoades,Nicholas Lahens,2,0,0,44
+42,Seth Rhoades,Jeffrey Sparks,1,0,0,45
+43,Seth Rhoades,Elizabeth Karlson,1,0,0,46
+44,Seth Rhoades,Julian Griffin,1,0,0,47
+45,Seth Rhoades,Garret FitzGerald,2,0,0,48
+46,Seth Rhoades,Katrina Nayak,1,0,0,49
+47,Seth Rhoades,Shirley Zhang,1,0,0,50
+48,Seth Rhoades,Carsten Skarke,1,0,0,51
+49,Seth Rhoades,Amy Campbell,1,0,0,52
+50,Seth Rhoades,Kyle Bittinger,1,0,0,53
+51,Seth Rhoades,Aubrey Bailey,1,0,0,54
+52,Seth Rhoades,Christian Hoffmann,1,0,0,55
+53,Seth Rhoades,Randal Olson,1,0,0,56
+54,Seth Rhoades,Guangrui Yang,1,0,0,57
+55,Seth Rhoades,Frederic Bushman,1,0,0,58
+56,Seth Rhoades,Casey Greene,1,0,0,59
+57,Seth Rhoades,Gregory Grant,2,0,0,60
+58,Seth Rhoades,Saikumari Krishnaiah,3,0,0,61
+59,Seth Rhoades,Brian Altman,2,0,0,62
+60,Seth Rhoades,Faith Coldren,2,0,0,63
+61,Seth Rhoades,Anand Venkataraman,3,0,0,64
+62,Seth Rhoades,Anthony Olarerin-George,3,0,0,65
+63,Seth Rhoades,Sarmistha Mukherjee,2,0,0,66
+64,Seth Rhoades,Saiveda Girish,2,0,0,67
+65,Seth Rhoades,Sibel Cal,2,0,0,68
+66,Seth Rhoades,Ubeydullah Er,2,0,0,69
+67,Seth Rhoades,Bahareh Sianati,2,0,0,70
+68,Seth Rhoades,Arjun Sengupta,6,0,0,71
+69,Seth Rhoades,I Halil Kavakli,2,0,0,72
+70,Seth Rhoades,Joseph Baur,2,0,0,73
+71,Seth Rhoades,Eun Ji Kim,1,0,0,74
+72,Seth Rhoades,Soumyashant Nayak,1,0,0,75
+73,Seth Rhoades,Peter Meerlo,1,0,0,76
+74,Seth Rhoades,Sharanya Sivanand,1,0,0,77
+75,Seth Rhoades,Qinqin Jiang,1,0,0,78
+76,Seth Rhoades,Joyce Lee,1,0,0,79
+77,Seth Rhoades,Joseph Benci,1,0,0,80
+78,Seth Rhoades,Salina Yuan,1,0,0,81
+79,Seth Rhoades,Isabella Viney,1,0,0,82
+80,Seth Rhoades,Steven Zhao,1,0,0,83
+81,Seth Rhoades,Alessandro Carrer,1,0,0,84
+82,Seth Rhoades,Andy Minn,1,0,0,85
+83,Seth Rhoades,Roger Greenberg,1,0,0,86
+84,Seth Rhoades,Kathryn Wellen,1,0,0,87
+85,Seth Rhoades,Barry Slaff,1,0,0,88
+86,Seth Rhoades,Chi Van Dang,1,0,0,89
+87,Seth Rhoades,Sarah Maguire,1,0,0,90
+88,Seth Rhoades,Jason Lim,1,0,0,91
+89,Seth Rhoades,Claire Mitchell,1,0,0,92
+90,Sibel Cal-Kayitmazbatir,Eylem Kulkoyluoglu-Cotul,1,0,1,2
+91,Sibel Cal-Kayitmazbatir,Jacqueline Growe,1,0,1,3
+92,Sibel Cal-Kayitmazbatir,Christopher Selby,1,0,1,4
+93,Sibel Cal-Kayitmazbatir,Dania Malik,1,0,1,5
+94,Sibel Cal-Kayitmazbatir,Hasimcan Oner,1,0,1,6
+95,Sibel Cal-Kayitmazbatir,Hande Asimgil,1,0,1,7
+96,Sibel Cal-Kayitmazbatir,Lauren Francey,1,0,1,8
+97,Sibel Cal-Kayitmazbatir,Aziz Sancar,1,0,1,9
+98,Sibel Cal-Kayitmazbatir,Warren Kruger,1,0,1,10
+99,Sibel Cal-Kayitmazbatir,John Hogenesch,1,0,1,11
+100,Sibel Cal-Kayitmazbatir,Aalim Weljie,1,0,1,12
+101,Sibel Cal-Kayitmazbatir,Ron Anafi,1,0,1,13
+102,Sibel Cal-Kayitmazbatir,Ibrahim Halil Kavakli,1,0,1,14
+103,Eylem Kulkoyluoglu-Cotul,Jacqueline Growe,1,0,2,3
+104,Eylem Kulkoyluoglu-Cotul,Christopher Selby,1,0,2,4
+105,Eylem Kulkoyluoglu-Cotul,Dania Malik,1,0,2,5
+106,Eylem Kulkoyluoglu-Cotul,Hasimcan Oner,1,0,2,6
+107,Eylem Kulkoyluoglu-Cotul,Hande Asimgil,1,0,2,7
+108,Eylem Kulkoyluoglu-Cotul,Lauren Francey,1,0,2,8
+109,Eylem Kulkoyluoglu-Cotul,Aziz Sancar,1,0,2,9
+110,Eylem Kulkoyluoglu-Cotul,Warren Kruger,1,0,2,10
+111,Eylem Kulkoyluoglu-Cotul,John Hogenesch,1,0,2,11
+112,Eylem Kulkoyluoglu-Cotul,Aalim Weljie,1,0,2,12
+113,Eylem Kulkoyluoglu-Cotul,Ron Anafi,1,0,2,13
+114,Eylem Kulkoyluoglu-Cotul,Ibrahim Halil Kavakli,1,0,2,14
+115,Jacqueline Growe,Christopher Selby,3,0,3,4
+116,Jacqueline Growe,Dania Malik,1,0,3,5
+117,Jacqueline Growe,Hasimcan Oner,1,0,3,6
+118,Jacqueline Growe,Hande Asimgil,1,0,3,7
+119,Jacqueline Growe,Lauren Francey,3,0,3,8
+120,Jacqueline Growe,Aziz Sancar,3,0,3,9
+121,Jacqueline Growe,Warren Kruger,1,0,3,10
+122,Jacqueline Growe,John Hogenesch,5,0,3,11
+123,Jacqueline Growe,Aalim Weljie,4,0,3,12
+124,Jacqueline Growe,Ron Anafi,4,0,3,13
+125,Jacqueline Growe,Ibrahim Halil Kavakli,1,0,3,14
+126,Jacqueline Growe,Saikumari Krishnaiah,3,0,3,61
+127,Jacqueline Growe,Brian Altman,2,0,3,62
+128,Jacqueline Growe,Faith Coldren,2,0,3,63
+129,Jacqueline Growe,Anand Venkataraman,4,0,3,64
+130,Jacqueline Growe,Anthony Olarerin-George,3,0,3,65
+131,Jacqueline Growe,Sarmistha Mukherjee,2,0,3,66
+132,Jacqueline Growe,Saiveda Girish,2,0,3,67
+133,Jacqueline Growe,Sibel Cal,2,0,3,68
+134,Jacqueline Growe,Ubeydullah Er,2,0,3,69
+135,Jacqueline Growe,Bahareh Sianati,2,0,3,70
+136,Jacqueline Growe,Arjun Sengupta,3,0,3,71
+137,Jacqueline Growe,I Halil Kavakli,2,0,3,72
+138,Jacqueline Growe,Joseph Baur,2,0,3,73
+139,Jacqueline Growe,Chi Dang,2,0,3,32
+140,Jacqueline Growe,Barry Slaff,1,0,3,88
+141,Jacqueline Growe,Chi Van Dang,1,0,3,89
+142,Christopher Selby,Dania Malik,1,0,4,5
+143,Christopher Selby,Hasimcan Oner,1,0,4,6
+144,Christopher Selby,Hande Asimgil,1,0,4,7
+145,Christopher Selby,Lauren Francey,3,0,4,8
+146,Christopher Selby,Aziz Sancar,39,0,4,9
+147,Christopher Selby,Warren Kruger,1,0,4,10
+148,Christopher Selby,John Hogenesch,4,0,4,11
+149,Christopher Selby,Aalim Weljie,3,0,4,12
+150,Christopher Selby,Ron Anafi,3,0,4,13
+151,Christopher Selby,Ibrahim Halil Kavakli,1,0,4,14
+152,Christopher Selby,Saikumari Krishnaiah,2,0,4,61
+153,Christopher Selby,Brian Altman,2,0,4,62
+154,Christopher Selby,Faith Coldren,2,0,4,63
+155,Christopher Selby,Anand Venkataraman,2,0,4,64
+156,Christopher Selby,Anthony Olarerin-George,2,0,4,65
+157,Christopher Selby,Sarmistha Mukherjee,2,0,4,66
+158,Christopher Selby,Saiveda Girish,2,0,4,67
+159,Christopher Selby,Sibel Cal,2,0,4,68
+160,Christopher Selby,Ubeydullah Er,2,0,4,69
+161,Christopher Selby,Bahareh Sianati,2,0,4,70
+162,Christopher Selby,Arjun Sengupta,2,0,4,71
+163,Christopher Selby,I Halil Kavakli,3,0,4,72
+164,Christopher Selby,Joseph Baur,2,0,4,73
+165,Christopher Selby,Chi Dang,2,0,4,32
+166,Dania Malik,Aalim Weljie,6,0,5,12
+167,Dania Malik,Hasimcan Oner,1,0,5,6
+168,Dania Malik,Hande Asimgil,1,0,5,7
+169,Dania Malik,Lauren Francey,1,0,5,8
+170,Dania Malik,Aziz Sancar,1,0,5,9
+171,Dania Malik,Warren Kruger,1,0,5,10
+172,Dania Malik,John Hogenesch,1,0,5,11
+173,Dania Malik,Ron Anafi,1,0,5,13
+174,Dania Malik,Ibrahim Halil Kavakli,1,0,5,14
+175,Dania Malik,Amita Sehgal,1,0,5,31
+176,Dania Malik,Pearl Lee,1,0,5,15
+177,Dania Malik,Nicholas Perkons,1,0,5,16
+178,Dania Malik,Peiwei Huangyang,1,0,5,17
+179,Dania Malik,Sanika Khare,1,0,5,18
+180,Dania Malik,Michelle Burrows,1,0,5,19
+181,Dania Malik,Jennifer Finan,1,0,5,20
+182,Dania Malik,Itzhak Nissim,1,0,5,21
+183,Dania Malik,M Celeste Simon,1,0,5,23
+184,Dania Malik,Emanuela Ricciotti,1,0,5,38
+185,Dania Malik,Cecilia Castro,1,0,5,39
+186,Dania Malik,Soon Yew Tang,1,0,5,40
+187,Dania Malik,James West,1,0,5,42
+188,Dania Malik,Xuanwen Li,1,0,5,43
+189,Dania Malik,Nicholas Lahens,1,0,5,44
+190,Dania Malik,Jeffrey Sparks,1,0,5,45
+191,Dania Malik,Elizabeth Karlson,1,0,5,46
+192,Dania Malik,Julian Griffin,1,0,5,47
+193,Dania Malik,Garret FitzGerald,1,0,5,48
+194,Hasimcan Oner,Hande Asimgil,1,0,6,7
+195,Hasimcan Oner,Lauren Francey,1,0,6,8
+196,Hasimcan Oner,Aziz Sancar,1,0,6,9
+197,Hasimcan Oner,Warren Kruger,1,0,6,10
+198,Hasimcan Oner,John Hogenesch,1,0,6,11
+199,Hasimcan Oner,Aalim Weljie,1,0,6,12
+200,Hasimcan Oner,Ron Anafi,1,0,6,13
+201,Hasimcan Oner,Ibrahim Halil Kavakli,2,0,6,14
+202,Hasimcan Oner,Sibel Cal,1,0,6,68
+203,Hande Asimgil,Ibrahim Halil Kavakli,3,0,7,14
+204,Hande Asimgil,Lauren Francey,1,0,7,8
+205,Hande Asimgil,Aziz Sancar,1,0,7,9
+206,Hande Asimgil,Warren Kruger,1,0,7,10
+207,Hande Asimgil,John Hogenesch,1,0,7,11
+208,Hande Asimgil,Aalim Weljie,1,0,7,12
+209,Hande Asimgil,Ron Anafi,1,0,7,13
+210,Lauren Francey,John Hogenesch,19,0,8,11
+211,Lauren Francey,Aziz Sancar,4,0,8,9
+212,Lauren Francey,Warren Kruger,1,0,8,10
+213,Lauren Francey,Aalim Weljie,3,0,8,12
+214,Lauren Francey,Ron Anafi,9,0,8,13
+215,Lauren Francey,Ibrahim Halil Kavakli,1,0,8,14
+216,Lauren Francey,Anand Venkataraman,4,0,8,64
+217,Lauren Francey,Amita Sehgal,3,0,8,31
+218,Lauren Francey,Jacob Hughey,2,0,8,33
+219,Lauren Francey,Saikumari Krishnaiah,2,0,8,61
+220,Lauren Francey,Brian Altman,2,0,8,62
+221,Lauren Francey,Faith Coldren,2,0,8,63
+222,Lauren Francey,Anthony Olarerin-George,2,0,8,65
+223,Lauren Francey,Sarmistha Mukherjee,2,0,8,66
+224,Lauren Francey,Saiveda Girish,2,0,8,67
+225,Lauren Francey,Sibel Cal,2,0,8,68
+226,Lauren Francey,Ubeydullah Er,2,0,8,69
+227,Lauren Francey,Bahareh Sianati,2,0,8,70
+228,Lauren Francey,Arjun Sengupta,2,0,8,71
+229,Lauren Francey,I Halil Kavakli,2,0,8,72
+230,Lauren Francey,Joseph Baur,2,0,8,73
+231,Lauren Francey,Chi Dang,2,0,8,32
+232,Lauren Francey,Garret FitzGerald,1,0,8,48
+233,Aziz Sancar,Warren Kruger,1,0,9,10
+234,Aziz Sancar,John Hogenesch,5,0,9,11
+235,Aziz Sancar,Aalim Weljie,3,0,9,12
+236,Aziz Sancar,Ron Anafi,4,0,9,13
+237,Aziz Sancar,Ibrahim Halil Kavakli,2,0,9,14
+238,Aziz Sancar,Garret FitzGerald,1,0,9,48
+239,Aziz Sancar,Jacob Hughey,1,0,9,33
+240,Aziz Sancar,Amita Sehgal,1,0,9,31
+241,Aziz Sancar,Saikumari Krishnaiah,2,0,9,61
+242,Aziz Sancar,Brian Altman,2,0,9,62
+243,Aziz Sancar,Faith Coldren,2,0,9,63
+244,Aziz Sancar,Anand Venkataraman,2,0,9,64
+245,Aziz Sancar,Anthony Olarerin-George,2,0,9,65
+246,Aziz Sancar,Sarmistha Mukherjee,2,0,9,66
+247,Aziz Sancar,Saiveda Girish,2,0,9,67
+248,Aziz Sancar,Sibel Cal,2,0,9,68
+249,Aziz Sancar,Ubeydullah Er,2,0,9,69
+250,Aziz Sancar,Bahareh Sianati,2,0,9,70
+251,Aziz Sancar,Arjun Sengupta,2,0,9,71
+252,Aziz Sancar,I Halil Kavakli,6,0,9,72
+253,Aziz Sancar,Joseph Baur,2,0,9,73
+254,Aziz Sancar,Chi Dang,2,0,9,32
+255,Warren Kruger,John Hogenesch,1,0,10,11
+256,Warren Kruger,Aalim Weljie,1,0,10,12
+257,Warren Kruger,Ron Anafi,1,0,10,13
+258,Warren Kruger,Ibrahim Halil Kavakli,1,0,10,14
+259,John Hogenesch,Aalim Weljie,5,0,11,12
+260,John Hogenesch,Ron Anafi,13,0,11,13
+261,John Hogenesch,Ibrahim Halil Kavakli,3,0,11,14
+262,John Hogenesch,Garret FitzGerald,5,0,11,48
+263,John Hogenesch,Anand Venkataraman,7,0,11,64
+264,John Hogenesch,Amita Sehgal,6,0,11,31
+265,John Hogenesch,Jacob Hughey,2,0,11,33
+266,John Hogenesch,Saikumari Krishnaiah,3,0,11,61
+267,John Hogenesch,Brian Altman,3,0,11,62
+268,John Hogenesch,Faith Coldren,2,0,11,63
+269,John Hogenesch,Anthony Olarerin-George,9,0,11,65
+270,John Hogenesch,Sarmistha Mukherjee,2,0,11,66
+271,John Hogenesch,Saiveda Girish,2,0,11,67
+272,John Hogenesch,Sibel Cal,2,0,11,68
+273,John Hogenesch,Ubeydullah Er,2,0,11,69
+274,John Hogenesch,Bahareh Sianati,2,0,11,70
+275,John Hogenesch,Arjun Sengupta,4,0,11,71
+276,John Hogenesch,I Halil Kavakli,2,0,11,72
+277,John Hogenesch,Joseph Baur,2,0,11,73
+278,John Hogenesch,Chi Dang,3,0,11,32
+279,John Hogenesch,Nicholas Lahens,9,0,11,44
+280,John Hogenesch,Eun Ji Kim,1,0,11,74
+281,John Hogenesch,Barry Slaff,1,0,11,88
+282,John Hogenesch,Chi Van Dang,1,0,11,89
+283,John Hogenesch,Annie Hsieh,1,0,11,24
+284,John Hogenesch,Zachary Stine,1,0,11,27
+285,John Hogenesch,M Celeste Simon,1,0,11,23
+286,John Hogenesch,Gregory Grant,5,0,11,60
+287,John Hogenesch,Guangrui Yang,1,0,11,57
+288,Aalim Weljie,Barry Slaff,3,0,12,88
+289,Aalim Weljie,Frederic Bushman,3,0,12,58
+290,Aalim Weljie,Ron Anafi,3,0,12,13
+291,Aalim Weljie,Ibrahim Halil Kavakli,1,0,12,14
+292,Aalim Weljie,Amita Sehgal,5,0,12,31
+293,Aalim Weljie,Peiwei Huangyang,3,0,12,17
+294,Aalim Weljie,Pearl Lee,3,0,12,15
+295,Aalim Weljie,Itzhak Nissim,3,0,12,21
+296,Aalim Weljie,Anthony Mancuso,3,0,12,28
+297,Aalim Weljie,M Celeste Simon,4,0,12,23
+298,Aalim Weljie,Arjun Sengupta,15,0,12,71
+299,Aalim Weljie,Saikumari Krishnaiah,6,0,12,61
+300,Aalim Weljie,Nicholas Perkons,1,0,12,16
+301,Aalim Weljie,Sanika Khare,1,0,12,18
+302,Aalim Weljie,Michelle Burrows,1,0,12,19
+303,Aalim Weljie,Jennifer Finan,1,0,12,20
+304,Aalim Weljie,Annie Hsieh,2,0,12,24
+305,Aalim Weljie,Xiangzhong Zheng,1,0,12,25
+306,Aalim Weljie,Zhifeng Yue,2,0,12,26
+307,Aalim Weljie,Zachary Stine,2,0,12,27
+308,Aalim Weljie,Rebekah Brooks,1,0,12,29
+309,Aalim Weljie,Robert Eisenman,1,0,12,30
+310,Aalim Weljie,Chi Dang,4,0,12,32
+311,Aalim Weljie,Emanuela Ricciotti,1,0,12,38
+312,Aalim Weljie,Cecilia Castro,1,0,12,39
+313,Aalim Weljie,Soon Yew Tang,1,0,12,40
+314,Aalim Weljie,James West,1,0,12,42
+315,Aalim Weljie,Xuanwen Li,1,0,12,43
+316,Aalim Weljie,Nicholas Lahens,2,0,12,44
+317,Aalim Weljie,Jeffrey Sparks,1,0,12,45
+318,Aalim Weljie,Elizabeth Karlson,1,0,12,46
+319,Aalim Weljie,Julian Griffin,1,0,12,47
+320,Aalim Weljie,Garret FitzGerald,2,0,12,48
+321,Aalim Weljie,Katrina Nayak,1,0,12,49
+322,Aalim Weljie,Shirley Zhang,1,0,12,50
+323,Aalim Weljie,Carsten Skarke,1,0,12,51
+324,Aalim Weljie,Amy Campbell,1,0,12,52
+325,Aalim Weljie,Kyle Bittinger,2,0,12,53
+326,Aalim Weljie,Aubrey Bailey,1,0,12,54
+327,Aalim Weljie,Christian Hoffmann,1,0,12,55
+328,Aalim Weljie,Randal Olson,1,0,12,56
+329,Aalim Weljie,Guangrui Yang,1,0,12,57
+330,Aalim Weljie,Casey Greene,1,0,12,59
+331,Aalim Weljie,Gregory Grant,2,0,12,60
+332,Aalim Weljie,Eun Ji Kim,1,0,12,74
+333,Aalim Weljie,Soumyashant Nayak,1,0,12,75
+334,Aalim Weljie,Peter Meerlo,2,0,12,76
+335,Aalim Weljie,Brian Altman,3,0,12,62
+336,Aalim Weljie,Faith Coldren,2,0,12,63
+337,Aalim Weljie,Anand Venkataraman,4,0,12,64
+338,Aalim Weljie,Anthony Olarerin-George,3,0,12,65
+339,Aalim Weljie,Sarmistha Mukherjee,2,0,12,66
+340,Aalim Weljie,Saiveda Girish,2,0,12,67
+341,Aalim Weljie,Sibel Cal,2,0,12,68
+342,Aalim Weljie,Ubeydullah Er,2,0,12,69
+343,Aalim Weljie,Bahareh Sianati,2,0,12,70
+344,Aalim Weljie,I Halil Kavakli,2,0,12,72
+345,Aalim Weljie,Joseph Baur,3,0,12,73
+346,Aalim Weljie,Sharanya Sivanand,1,0,12,77
+347,Aalim Weljie,Qinqin Jiang,1,0,12,78
+348,Aalim Weljie,Joyce Lee,2,0,12,79
+349,Aalim Weljie,Joseph Benci,1,0,12,80
+350,Aalim Weljie,Salina Yuan,1,0,12,81
+351,Aalim Weljie,Isabella Viney,1,0,12,82
+352,Aalim Weljie,Steven Zhao,2,0,12,83
+353,Aalim Weljie,Alessandro Carrer,2,0,12,84
+354,Aalim Weljie,Andy Minn,1,0,12,85
+355,Aalim Weljie,Roger Greenberg,1,0,12,86
+356,Aalim Weljie,Kathryn Wellen,2,0,12,87
+357,Aalim Weljie,Chi Van Dang,1,0,12,89
+358,Aalim Weljie,Sarah Maguire,1,0,12,90
+359,Aalim Weljie,Jason Lim,1,0,12,91
+360,Aalim Weljie,Claire Mitchell,1,0,12,92
+361,Ron Anafi,Ibrahim Halil Kavakli,1,0,13,14
+362,Ron Anafi,Jacob Hughey,2,0,13,33
+363,Ron Anafi,Anand Venkataraman,5,0,13,64
+364,Ron Anafi,Garret FitzGerald,1,0,13,48
+365,Ron Anafi,Amita Sehgal,1,0,13,31
+366,Ron Anafi,Saikumari Krishnaiah,2,0,13,61
+367,Ron Anafi,Brian Altman,2,0,13,62
+368,Ron Anafi,Faith Coldren,2,0,13,63
+369,Ron Anafi,Anthony Olarerin-George,2,0,13,65
+370,Ron Anafi,Sarmistha Mukherjee,2,0,13,66
+371,Ron Anafi,Saiveda Girish,2,0,13,67
+372,Ron Anafi,Sibel Cal,2,0,13,68
+373,Ron Anafi,Ubeydullah Er,2,0,13,69
+374,Ron Anafi,Bahareh Sianati,2,0,13,70
+375,Ron Anafi,Arjun Sengupta,2,0,13,71
+376,Ron Anafi,I Halil Kavakli,2,0,13,72
+377,Ron Anafi,Joseph Baur,2,0,13,73
+378,Ron Anafi,Chi Dang,2,0,13,32
+379,Ibrahim Halil Kavakli,Sibel Cal,1,0,14,68
+380,Ibrahim Halil Kavakli,Nicholas Lahens,1,0,14,44
+381,Ibrahim Halil Kavakli,Gregory Grant,1,0,14,60
+382,Pearl Lee,Peiwei Huangyang,4,0,15,17
+383,Pearl Lee,Michelle Burrows,2,0,15,19
+384,Pearl Lee,M Celeste Simon,6,0,15,23
+385,Pearl Lee,Itzhak Nissim,4,0,15,21
+386,Pearl Lee,Anthony Mancuso,2,0,15,28
+387,Pearl Lee,Nicholas Perkons,1,0,15,16
+388,Pearl Lee,Sanika Khare,2,0,15,18
+389,Pearl Lee,Jennifer Finan,1,0,15,20
+390,Nicholas Perkons,Terence Gade,6,0,16,22
+391,Nicholas Perkons,Anthony Mancuso,1,0,16,28
+392,Nicholas Perkons,Peiwei Huangyang,1,0,16,17
+393,Nicholas Perkons,Sanika Khare,1,0,16,18
+394,Nicholas Perkons,Michelle Burrows,1,0,16,19
+395,Nicholas Perkons,Jennifer Finan,1,0,16,20
+396,Nicholas Perkons,Itzhak Nissim,1,0,16,21
+397,Nicholas Perkons,M Celeste Simon,1,0,16,23
+398,Peiwei Huangyang,Michelle Burrows,2,0,17,19
+399,Peiwei Huangyang,M Celeste Simon,6,0,17,23
+400,Peiwei Huangyang,Itzhak Nissim,3,0,17,21
+401,Peiwei Huangyang,Anthony Mancuso,2,0,17,28
+402,Peiwei Huangyang,Sanika Khare,1,0,17,18
+403,Peiwei Huangyang,Jennifer Finan,1,0,17,20
+404,Sanika Khare,Michelle Burrows,1,0,18,19
+405,Sanika Khare,Jennifer Finan,1,0,18,20
+406,Sanika Khare,Itzhak Nissim,2,0,18,21
+407,Sanika Khare,M Celeste Simon,2,0,18,23
+408,Sanika Khare,Roger Greenberg,1,0,18,86
+409,Michelle Burrows,M Celeste Simon,2,0,19,23
+410,Michelle Burrows,Jennifer Finan,1,0,19,20
+411,Michelle Burrows,Itzhak Nissim,1,0,19,21
+412,Jennifer Finan,Itzhak Nissim,1,0,20,21
+413,Jennifer Finan,M Celeste Simon,1,0,20,23
+414,Itzhak Nissim,M Celeste Simon,6,0,21,23
+415,Itzhak Nissim,Anthony Mancuso,3,0,21,28
+416,Itzhak Nissim,Kathryn Wellen,1,0,21,87
+417,Terence Gade,Joseph Baur,1,0,22,73
+418,Terence Gade,Steven Zhao,1,0,22,83
+419,Terence Gade,Alessandro Carrer,1,0,22,84
+420,Terence Gade,Kathryn Wellen,1,0,22,87
+421,M Celeste Simon,Anthony Mancuso,5,0,23,28
+422,M Celeste Simon,Garret FitzGerald,1,0,23,48
+423,M Celeste Simon,Chi Dang,2,0,23,32
+424,M Celeste Simon,Brian Altman,1,0,23,62
+425,M Celeste Simon,Annie Hsieh,1,0,23,24
+426,M Celeste Simon,Arjun Sengupta,1,0,23,71
+427,M Celeste Simon,Zachary Stine,1,0,23,27
+428,M Celeste Simon,Anand Venkataraman,1,0,23,64
+429,M Celeste Simon,Sharanya Sivanand,1,0,23,77
+430,M Celeste Simon,Andy Minn,1,0,23,85
+431,M Celeste Simon,Roger Greenberg,1,0,23,86
+432,Annie Hsieh,Xiangzhong Zheng,1,0,24,25
+433,Annie Hsieh,Zhifeng Yue,1,0,24,26
+434,Annie Hsieh,Zachary Stine,6,0,24,27
+435,Annie Hsieh,Anthony Mancuso,3,0,24,28
+436,Annie Hsieh,Rebekah Brooks,1,0,24,29
+437,Annie Hsieh,Robert Eisenman,1,0,24,30
+438,Annie Hsieh,Amita Sehgal,1,0,24,31
+439,Annie Hsieh,Chi Dang,7,0,24,32
+440,Annie Hsieh,Brian Altman,6,0,24,62
+441,Annie Hsieh,Arjun Sengupta,1,0,24,71
+442,Annie Hsieh,Anand Venkataraman,1,0,24,64
+443,Xiangzhong Zheng,Amita Sehgal,20,0,25,31
+444,Xiangzhong Zheng,Zhifeng Yue,3,0,25,26
+445,Xiangzhong Zheng,Zachary Stine,1,0,25,27
+446,Xiangzhong Zheng,Anthony Mancuso,1,0,25,28
+447,Xiangzhong Zheng,Rebekah Brooks,1,0,25,29
+448,Xiangzhong Zheng,Robert Eisenman,1,0,25,30
+449,Xiangzhong Zheng,Chi Dang,1,0,25,32
+450,Zhifeng Yue,Shirley Zhang,2,0,26,50
+451,Zhifeng Yue,Nicholas Lahens,1,0,26,44
+452,Zhifeng Yue,Amita Sehgal,14,0,26,31
+453,Zhifeng Yue,Zachary Stine,1,0,26,27
+454,Zhifeng Yue,Anthony Mancuso,1,0,26,28
+455,Zhifeng Yue,Rebekah Brooks,1,0,26,29
+456,Zhifeng Yue,Robert Eisenman,1,0,26,30
+457,Zhifeng Yue,Chi Dang,1,0,26,32
+458,Zhifeng Yue,Sarah Maguire,1,0,26,90
+459,Zhifeng Yue,Arjun Sengupta,1,0,26,71
+460,Zhifeng Yue,Jason Lim,1,0,26,91
+461,Zhifeng Yue,Claire Mitchell,1,0,26,92
+462,Zachary Stine,Chi Dang,14,0,27,32
+463,Zachary Stine,Anthony Mancuso,3,0,27,28
+464,Zachary Stine,Rebekah Brooks,1,0,27,29
+465,Zachary Stine,Robert Eisenman,1,0,27,30
+466,Zachary Stine,Amita Sehgal,1,0,27,31
+467,Zachary Stine,Brian Altman,8,0,27,62
+468,Zachary Stine,Arjun Sengupta,1,0,27,71
+469,Zachary Stine,Anand Venkataraman,1,0,27,64
+470,Anthony Mancuso,Rebekah Brooks,1,0,28,29
+471,Anthony Mancuso,Robert Eisenman,1,0,28,30
+472,Anthony Mancuso,Amita Sehgal,1,0,28,31
+473,Anthony Mancuso,Chi Dang,4,0,28,32
+474,Anthony Mancuso,Brian Altman,2,0,28,62
+475,Anthony Mancuso,Kathryn Wellen,3,0,28,87
+476,Anthony Mancuso,Andy Minn,1,0,28,85
+477,Rebekah Brooks,Shirley Zhang,1,0,29,50
+478,Rebekah Brooks,Nicholas Lahens,1,0,29,44
+479,Rebekah Brooks,Amita Sehgal,2,0,29,31
+480,Rebekah Brooks,Robert Eisenman,1,0,29,30
+481,Rebekah Brooks,Chi Dang,4,0,29,32
+482,Robert Eisenman,Amita Sehgal,1,0,30,31
+483,Robert Eisenman,Chi Dang,1,0,30,32
+484,Amita Sehgal,Shirley Zhang,8,0,31,50
+485,Amita Sehgal,Nicholas Lahens,5,0,31,44
+486,Amita Sehgal,Garret FitzGerald,2,0,31,48
+487,Amita Sehgal,Chi Dang,1,0,31,32
+488,Amita Sehgal,Soumyashant Nayak,1,0,31,75
+489,Amita Sehgal,Gregory Grant,1,0,31,60
+490,Amita Sehgal,Jacob Hughey,1,0,31,33
+491,Amita Sehgal,Katrina Nayak,1,0,31,49
+492,Amita Sehgal,Aubrey Bailey,1,0,31,54
+493,Amita Sehgal,Frederic Bushman,1,0,31,58
+494,Amita Sehgal,Peter Meerlo,2,0,31,76
+495,Amita Sehgal,Sarah Maguire,3,0,31,90
+496,Amita Sehgal,Arjun Sengupta,2,0,31,71
+497,Amita Sehgal,Jason Lim,1,0,31,91
+498,Amita Sehgal,Claire Mitchell,1,0,31,92
+499,Chi Dang,Brian Altman,15,0,32,62
+500,Chi Dang,Saikumari Krishnaiah,2,0,32,61
+501,Chi Dang,Faith Coldren,2,0,32,63
+502,Chi Dang,Anand Venkataraman,3,0,32,64
+503,Chi Dang,Anthony Olarerin-George,2,0,32,65
+504,Chi Dang,Sarmistha Mukherjee,2,0,32,66
+505,Chi Dang,Saiveda Girish,2,0,32,67
+506,Chi Dang,Sibel Cal,2,0,32,68
+507,Chi Dang,Ubeydullah Er,2,0,32,69
+508,Chi Dang,Bahareh Sianati,2,0,32,70
+509,Chi Dang,Arjun Sengupta,3,0,32,71
+510,Chi Dang,I Halil Kavakli,2,0,32,72
+511,Chi Dang,Joseph Baur,2,0,32,73
+512,Jacob Hughey,Darwin Fu,3,0,33,34
+513,Jacob Hughey,Lisa Bastarache,4,0,33,35
+514,Jacob Hughey,Joshua Denny,4,0,33,36
+515,Jacob Hughey,Qingxia Chen,1,0,33,37
+516,Jacob Hughey,Garret FitzGerald,1,0,33,48
+517,Darwin Fu,Lisa Bastarache,1,0,34,35
+518,Darwin Fu,Joshua Denny,1,0,34,36
+519,Darwin Fu,Qingxia Chen,1,0,34,37
+520,Lisa Bastarache,Joshua Denny,52,0,35,36
+521,Lisa Bastarache,Qingxia Chen,2,0,35,37
+522,Lisa Bastarache,Elizabeth Karlson,1,0,35,46
+523,Joshua Denny,Elizabeth Karlson,10,0,36,46
+524,Joshua Denny,Qingxia Chen,9,0,36,37
+525,Joshua Denny,Kyle Bittinger,1,0,36,53
+526,Emanuela Ricciotti,Garret FitzGerald,23,0,38,48
+527,Emanuela Ricciotti,Soon Yew Tang,4,0,38,40
+528,Emanuela Ricciotti,Nicholas Lahens,3,0,38,44
+529,Emanuela Ricciotti,Gregory Grant,6,0,38,60
+530,Emanuela Ricciotti,Cecilia Castro,1,0,38,39
+531,Emanuela Ricciotti,James West,1,0,38,42
+532,Emanuela Ricciotti,Xuanwen Li,2,0,38,43
+533,Emanuela Ricciotti,Jeffrey Sparks,1,0,38,45
+534,Emanuela Ricciotti,Elizabeth Karlson,1,0,38,46
+535,Emanuela Ricciotti,Julian Griffin,1,0,38,47
+536,Emanuela Ricciotti,Eun Ji Kim,1,0,38,74
+537,Emanuela Ricciotti,Casey Greene,1,0,38,59
+538,Cecilia Castro,Julian Griffin,16,0,39,47
+539,Cecilia Castro,James West,2,0,39,42
+540,Cecilia Castro,Soon Yew Tang,1,0,39,40
+541,Cecilia Castro,Xuanwen Li,1,0,39,43
+542,Cecilia Castro,Nicholas Lahens,1,0,39,44
+543,Cecilia Castro,Jeffrey Sparks,1,0,39,45
+544,Cecilia Castro,Elizabeth Karlson,1,0,39,46
+545,Cecilia Castro,Garret FitzGerald,1,0,39,48
+546,Soon Yew Tang,Guangrui Yang,3,0,40,57
+547,Soon Yew Tang,Garret FitzGerald,9,0,40,48
+548,Soon Yew Tang,Nicholas Lahens,2,0,40,44
+549,Soon Yew Tang,Gregory Grant,3,0,40,60
+550,Soon Yew Tang,James West,1,0,40,42
+551,Soon Yew Tang,Xuanwen Li,2,0,40,43
+552,Soon Yew Tang,Jeffrey Sparks,1,0,40,45
+553,Soon Yew Tang,Elizabeth Karlson,1,0,40,46
+554,Soon Yew Tang,Julian Griffin,1,0,40,47
+555,James West,Julian Griffin,30,0,42,47
+556,James West,Xuanwen Li,1,0,42,43
+557,James West,Nicholas Lahens,1,0,42,44
+558,James West,Jeffrey Sparks,1,0,42,45
+559,James West,Elizabeth Karlson,1,0,42,46
+560,James West,Garret FitzGerald,1,0,42,48
+561,Xuanwen Li,Nicholas Lahens,2,0,43,44
+562,Xuanwen Li,Gregory Grant,3,0,43,60
+563,Xuanwen Li,Garret FitzGerald,9,0,43,48
+564,Xuanwen Li,Guangrui Yang,1,0,43,57
+565,Xuanwen Li,Jeffrey Sparks,1,0,43,45
+566,Xuanwen Li,Elizabeth Karlson,1,0,43,46
+567,Xuanwen Li,Julian Griffin,1,0,43,47
+568,Xuanwen Li,Kyle Bittinger,1,0,43,53
+569,Xuanwen Li,Frederic Bushman,1,0,43,58
+570,Xuanwen Li,Carsten Skarke,1,0,43,51
+571,Nicholas Lahens,Shirley Zhang,3,0,44,50
+572,Nicholas Lahens,Garret FitzGerald,5,0,44,48
+573,Nicholas Lahens,Gregory Grant,9,0,44,60
+574,Nicholas Lahens,Jeffrey Sparks,1,0,44,45
+575,Nicholas Lahens,Elizabeth Karlson,1,0,44,46
+576,Nicholas Lahens,Julian Griffin,1,0,44,47
+577,Nicholas Lahens,Eun Ji Kim,2,0,44,74
+578,Nicholas Lahens,Carsten Skarke,1,0,44,51
+579,Nicholas Lahens,Amy Campbell,1,0,44,52
+580,Nicholas Lahens,Kyle Bittinger,1,0,44,53
+581,Nicholas Lahens,Aubrey Bailey,1,0,44,54
+582,Nicholas Lahens,Christian Hoffmann,1,0,44,55
+583,Nicholas Lahens,Randal Olson,1,0,44,56
+584,Nicholas Lahens,Guangrui Yang,1,0,44,57
+585,Nicholas Lahens,Frederic Bushman,1,0,44,58
+586,Nicholas Lahens,Casey Greene,1,0,44,59
+587,Jeffrey Sparks,Elizabeth Karlson,49,0,45,46
+588,Jeffrey Sparks,Julian Griffin,1,0,45,47
+589,Jeffrey Sparks,Garret FitzGerald,1,0,45,48
+590,Elizabeth Karlson,Julian Griffin,1,0,46,47
+591,Elizabeth Karlson,Garret FitzGerald,1,0,46,48
+592,Julian Griffin,Garret FitzGerald,1,0,47,48
+593,Julian Griffin,Gregory Grant,1,0,47,60
+594,Garret FitzGerald,Guangrui Yang,11,0,48,57
+595,Garret FitzGerald,Gregory Grant,13,0,48,60
+596,Garret FitzGerald,Carsten Skarke,8,0,48,51
+597,Garret FitzGerald,Soumyashant Nayak,1,0,48,75
+598,Garret FitzGerald,Shirley Zhang,1,0,48,50
+599,Garret FitzGerald,Kyle Bittinger,3,0,48,53
+600,Garret FitzGerald,Amy Campbell,1,0,48,52
+601,Garret FitzGerald,Aubrey Bailey,1,0,48,54
+602,Garret FitzGerald,Christian Hoffmann,1,0,48,55
+603,Garret FitzGerald,Randal Olson,1,0,48,56
+604,Garret FitzGerald,Frederic Bushman,4,0,48,58
+605,Garret FitzGerald,Casey Greene,2,0,48,59
+606,Garret FitzGerald,Eun Ji Kim,1,0,48,74
+607,Katrina Nayak,Shirley Zhang,1,0,49,50
+608,Shirley Zhang,Soumyashant Nayak,1,0,50,75
+609,Shirley Zhang,Gregory Grant,1,0,50,60
+610,Shirley Zhang,Aubrey Bailey,1,0,50,54
+611,Shirley Zhang,Frederic Bushman,1,0,50,58
+612,Shirley Zhang,Peter Meerlo,1,0,50,76
+613,Carsten Skarke,Amy Campbell,1,0,51,52
+614,Carsten Skarke,Kyle Bittinger,1,0,51,53
+615,Carsten Skarke,Aubrey Bailey,1,0,51,54
+616,Carsten Skarke,Christian Hoffmann,1,0,51,55
+617,Carsten Skarke,Randal Olson,1,0,51,56
+618,Carsten Skarke,Guangrui Yang,1,0,51,57
+619,Carsten Skarke,Frederic Bushman,1,0,51,58
+620,Carsten Skarke,Casey Greene,1,0,51,59
+621,Carsten Skarke,Gregory Grant,1,0,51,60
+622,Amy Campbell,Kyle Bittinger,1,0,52,53
+623,Amy Campbell,Aubrey Bailey,1,0,52,54
+624,Amy Campbell,Christian Hoffmann,1,0,52,55
+625,Amy Campbell,Randal Olson,1,0,52,56
+626,Amy Campbell,Guangrui Yang,1,0,52,57
+627,Amy Campbell,Frederic Bushman,1,0,52,58
+628,Amy Campbell,Casey Greene,1,0,52,59
+629,Amy Campbell,Gregory Grant,1,0,52,60
+630,Kyle Bittinger,Frederic Bushman,52,0,53,58
+631,Kyle Bittinger,Aubrey Bailey,12,0,53,54
+632,Kyle Bittinger,Christian Hoffmann,9,0,53,55
+633,Kyle Bittinger,Randal Olson,1,0,53,56
+634,Kyle Bittinger,Guangrui Yang,1,0,53,57
+635,Kyle Bittinger,Casey Greene,1,0,53,59
+636,Kyle Bittinger,Gregory Grant,1,0,53,60
+637,Aubrey Bailey,Frederic Bushman,19,0,54,58
+638,Aubrey Bailey,Christian Hoffmann,3,0,54,55
+639,Aubrey Bailey,Randal Olson,1,0,54,56
+640,Aubrey Bailey,Guangrui Yang,1,0,54,57
+641,Aubrey Bailey,Casey Greene,1,0,54,59
+642,Aubrey Bailey,Gregory Grant,1,0,54,60
+643,Aubrey Bailey,Peter Meerlo,1,0,54,76
+644,Christian Hoffmann,Randal Olson,1,0,55,56
+645,Christian Hoffmann,Guangrui Yang,1,0,55,57
+646,Christian Hoffmann,Frederic Bushman,20,0,55,58
+647,Christian Hoffmann,Casey Greene,1,0,55,59
+648,Christian Hoffmann,Gregory Grant,1,0,55,60
+649,Randal Olson,Guangrui Yang,1,0,56,57
+650,Randal Olson,Frederic Bushman,1,0,56,58
+651,Randal Olson,Casey Greene,1,0,56,59
+652,Randal Olson,Gregory Grant,1,0,56,60
+653,Guangrui Yang,Frederic Bushman,1,0,57,58
+654,Guangrui Yang,Casey Greene,1,0,57,59
+655,Guangrui Yang,Gregory Grant,4,0,57,60
+656,Frederic Bushman,Barry Slaff,1,0,58,88
+657,Frederic Bushman,Casey Greene,1,0,58,59
+658,Frederic Bushman,Gregory Grant,1,0,58,60
+659,Frederic Bushman,Peter Meerlo,1,0,58,76
+660,Casey Greene,Gregory Grant,1,0,59,60
+661,Gregory Grant,Eun Ji Kim,9,0,60,74
+662,Gregory Grant,Soumyashant Nayak,4,0,60,75
+663,Gregory Grant,Arjun Sengupta,1,0,60,71
+664,Gregory Grant,Peter Meerlo,1,0,60,76
+665,Saikumari Krishnaiah,Arjun Sengupta,4,0,61,71
+666,Saikumari Krishnaiah,Brian Altman,2,0,61,62
+667,Saikumari Krishnaiah,Faith Coldren,2,0,61,63
+668,Saikumari Krishnaiah,Anand Venkataraman,3,0,61,64
+669,Saikumari Krishnaiah,Anthony Olarerin-George,3,0,61,65
+670,Saikumari Krishnaiah,Sarmistha Mukherjee,2,0,61,66
+671,Saikumari Krishnaiah,Saiveda Girish,2,0,61,67
+672,Saikumari Krishnaiah,Sibel Cal,2,0,61,68
+673,Saikumari Krishnaiah,Ubeydullah Er,2,0,61,69
+674,Saikumari Krishnaiah,Bahareh Sianati,2,0,61,70
+675,Saikumari Krishnaiah,I Halil Kavakli,2,0,61,72
+676,Saikumari Krishnaiah,Joseph Baur,3,0,61,73
+677,Saikumari Krishnaiah,Barry Slaff,1,0,61,88
+678,Saikumari Krishnaiah,Chi Van Dang,1,0,61,89
+679,Brian Altman,Faith Coldren,2,0,62,63
+680,Brian Altman,Anand Venkataraman,3,0,62,64
+681,Brian Altman,Anthony Olarerin-George,2,0,62,65
+682,Brian Altman,Sarmistha Mukherjee,2,0,62,66
+683,Brian Altman,Saiveda Girish,2,0,62,67
+684,Brian Altman,Sibel Cal,2,0,62,68
+685,Brian Altman,Ubeydullah Er,2,0,62,69
+686,Brian Altman,Bahareh Sianati,2,0,62,70
+687,Brian Altman,Arjun Sengupta,3,0,62,71
+688,Brian Altman,I Halil Kavakli,2,0,62,72
+689,Brian Altman,Joseph Baur,2,0,62,73
+690,Faith Coldren,Anand Venkataraman,2,0,63,64
+691,Faith Coldren,Anthony Olarerin-George,2,0,63,65
+692,Faith Coldren,Sarmistha Mukherjee,2,0,63,66
+693,Faith Coldren,Saiveda Girish,2,0,63,67
+694,Faith Coldren,Sibel Cal,2,0,63,68
+695,Faith Coldren,Ubeydullah Er,2,0,63,69
+696,Faith Coldren,Bahareh Sianati,2,0,63,70
+697,Faith Coldren,Arjun Sengupta,2,0,63,71
+698,Faith Coldren,I Halil Kavakli,2,0,63,72
+699,Faith Coldren,Joseph Baur,2,0,63,73
+700,Anand Venkataraman,Arjun Sengupta,4,0,64,71
+701,Anand Venkataraman,Barry Slaff,1,0,64,88
+702,Anand Venkataraman,Anthony Olarerin-George,3,0,64,65
+703,Anand Venkataraman,Chi Van Dang,1,0,64,89
+704,Anand Venkataraman,Sarmistha Mukherjee,2,0,64,66
+705,Anand Venkataraman,Saiveda Girish,2,0,64,67
+706,Anand Venkataraman,Sibel Cal,2,0,64,68
+707,Anand Venkataraman,Ubeydullah Er,2,0,64,69
+708,Anand Venkataraman,Bahareh Sianati,2,0,64,70
+709,Anand Venkataraman,I Halil Kavakli,2,0,64,72
+710,Anand Venkataraman,Joseph Baur,2,0,64,73
+711,Anthony Olarerin-George,Sarmistha Mukherjee,2,0,65,66
+712,Anthony Olarerin-George,Saiveda Girish,2,0,65,67
+713,Anthony Olarerin-George,Sibel Cal,2,0,65,68
+714,Anthony Olarerin-George,Ubeydullah Er,2,0,65,69
+715,Anthony Olarerin-George,Bahareh Sianati,2,0,65,70
+716,Anthony Olarerin-George,Arjun Sengupta,3,0,65,71
+717,Anthony Olarerin-George,I Halil Kavakli,2,0,65,72
+718,Anthony Olarerin-George,Joseph Baur,2,0,65,73
+719,Anthony Olarerin-George,Barry Slaff,1,0,65,88
+720,Anthony Olarerin-George,Chi Van Dang,1,0,65,89
+721,Sarmistha Mukherjee,Joseph Baur,10,0,66,73
+722,Sarmistha Mukherjee,Saiveda Girish,2,0,66,67
+723,Sarmistha Mukherjee,Sibel Cal,2,0,66,68
+724,Sarmistha Mukherjee,Ubeydullah Er,2,0,66,69
+725,Sarmistha Mukherjee,Bahareh Sianati,2,0,66,70
+726,Sarmistha Mukherjee,Arjun Sengupta,2,0,66,71
+727,Sarmistha Mukherjee,I Halil Kavakli,2,0,66,72
+728,Saiveda Girish,Sibel Cal,2,0,67,68
+729,Saiveda Girish,Ubeydullah Er,2,0,67,69
+730,Saiveda Girish,Bahareh Sianati,2,0,67,70
+731,Saiveda Girish,Arjun Sengupta,2,0,67,71
+732,Saiveda Girish,I Halil Kavakli,2,0,67,72
+733,Saiveda Girish,Joseph Baur,2,0,67,73
+734,Sibel Cal,Ubeydullah Er,2,0,68,69
+735,Sibel Cal,Bahareh Sianati,2,0,68,70
+736,Sibel Cal,Arjun Sengupta,2,0,68,71
+737,Sibel Cal,I Halil Kavakli,2,0,68,72
+738,Sibel Cal,Joseph Baur,2,0,68,73
+739,Ubeydullah Er,Bahareh Sianati,2,0,69,70
+740,Ubeydullah Er,Arjun Sengupta,2,0,69,71
+741,Ubeydullah Er,I Halil Kavakli,2,0,69,72
+742,Ubeydullah Er,Joseph Baur,2,0,69,73
+743,Bahareh Sianati,Arjun Sengupta,2,0,70,71
+744,Bahareh Sianati,I Halil Kavakli,2,0,70,72
+745,Bahareh Sianati,Joseph Baur,2,0,70,73
+746,Arjun Sengupta,Eun Ji Kim,1,0,71,74
+747,Arjun Sengupta,Soumyashant Nayak,1,0,71,75
+748,Arjun Sengupta,Peter Meerlo,2,0,71,76
+749,Arjun Sengupta,I Halil Kavakli,2,0,71,72
+750,Arjun Sengupta,Joseph Baur,2,0,71,73
+751,Arjun Sengupta,Steven Zhao,1,0,71,83
+752,Arjun Sengupta,Joyce Lee,1,0,71,79
+753,Arjun Sengupta,Alessandro Carrer,1,0,71,84
+754,Arjun Sengupta,Kathryn Wellen,1,0,71,87
+755,Arjun Sengupta,Barry Slaff,1,0,71,88
+756,Arjun Sengupta,Chi Van Dang,1,0,71,89
+757,Arjun Sengupta,Sarah Maguire,1,0,71,90
+758,Arjun Sengupta,Jason Lim,1,0,71,91
+759,Arjun Sengupta,Claire Mitchell,1,0,71,92
+760,I Halil Kavakli,Joseph Baur,2,0,72,73
+761,Joseph Baur,Joyce Lee,1,0,73,79
+762,Joseph Baur,Kathryn Wellen,1,0,73,87
+763,Eun Ji Kim,Soumyashant Nayak,1,0,74,75
+764,Eun Ji Kim,Peter Meerlo,1,0,74,76
+765,Soumyashant Nayak,Peter Meerlo,1,0,75,76
+766,Sharanya Sivanand,Alessandro Carrer,2,0,77,84
+767,Sharanya Sivanand,Steven Zhao,2,0,77,83
+768,Sharanya Sivanand,Kathryn Wellen,7,0,77,87
+769,Sharanya Sivanand,Isabella Viney,2,0,77,82
+770,Sharanya Sivanand,Qinqin Jiang,1,0,77,78
+771,Sharanya Sivanand,Joyce Lee,2,0,77,79
+772,Sharanya Sivanand,Joseph Benci,1,0,77,80
+773,Sharanya Sivanand,Salina Yuan,1,0,77,81
+774,Sharanya Sivanand,Andy Minn,1,0,77,85
+775,Sharanya Sivanand,Roger Greenberg,1,0,77,86
+776,Qinqin Jiang,Roger Greenberg,6,0,78,86
+777,Qinqin Jiang,Joyce Lee,1,0,78,79
+778,Qinqin Jiang,Joseph Benci,1,0,78,80
+779,Qinqin Jiang,Salina Yuan,1,0,78,81
+780,Qinqin Jiang,Isabella Viney,1,0,78,82
+781,Qinqin Jiang,Steven Zhao,1,0,78,83
+782,Qinqin Jiang,Alessandro Carrer,1,0,78,84
+783,Qinqin Jiang,Andy Minn,1,0,78,85
+784,Qinqin Jiang,Kathryn Wellen,1,0,78,87
+785,Joyce Lee,Kathryn Wellen,7,0,79,87
+786,Joyce Lee,Alessandro Carrer,4,0,79,84
+787,Joyce Lee,Steven Zhao,3,0,79,83
+788,Joyce Lee,Joseph Benci,1,0,79,80
+789,Joyce Lee,Salina Yuan,1,0,79,81
+790,Joyce Lee,Isabella Viney,1,0,79,82
+791,Joyce Lee,Andy Minn,1,0,79,85
+792,Joyce Lee,Roger Greenberg,1,0,79,86
+793,Joseph Benci,Andy Minn,8,0,80,85
+794,Joseph Benci,Roger Greenberg,3,0,80,86
+795,Joseph Benci,Salina Yuan,1,0,80,81
+796,Joseph Benci,Isabella Viney,1,0,80,82
+797,Joseph Benci,Steven Zhao,1,0,80,83
+798,Joseph Benci,Alessandro Carrer,1,0,80,84
+799,Joseph Benci,Kathryn Wellen,1,0,80,87
+800,Salina Yuan,Isabella Viney,1,0,81,82
+801,Salina Yuan,Steven Zhao,1,0,81,83
+802,Salina Yuan,Alessandro Carrer,1,0,81,84
+803,Salina Yuan,Andy Minn,1,0,81,85
+804,Salina Yuan,Roger Greenberg,1,0,81,86
+805,Salina Yuan,Kathryn Wellen,1,0,81,87
+806,Isabella Viney,Kathryn Wellen,2,0,82,87
+807,Isabella Viney,Steven Zhao,1,0,82,83
+808,Isabella Viney,Alessandro Carrer,1,0,82,84
+809,Isabella Viney,Andy Minn,1,0,82,85
+810,Isabella Viney,Roger Greenberg,1,0,82,86
+811,Steven Zhao,Alessandro Carrer,5,0,83,84
+812,Steven Zhao,Kathryn Wellen,8,0,83,87
+813,Steven Zhao,Andy Minn,1,0,83,85
+814,Steven Zhao,Roger Greenberg,1,0,83,86
+815,Alessandro Carrer,Kathryn Wellen,9,0,84,87
+816,Alessandro Carrer,Andy Minn,1,0,84,85
+817,Alessandro Carrer,Roger Greenberg,1,0,84,86
+818,Andy Minn,Roger Greenberg,3,0,85,86
+819,Andy Minn,Kathryn Wellen,1,0,85,87
+820,Roger Greenberg,Kathryn Wellen,1,0,86,87
+821,Barry Slaff,Chi Van Dang,1,0,88,89
+822,Sarah Maguire,Jason Lim,1,0,90,91
+823,Sarah Maguire,Claire Mitchell,1,0,90,92
+824,Jason Lim,Claire Mitchell,16,0,91,92

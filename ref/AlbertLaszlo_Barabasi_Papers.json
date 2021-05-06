@@ -1,0 +1,5080 @@
+{
+    "First author": 12,
+    "Last author": 88,
+    "Coauthors": {
+        "Morselli Gysi, Deisy": [
+            "33906951"
+        ],
+        "do Valle, Italo": [
+            "33906951"
+        ],
+        "Zitnik, Marinka": [
+            "33906951",
+            "32550253"
+        ],
+        "Ameli, Asher": [
+            "33906951",
+            "32550253"
+        ],
+        "Gan, Xiao": [
+            "33906951",
+            "32550253"
+        ],
+        "Varol, Onur": [
+            "33906951",
+            "31695218",
+            "32550253"
+        ],
+        "Ghiassian, Susan Dina": [
+            "27748412",
+            "25853560",
+            "25586491",
+            "33906951",
+            "25700523",
+            "27278246"
+        ],
+        "Patten, J": [
+            "33906951"
+        ],
+        "Davey, Robert": [
+            "33906951"
+        ],
+        "Loscalzo, Joseph": [
+            "27748412",
+            "21164525",
+            "32320696",
+            "17625512",
+            "32550253",
+            "30002366",
+            "22371328",
+            "33906951",
+            "25700523",
+            "27278246",
+            "33247093",
+            "29977601",
+            "32868765"
+        ],
+        "Nanni, Mirco": [
+            "33551673"
+        ],
+        "Andrienko, Gennady": [
+            "33551673"
+        ],
+        "Boldrini, Chiara": [
+            "33551673"
+        ],
+        "Bonchi, Francesco": [
+            "33551673"
+        ],
+        "Cattuto, Ciro": [
+            "33551673"
+        ],
+        "Chiaromonte, Francesca": [
+            "33551673"
+        ],
+        "Comande, Giovanni": [
+            "33551673"
+        ],
+        "Conti, Marco": [
+            "33551673"
+        ],
+        "Cote, Mark": [
+            "33551673"
+        ],
+        "Dignum, Frank": [
+            "33551673"
+        ],
+        "Dignum, Virginia": [
+            "33551673"
+        ],
+        "Domingo-Ferrer, Josep": [
+            "33551673"
+        ],
+        "Ferragina, Paolo": [
+            "33551673"
+        ],
+        "Giannotti, Fosca": [
+            "26349016",
+            "33551673"
+        ],
+        "Guidotti, Riccardo": [
+            "33551673"
+        ],
+        "Helbing, Dirk": [
+            "29496846",
+            "33551673",
+            "25082701"
+        ],
+        "Kaski, Kimmo": [
+            "22518274",
+            "22563526",
+            "33551673"
+        ],
+        "Kertesz, Janos": [
+            "22518274",
+            "22563526",
+            "33551673"
+        ],
+        "Lehmann, Sune": [
+            "33551673",
+            "30530676"
+        ],
+        "Lepri, Bruno": [
+            "33551673"
+        ],
+        "Lukowicz, Paul": [
+            "33551673"
+        ],
+        "Matwin, Stan": [
+            "33551673"
+        ],
+        "Jimenez, David Megias": [
+            "33551673"
+        ],
+        "Monreale, Anna": [
+            "33551673"
+        ],
+        "Morik, Katharina": [
+            "33551673"
+        ],
+        "Oliver, Nuria": [
+            "33551673"
+        ],
+        "Passarella, Andrea": [
+            "33551673"
+        ],
+        "Passerini, Andrea": [
+            "33551673"
+        ],
+        "Pedreschi, Dino": [
+            "26349016",
+            "33551673"
+        ],
+        "Pentland, Alex": [
+            "19197046",
+            "33551673"
+        ],
+        "Pianesi, Fabio": [
+            "33551673"
+        ],
+        "Pratesi, Francesca": [
+            "33551673"
+        ],
+        "Rinzivillo, Salvatore": [
+            "26349016",
+            "33551673"
+        ],
+        "Ruggieri, Salvatore": [
+            "33551673"
+        ],
+        "Siebes, Arno": [
+            "33551673"
+        ],
+        "Torra, Vicenc": [
+            "33551673"
+        ],
+        "Trasarti, Roberto": [
+            "33551673"
+        ],
+        "Hoven, Jeroen van den": [
+            "33551673"
+        ],
+        "Vespignani, Alessandro": [
+            "29496846",
+            "33551673"
+        ],
+        "Dhand, Amar": [
+            "33526803"
+        ],
+        "McCafferty, Liam": [
+            "33526803"
+        ],
+        "Grashow, Rachel": [
+            "33526803"
+        ],
+        "Corbin, Ian": [
+            "33526803"
+        ],
+        "Cohan, Sarah": [
+            "33526803"
+        ],
+        "Whittington, Alicia": [
+            "33526803"
+        ],
+        "Connor, Ann": [
+            "33526803"
+        ],
+        "Baggish, Aaron": [
+            "33526803"
+        ],
+        "Weisskopf, Mark": [
+            "33526803"
+        ],
+        "Zafonte, Ross": [
+            "33526803"
+        ],
+        "Pascual-Leone, Alvaro": [
+            "33526803"
+        ],
+        "Kovacs, Istvan": [
+            "26245576",
+            "33318182",
+            "30867426",
+            "25910212",
+            "30886144",
+            "30988295"
+        ],
+        "Barabasi, Daniel": [
+            "31806491",
+            "33318182"
+        ],
+        "Milanlouei, Soodabeh": [
+            "33247093",
+            "30487615"
+        ],
+        "Menichetti, Giulia": [
+            "33247093",
+            "33004889"
+        ],
+        "Li, Yanping": [
+            "33247093"
+        ],
+        "Willett, Walter": [
+            "33247093"
+        ],
+        "Maiorino, Enrico": [
+            "33875660",
+            "32041952"
+        ],
+        "Baek, Seung Han": [
+            "33875660",
+            "32041952"
+        ],
+        "Guo, Feng": [
+            "33875660",
+            "32041952",
+            "25586491"
+        ],
+        "Zhou, Xiaobo": [
+            "33875660",
+            "32041952",
+            "25586491"
+        ],
+        "Kothari, Parul": [
+            "33875660",
+            "32041952"
+        ],
+        "Silverman, Edwin": [
+            "32320696",
+            "25586491",
+            "25032995",
+            "33875660",
+            "32041952",
+            "29977601",
+            "32868765"
+        ],
+        "Weiss, Scott": [
+            "33875660",
+            "32041952",
+            "25586491",
+            "29977601"
+        ],
+        "Raby, Benjamin": [
+            "33875660",
+            "32041952",
+            "25586491"
+        ],
+        "Sharma, Amitabh": [
+            "27748412",
+            "27796300",
+            "24967666",
+            "30586693",
+            "25586491",
+            "25416956",
+            "25032995",
+            "33875660",
+            "32041952",
+            "23882023",
+            "25700523",
+            "25910212",
+            "27278246",
+            "29977601",
+            "28649437",
+            "27091990"
+        ],
+        "Maron, Bradley": [
+            "22371328",
+            "32868765",
+            "32320696"
+        ],
+        "Altucci, Lucia": [
+            "32868765",
+            "32320696"
+        ],
+        "Balligand, Jean Luc": [
+            "32868765",
+            "32320696"
+        ],
+        "Baumbach, Jan": [
+            "32868765",
+            "32320696"
+        ],
+        "Ferdinandy, Peter": [
+            "28460026",
+            "32868765",
+            "32320696"
+        ],
+        "Filetti, Sebastiano": [
+            "32868765",
+            "32320696"
+        ],
+        "Parini, Paolo": [
+            "32868765",
+            "32320696"
+        ],
+        "Petrillo, Enrico": [
+            "32868765",
+            "32320696"
+        ],
+        "Gates, Alexander": [
+            "33568828",
+            "32071248",
+            "31695218"
+        ],
+        "Gysi, Deisy Morselli": [
+            "33568828",
+            "32550253"
+        ],
+        "Kellis, Manolis": [
+            "33568828"
+        ],
+        "Hooton, Forrest": [
+            "33004889"
+        ],
+        "Huang, Junming": [
+            "32071248"
+        ],
+        "Sinatra, Roberta": [
+            "32071248",
+            "24759743",
+            "27811240",
+            "30409804",
+            "29496846",
+            "30530676"
+        ],
+        "Ke, Qing": [
+            "31695218"
+        ],
+        "Do Valle, Italo": [
+            "32550253"
+        ],
+        "Sanchez, Helia": [
+            "32550253"
+        ],
+        "Baron, Rebecca Marlene": [
+            "32550253"
+        ],
+        "Ghiassian, Dina": [
+            "32550253"
+        ],
+        "Towlson, Emma": [
+            "32166208",
+            "29047458",
+            "30201837",
+            "29045391"
+        ],
+        "Vermeulen, Roel": [
+            "31974245"
+        ],
+        "Schymanski, Emma": [
+            "31974245"
+        ],
+        "Miller, Gary": [
+            "31974245"
+        ],
+        "Cheng, Feixiong": [
+            "30002366",
+            "30867426",
+            "30988295"
+        ],
+        "Gao, Jianxi": [
+            "26887493",
+            "27144362",
+            "27739809",
+            "30918410",
+            "25388503"
+        ],
+        "Barzel, Baruch": [
+            "26887493",
+            "25850053",
+            "25990707",
+            "27144362",
+            "30918410",
+            "24319492",
+            "23851447"
+        ],
+        "Luck, Katja": [
+            "30886144",
+            "25416956"
+        ],
+        "Spirohn, Kerstin": [
+            "30886144",
+            "25416956"
+        ],
+        "Wang, Yang": [
+            "30886144",
+            "27107014",
+            "25910212"
+        ],
+        "Pollis, Carl": [
+            "30886144"
+        ],
+        "Schlabach, Sadie": [
+            "30886144"
+        ],
+        "Bian, Wenting": [
+            "30886144"
+        ],
+        "Kim, Dae Kyum": [
+            "30886144"
+        ],
+        "Kishore, Nishka": [
+            "30886144"
+        ],
+        "Hao, Tong": [
+            "18719252",
+            "16713569",
+            "25416956",
+            "22810586",
+            "25910212",
+            "30886144",
+            "19060904",
+            "27107014"
+        ],
+        "Calderwood, Michael": [
+            "25416956",
+            "22810586",
+            "22761553",
+            "25910212",
+            "30886144",
+            "27107014"
+        ],
+        "Vidal, Marc": [
+            "18719252",
+            "26831545",
+            "16713569",
+            "29977601",
+            "17486083",
+            "17921997",
+            "25586491",
+            "25416956",
+            "22810586",
+            "17502601",
+            "25700523",
+            "25910212",
+            "30886144",
+            "22761553",
+            "19060904",
+            "27107014",
+            "21414488"
+        ],
+        "Sekara, Vedran": [
+            "30530676"
+        ],
+        "Deville, Pierre": [
+            "27274050",
+            "24759743",
+            "27811240",
+            "30530676"
+        ],
+        "Ahnert, Sebastian": [
+            "22355711",
+            "30530676"
+        ],
+        "Desai, Rishi": [
+            "30002366"
+        ],
+        "Handy, Diane": [
+            "30002366"
+        ],
+        "Wang, Ruisheng": [
+            "30002366",
+            "27278246"
+        ],
+        "Schneeweiss, Sebastian": [
+            "30002366"
+        ],
+        "Halu, Arda": [
+            "30586693",
+            "29977601",
+            "27796300"
+        ],
+        "Decano, Julius": [
+            "30586693",
+            "29977601"
+        ],
+        "Padi, Megha": [
+            "29977601",
+            "22761553",
+            "22810586"
+        ],
+        "Liu, Yang Yu": [
+            "23359701",
+            "23774965",
+            "23028542",
+            "21562557",
+            "25990707",
+            "23323210",
+            "28148769",
+            "27197218",
+            "25910212",
+            "25388503",
+            "29977601",
+            "27091990"
+        ],
+        "Prasad, Rashmi": [
+            "29977601"
+        ],
+        "Fadista, Joao": [
+            "29977601"
+        ],
+        "Santolini, Marc": [
+            "29925605",
+            "29977601"
+        ],
+        "Menche, Jorg": [
+            "28185567",
+            "25471042",
+            "27748412",
+            "26831545",
+            "25853560",
+            "29977601",
+            "24967666",
+            "25586491",
+            "25416956",
+            "25032995",
+            "25700523",
+            "23882023",
+            "27278246",
+            "27107014",
+            "28649437",
+            "26571460"
+        ],
+        "Aikawa, Masanori": [
+            "27278246",
+            "30586693",
+            "29977601",
+            "27796300"
+        ],
+        "Groop, Leif": [
+            "29977601"
+        ],
+        "Candia, Cristian": [
+            "30932052"
+        ],
+        "Jara-Figueroa, C": [
+            "30932052"
+        ],
+        "Rodriguez-Sickert, Carlos": [
+            "30932052"
+        ],
+        "Hidalgo, Cesar": [
+            "18528393",
+            "19360091",
+            "30932052",
+            "19342553",
+            "17513831",
+            "17486083"
+        ],
+        "Nakano, Toshiaki": [
+            "30586693"
+        ],
+        "Katsuki, Shunsuke": [
+            "30586693"
+        ],
+        "Chen, Mingxian": [
+            "30586693"
+        ],
+        "Lee, Lang Ho": [
+            "30586693"
+        ],
+        "Pestana, Diego V": [
+            "30586693"
+        ],
+        "Kum, Angelo S": [
+            "30586693"
+        ],
+        "Kuromoto, Rodrigo": [
+            "30586693"
+        ],
+        "Golden, Whitney": [
+            "30586693"
+        ],
+        "Boff, Mario": [
+            "30586693"
+        ],
+        "Guimaraes, Gabriel": [
+            "30586693"
+        ],
+        "Higashi, Hideyuki": [
+            "30586693"
+        ],
+        "Kauffman, Kevin": [
+            "30586693"
+        ],
+        "Maejima, Takashi": [
+            "30586693"
+        ],
+        "Suzuki, Takehiro": [
+            "30586693"
+        ],
+        "Iwata, Hiroshi": [
+            "27278246",
+            "30586693",
+            "27796300"
+        ],
+        "Aster, Jon": [
+            "30586693"
+        ],
+        "Anderson, Daniel": [
+            "30586693"
+        ],
+        "Singh, Sasha": [
+            "27278246",
+            "30586693",
+            "27796300"
+        ],
+        "Aikawa, Elena": [
+            "30586693",
+            "27796300"
+        ],
+        "Dehmamy, Nima": [
+            "30487615"
+        ],
+        "Fraiberger, Samuel": [
+            "30409804"
+        ],
+        "Resch, Magnus": [
+            "30409804"
+        ],
+        "Riedl, Christoph": [
+            "30409804"
+        ],
+        "Kosack, Stephen": [
+            "30373826"
+        ],
+        "Coscia, Michele": [
+            "30373826"
+        ],
+        "Smith, Evann": [
+            "30373826"
+        ],
+        "Albrecht, Kim": [
+            "30373826"
+        ],
+        "Hausmann, Ricardo": [
+            "30373826"
+        ],
+        "Vertes, Petra": [
+            "30201837",
+            "29047458",
+            "29045391"
+        ],
+        "Yan, Gang": [
+            "30201837",
+            "29047458",
+            "29045391"
+        ],
+        "Chew, Yee Lian": [
+            "30201837",
+            "29047458",
+            "29045391"
+        ],
+        "Walker, Denise": [
+            "30201837",
+            "29047458",
+            "29045391"
+        ],
+        "Schafer, William": [
+            "30201837",
+            "29047458",
+            "29045391"
+        ],
+        "Fortunato, Santo": [
+            "29496846"
+        ],
+        "Bergstrom, Carl": [
+            "29496846"
+        ],
+        "Borner, Katy": [
+            "29496846"
+        ],
+        "Evans, James": [
+            "29496846"
+        ],
+        "Milojevic, Stasa": [
+            "29496846"
+        ],
+        "Petersen, Alexander": [
+            "29496846"
+        ],
+        "Radicchi, Filippo": [
+            "29496846"
+        ],
+        "Uzzi, Brian": [
+            "29496846"
+        ],
+        "Waltman, Ludo": [
+            "29496846"
+        ],
+        "Wang, Dashun": [
+            "27274050",
+            "24759743",
+            "27811240",
+            "24499738",
+            "25013056",
+            "29496846",
+            "24092745",
+            "21479206",
+            "23128218"
+        ],
+        "Guney, Emre": [
+            "27748412",
+            "28649437",
+            "26831545"
+        ],
+        "Branigan, Patrick": [
+            "28649437"
+        ],
+        "Loza, Matthew": [
+            "28649437"
+        ],
+        "Baribaud, Frederic": [
+            "28649437",
+            "25586491"
+        ],
+        "Dobrin, Radu": [
+            "15018656",
+            "28649437",
+            "25586491"
+        ],
+        "Pequito, Sergio": [
+            "28054597",
+            "28276443"
+        ],
+        "Preciado, Victor": [
+            "28054597",
+            "28276443"
+        ],
+        "Pappas, George": [
+            "28054597",
+            "28276443"
+        ],
+        "Perrino, Cinzia": [
+            "28460026"
+        ],
+        "Condorelli, Gianluigi": [
+            "28460026"
+        ],
+        "Davidson, Sean Michael": [
+            "28460026"
+        ],
+        "De Windt, Leon": [
+            "28460026"
+        ],
+        "Dimmeler, Stefanie": [
+            "28460026"
+        ],
+        "Engel, Felix Benedikt": [
+            "28460026"
+        ],
+        "Hausenloy, Derek John": [
+            "28460026"
+        ],
+        "Hill, Joseph Addison": [
+            "28460026"
+        ],
+        "Van Laake, Linda Wilhelmina": [
+            "28460026"
+        ],
+        "Lecour, Sandrine": [
+            "28460026"
+        ],
+        "Leor, Jonathan": [
+            "28460026"
+        ],
+        "Madonna, Rosalinda": [
+            "28460026"
+        ],
+        "Mayr, Manuel": [
+            "28460026"
+        ],
+        "Prunier, Fabrice": [
+            "28460026"
+        ],
+        "Sluijter, Joost Petrus Geradus": [
+            "28460026"
+        ],
+        "Schulz, Rainer": [
+            "28460026"
+        ],
+        "Thum, Thomas": [
+            "28460026"
+        ],
+        "Ytrehus, Kirsti": [
+            "28460026"
+        ],
+        "Gomez-Cabrero, David": [
+            "28185567",
+            "25471042"
+        ],
+        "Vargas, Claudia": [
+            "28185567"
+        ],
+        "Cano, Isaac": [
+            "28185567",
+            "25471042"
+        ],
+        "Maier, Dieter": [
+            "28185567",
+            "25471042"
+        ],
+        "Tegner, Jesper": [
+            "28185567",
+            "25471042"
+        ],
+        "Roca, Josep": [
+            "28185567",
+            "25471042"
+        ],
+        "Song, Chaoming": [
+            "20167789",
+            "27274050",
+            "24759743",
+            "27811240",
+            "24499738",
+            "25013056",
+            "25082701",
+            "24092745",
+            "23128218"
+        ],
+        "Grauwin, Sebastian": [
+            "28443647"
+        ],
+        "Szell, Michael": [
+            "28443647"
+        ],
+        "Sobolevsky, Stanislav": [
+            "28443647"
+        ],
+        "Hovel, Philipp": [
+            "28443647"
+        ],
+        "Simini, Filippo": [
+            "22367540",
+            "26349016",
+            "28443647"
+        ],
+        "Vanhoof, Maarten": [
+            "28443647"
+        ],
+        "Smoreda, Zbigniew": [
+            "28443647"
+        ],
+        "Ratti, Carlo": [
+            "28443647"
+        ],
+        "Angulo, Marco Tulio": [
+            "28148769"
+        ],
+        "Moreno, Jaime": [
+            "28148769"
+        ],
+        "Lippner, Gabor": [
+            "28148769"
+        ],
+        "Basler, Georg": [
+            "27197218"
+        ],
+        "Nikoloski, Zoran": [
+            "27197218"
+        ],
+        "Larhlimi, Abdelhalim": [
+            "27197218"
+        ],
+        "Vinayagam, Arunachalam": [
+            "19060904",
+            "27091990"
+        ],
+        "Gibson, Travis": [
+            "27091990"
+        ],
+        "Lee, Ho Joon": [
+            "27091990"
+        ],
+        "Yilmazel, Bahar": [
+            "27091990"
+        ],
+        "Roesel, Charles": [
+            "27091990"
+        ],
+        "Hu, Yanhui": [
+            "27091990"
+        ],
+        "Kwon, Young": [
+            "27091990"
+        ],
+        "Perrimon, Norbert": [
+            "27091990"
+        ],
+        "Zhong, Quan": [
+            "27107014",
+            "25910212",
+            "25416956"
+        ],
+        "Pevzner, Samuel": [
+            "23882023",
+            "27107014",
+            "22810586",
+            "25416956"
+        ],
+        "Mosca, Roberto": [
+            "27107014",
+            "25416956"
+        ],
+        "Taipale, Mikko": [
+            "27107014",
+            "25910212"
+        ],
+        "Tasan, Murat": [
+            "17486083",
+            "27107014",
+            "22810586",
+            "25416956"
+        ],
+        "Fan, Changyu": [
+            "18719252",
+            "25416956",
+            "22810586",
+            "25910212",
+            "27107014"
+        ],
+        "Yang, Xinping": [
+            "27107014",
+            "25910212",
+            "25416956"
+        ],
+        "Haley, Patrick": [
+            "27107014"
+        ],
+        "Murray, Ryan": [
+            "18719252",
+            "19060904",
+            "27107014",
+            "25416956"
+        ],
+        "Mer, Flora": [
+            "27107014"
+        ],
+        "Gebreab, Fana": [
+            "18719252",
+            "19060904",
+            "27107014",
+            "25416956"
+        ],
+        "Tam, Stanley": [
+            "18719252",
+            "27107014",
+            "25416956"
+        ],
+        "MacWilliams, Andrew": [
+            "27107014",
+            "25416956"
+        ],
+        "Dricot, Amelie": [
+            "18719252",
+            "25416956",
+            "22810586",
+            "22761553",
+            "25910212",
+            "19060904",
+            "27107014"
+        ],
+        "Reichert, Patrick": [
+            "27107014",
+            "25416956"
+        ],
+        "Santhanam, Balaji": [
+            "27107014",
+            "22761553"
+        ],
+        "Ghamsari, Lila": [
+            "27107014",
+            "25416956"
+        ],
+        "Rolland, Thomas": [
+            "27107014",
+            "22810586",
+            "25416956"
+        ],
+        "Charloteaux, Benoit": [
+            "27107014",
+            "25910212",
+            "25416956"
+        ],
+        "Lindquist, Susan": [
+            "27107014",
+            "25910212"
+        ],
+        "Hill, David": [
+            "18719252",
+            "16713569",
+            "25416956",
+            "22810586",
+            "22761553",
+            "25910212",
+            "21078624",
+            "19060904",
+            "27107014"
+        ],
+        "Aloy, Patrick": [
+            "27107014",
+            "25416956"
+        ],
+        "Cusick, Michael": [
+            "18719252",
+            "17921997",
+            "25416956",
+            "22810586",
+            "17502601",
+            "22761553",
+            "25910212",
+            "19060904",
+            "27107014",
+            "21414488"
+        ],
+        "Xia, Yu": [
+            "27107014",
+            "25910212",
+            "25416956"
+        ],
+        "Roth, Frederick": [
+            "18719252",
+            "25416956",
+            "22810586",
+            "22761553",
+            "25910212",
+            "17486083",
+            "19060904",
+            "27107014"
+        ],
+        "Goettsch, Claudia": [
+            "27796300"
+        ],
+        "Ricchiuto, Piero": [
+            "27278246",
+            "27796300"
+        ],
+        "Goh, Wilson Wen Bin": [
+            "27796300"
+        ],
+        "Yamada, Iwao": [
+            "27796300"
+        ],
+        "Yoshida, Hideo": [
+            "27796300"
+        ],
+        "Hara, Takuya": [
+            "27796300"
+        ],
+        "Wei, Mei": [
+            "27796300"
+        ],
+        "Inoue, Noriyuki": [
+            "27796300"
+        ],
+        "Fukuda, Daiju": [
+            "27796300"
+        ],
+        "Mojcher, Alexander": [
+            "27796300"
+        ],
+        "Mattson, Peter": [
+            "27796300"
+        ],
+        "Boothby, Mark": [
+            "27796300"
+        ],
+        "Kitsak, Maksim": [
+            "27748412",
+            "25586491",
+            "25700523"
+        ],
+        "Posfai, Marton": [
+            "23323210",
+            "27739809",
+            "23774965"
+        ],
+        "Cornelius, Sean": [
+            "27739809"
+        ],
+        "D'Souza, Raissa": [
+            "25388503",
+            "27739809"
+        ],
+        "Hawrylycz, Michael": [
+            "26571460"
+        ],
+        "Miller, Jeremy": [
+            "26571460"
+        ],
+        "Menon, Vilas": [
+            "26571460"
+        ],
+        "Feng, David": [
+            "26571460"
+        ],
+        "Dolbeare, Tim": [
+            "26571460"
+        ],
+        "Guillozet-Bongaarts, Angela": [
+            "26571460"
+        ],
+        "Jegga, Anil": [
+            "26571460"
+        ],
+        "Aronow, Bruce": [
+            "26571460"
+        ],
+        "Lee, Chang Kyu": [
+            "26571460"
+        ],
+        "Bernard, Amy": [
+            "26571460"
+        ],
+        "Glasser, Matthew": [
+            "26571460"
+        ],
+        "Dierker, Donna": [
+            "26571460"
+        ],
+        "Szafer, Aaron": [
+            "26571460"
+        ],
+        "Collman, Forrest": [
+            "26571460"
+        ],
+        "Grange, Pascal": [
+            "26571460"
+        ],
+        "Berman, Kenneth": [
+            "26571460"
+        ],
+        "Mihalas, Stefan": [
+            "26571460"
+        ],
+        "Yao, Zizhen": [
+            "26571460"
+        ],
+        "Stewart, Lance": [
+            "26571460"
+        ],
+        "Schulkin, Jay": [
+            "26571460"
+        ],
+        "Phillips, John": [
+            "26571460"
+        ],
+        "Ng, Lydia": [
+            "26571460"
+        ],
+        "Dang, Chinh": [
+            "26571460"
+        ],
+        "Haynor, David": [
+            "26571460"
+        ],
+        "Jones, Allan": [
+            "26571460"
+        ],
+        "Van Essen, David": [
+            "26571460"
+        ],
+        "Koch, Christof": [
+            "26571460"
+        ],
+        "Lein, Ed": [
+            "26571460"
+        ],
+        "Chasman, Daniel": [
+            "27278246"
+        ],
+        "Giulianini, Franco": [
+            "27278246"
+        ],
+        "Muller, Christian": [
+            "27278246"
+        ],
+        "Zeller, Tania": [
+            "27278246"
+        ],
+        "Wild, Philipp": [
+            "27278246"
+        ],
+        "Lackner, Karl": [
+            "27278246"
+        ],
+        "Ridker, Paul": [
+            "27278246"
+        ],
+        "Blankenberg, Stefan": [
+            "27278246"
+        ],
+        "Eagle, Nathan": [
+            "27274050"
+        ],
+        "Blondel, Vincent": [
+            "27274050",
+            "24759743"
+        ],
+        "Pappalardo, Luca": [
+            "26349016"
+        ],
+        "Huang, C Chris": [
+            "25586491"
+        ],
+        "Ort, Tatiana": [
+            "25586491"
+        ],
+        "Sahni, Nidhi": [
+            "25586491",
+            "25910212",
+            "25416956"
+        ],
+        "Thibault, Derek": [
+            "25586491"
+        ],
+        "Voung, Linh": [
+            "25586491"
+        ],
+        "Gulbahce, Natali": [
+            "21164525",
+            "18277384",
+            "25586491",
+            "22371328",
+            "22810586",
+            "22761553",
+            "23882023",
+            "21078624"
+        ],
+        "Tocker, Joel": [
+            "25586491"
+        ],
+        "Barnathan, Elliot": [
+            "25586491"
+        ],
+        "Liu, Hao": [
+            "25586491"
+        ],
+        "Panettieri, Reynold": [
+            "25586491"
+        ],
+        "Tantisira, Kelan": [
+            "25586491"
+        ],
+        "Qiu, Weiliang": [
+            "25586491"
+        ],
+        "Abugessaisa, Imad": [
+            "25471042"
+        ],
+        "Huertas-Miguelanez, Mercedes": [
+            "25471042"
+        ],
+        "Tenyi, Akos": [
+            "25471042"
+        ],
+        "Marin de Mas, Igor": [
+            "25471042"
+        ],
+        "Kiani, Narsis": [
+            "25471042"
+        ],
+        "Marabita, Francesco": [
+            "25471042"
+        ],
+        "Falciani, Francesco": [
+            "25471042"
+        ],
+        "Burrowes, Kelly": [
+            "25471042"
+        ],
+        "Wagner, Peter": [
+            "25471042"
+        ],
+        "Selivanov, Vitaly": [
+            "25471042"
+        ],
+        "Cascante, Marta": [
+            "25471042"
+        ],
+        "Yi, Song": [
+            "25910212",
+            "25416956"
+        ],
+        "Lemmens, Irma": [
+            "18719252",
+            "19060904",
+            "25416956"
+        ],
+        "Fontanillo, Celia": [
+            "25416956"
+        ],
+        "Kamburov, Atanas": [
+            "25910212",
+            "25416956"
+        ],
+        "Ghiassian, Susan": [
+            "25416956"
+        ],
+        "Balcha, Dawit": [
+            "25910212",
+            "25416956"
+        ],
+        "Begg, Bridget": [
+            "25416956"
+        ],
+        "Braun, Pascal": [
+            "18719252",
+            "19060904",
+            "22761553",
+            "25416956"
+        ],
+        "Brehme, Marc": [
+            "25416956"
+        ],
+        "Broly, Martin": [
+            "25416956"
+        ],
+        "Carvunis, Anne Ruxandra": [
+            "17486083",
+            "22810586",
+            "25416956"
+        ],
+        "Convery-Zupan, Dan": [
+            "25416956"
+        ],
+        "Corominas, Roser": [
+            "25416956"
+        ],
+        "Coulombe-Huntington, Jasmin": [
+            "25910212",
+            "25416956"
+        ],
+        "Dann, Elizabeth": [
+            "19060904",
+            "25416956"
+        ],
+        "Dreze, Matija": [
+            "25416956"
+        ],
+        "Franzosa, Eric": [
+            "25416956"
+        ],
+        "Gutierrez, Bryan": [
+            "25416956"
+        ],
+        "Hardy, Madeleine": [
+            "25416956"
+        ],
+        "Jin, Mike": [
+            "25416956"
+        ],
+        "Kang, Shuli": [
+            "25416956"
+        ],
+        "Kiros, Ruth": [
+            "25416956"
+        ],
+        "Lin, Guan Ning": [
+            "25416956"
+        ],
+        "Palagi, Alexandre": [
+            "25910212",
+            "25416956"
+        ],
+        "Poulin, Matthew": [
+            "25416956"
+        ],
+        "Rambout, Xavier": [
+            "25416956"
+        ],
+        "Rasla, John": [
+            "25416956"
+        ],
+        "Romero, Viviana": [
+            "25416956"
+        ],
+        "Ruyssinck, Elien": [
+            "25416956"
+        ],
+        "Sahalie, Julie": [
+            "18719252",
+            "19060904",
+            "25416956"
+        ],
+        "Scholz, Annemarie": [
+            "25416956"
+        ],
+        "Shah, Akash": [
+            "25910212",
+            "25416956"
+        ],
+        "Shen, Yun": [
+            "22810586",
+            "25910212",
+            "25416956"
+        ],
+        "Tejeda, Alexander": [
+            "25416956"
+        ],
+        "Trigg, Shelly": [
+            "25416956"
+        ],
+        "Twizere, Jean Claude": [
+            "25416956"
+        ],
+        "Vega, Kerwin": [
+            "25416956"
+        ],
+        "Walsh, Jennifer": [
+            "25910212",
+            "25416956"
+        ],
+        "Iakoucheva, Lilia": [
+            "25416956"
+        ],
+        "De Las Rivas, Javier": [
+            "25416956"
+        ],
+        "Tavernier, Jan": [
+            "18719252",
+            "19060904",
+            "25416956"
+        ],
+        "Fuxman Bass, Juan": [
+            "25910212"
+        ],
+        "Yang, Fan": [
+            "25910212"
+        ],
+        "Peng, Jian": [
+            "25910212"
+        ],
+        "Weile, Jochen": [
+            "25910212"
+        ],
+        "Karras, Georgios": [
+            "25910212"
+        ],
+        "Krykbaeva, Irina": [
+            "25910212"
+        ],
+        "Lam, Mandy": [
+            "25910212"
+        ],
+        "Tucker, George": [
+            "25910212"
+        ],
+        "Khurana, Vikram": [
+            "25910212"
+        ],
+        "Yachie, Nozomu": [
+            "25910212"
+        ],
+        "San-Miguel, Adriana": [
+            "25910212"
+        ],
+        "Jordan, Daniel": [
+            "25910212"
+        ],
+        "Stoyanova, Ani": [
+            "25910212"
+        ],
+        "Leighton, Alex": [
+            "25910212"
+        ],
+        "Jacob, Yves": [
+            "25910212"
+        ],
+        "Salehi-Ashtiani, Kourosh": [
+            "25910212"
+        ],
+        "Whitesell, Luke": [
+            "25910212"
+        ],
+        "Sunyaev, Shamil": [
+            "25910212"
+        ],
+        "Berger, Bonnie": [
+            "25910212"
+        ],
+        "Walhout, Albertha J": [
+            "17513831",
+            "25910212"
+        ],
+        "Gustafsson, Mika": [
+            "25473422"
+        ],
+        "Nestor, Colm": [
+            "25473422"
+        ],
+        "Zhang, Huan": [
+            "25473422"
+        ],
+        "Baranzini, Sergio": [
+            "25473422"
+        ],
+        "Brunak, Soren": [
+            "25473422"
+        ],
+        "Chung, Kian Fan": [
+            "25473422"
+        ],
+        "Federoff, Howard": [
+            "25473422"
+        ],
+        "Gavin, Anne Claude": [
+            "25473422"
+        ],
+        "Meehan, Richard": [
+            "25473422"
+        ],
+        "Picotti, Paola": [
+            "25473422"
+        ],
+        "Pujana, Miguel Angel": [
+            "25473422"
+        ],
+        "Rajewsky, Nikolaus": [
+            "25473422"
+        ],
+        "Smith, Kenneth Gc": [
+            "25473422"
+        ],
+        "Sterk, Peter": [
+            "25473422"
+        ],
+        "Villoslada, Pablo": [
+            "25473422"
+        ],
+        "Benson, Mikael": [
+            "25473422"
+        ],
+        "Shen, Hua Wei": [
+            "25114238",
+            "25013056"
+        ],
+        "Schich, Maximilian": [
+            "25082701",
+            "23005999"
+        ],
+        "Ahn, Yong Yeol": [
+            "25082701",
+            "22355711"
+        ],
+        "Mirsky, Alexander": [
+            "25082701"
+        ],
+        "Martino, Mauro": [
+            "25082701"
+        ],
+        "Gil, Santiago": [
+            "25028059"
+        ],
+        "Kott, Alexander": [
+            "25028059"
+        ],
+        "Zhou, XueZhong": [
+            "24967666"
+        ],
+        "Gao, Liang": [
+            "24499738"
+        ],
+        "Gao, Ziyou": [
+            "24499738"
+        ],
+        "Bagrow, James": [
+            "21479206",
+            "24499738",
+            "22355711"
+        ],
+        "Cho, Michael": [
+            "25032995"
+        ],
+        "Mayer, Ruth": [
+            "25032995"
+        ],
+        "Rennard, Stephen": [
+            "25032995"
+        ],
+        "Celli, Bartolome": [
+            "25032995"
+        ],
+        "Miller, Bruce": [
+            "25032995"
+        ],
+        "Locantore, Nick": [
+            "25032995"
+        ],
+        "Tal-Singer, Ruth": [
+            "25032995"
+        ],
+        "Ghosh, Soumitra": [
+            "25032995"
+        ],
+        "Larminie, Chris": [
+            "25032995"
+        ],
+        "Bradley, Glyn": [
+            "25032995"
+        ],
+        "Riley, John": [
+            "25032995"
+        ],
+        "Agusti, Alvar": [
+            "25032995"
+        ],
+        "Ladenvall, Claes": [
+            "23882023"
+        ],
+        "Folkersen, Lasse": [
+            "23882023"
+        ],
+        "Eriksson, Per": [
+            "23882023"
+        ],
+        "Orho-Melander, Marju": [
+            "23882023"
+        ],
+        "Ghoshal, Gourab": [
+            "24108146",
+            "23005999",
+            "21772265"
+        ],
+        "Chi, Liping": [
+            "24108146"
+        ],
+        "Jia, Tao": [
+            "23912679",
+            "23774965"
+        ],
+        "Slotine, Jean Jacques": [
+            "23359701",
+            "23774965",
+            "23028542",
+            "21562557",
+            "23323210"
+        ],
+        "Csoka, Endre": [
+            "23774965"
+        ],
+        "Blumm, Nicholas": [
+            "20167789",
+            "23005999",
+            "19360091"
+        ],
+        "Forro, Zalan": [
+            "23005999"
+        ],
+        "Bianconi, Ginestra": [
+            "23005999"
+        ],
+        "Bouchaud, Jean Philippe": [
+            "23005999"
+        ],
+        "Rozenblatt-Rosen, Orit": [
+            "22810586",
+            "22761553"
+        ],
+        "Deo, Rahul": [
+            "22810586"
+        ],
+        "Adelmant, Guillaume": [
+            "22810586"
+        ],
+        "Grace, Miranda": [
+            "22810586",
+            "22761553"
+        ],
+        "Askenazi, Manor": [
+            "22810586"
+        ],
+        "Tavares, Maria": [
+            "22810586"
+        ],
+        "Abderazzaq, Fieda": [
+            "22810586"
+        ],
+        "Byrdsong, Danielle": [
+            "22810586",
+            "22761553"
+        ],
+        "Chen, Alyce": [
+            "22810586",
+            "22761553"
+        ],
+        "Cheng, Jingwei": [
+            "22810586"
+        ],
+        "Correll, Mick": [
+            "22810586"
+        ],
+        "Duarte, Melissa": [
+            "22810586"
+        ],
+        "Feltkamp, Mariet": [
+            "22810586"
+        ],
+        "Ficarro, Scott": [
+            "22810586"
+        ],
+        "Franchi, Rachel": [
+            "22810586",
+            "22761553"
+        ],
+        "Garg, Brijesh": [
+            "22810586"
+        ],
+        "Holthaus, Amy": [
+            "22810586"
+        ],
+        "James, Robert": [
+            "22810586"
+        ],
+        "Korkhin, Anna": [
+            "22810586"
+        ],
+        "Litovchick, Larisa": [
+            "22810586"
+        ],
+        "Mar, Jessica": [
+            "22810586",
+            "22761553"
+        ],
+        "Pak, Theodore": [
+            "22810586"
+        ],
+        "Rabello, Sabrina": [
+            "22810586",
+            "22371328"
+        ],
+        "Rubio, Renee": [
+            "22810586",
+            "22761553"
+        ],
+        "Singh, Saurav": [
+            "22810586"
+        ],
+        "Spangle, Jennifer": [
+            "22810586"
+        ],
+        "Wanamaker, Shelly": [
+            "22810586"
+        ],
+        "Webber, James": [
+            "22810586"
+        ],
+        "Roecklein-Canfield, Jennifer": [
+            "22810586",
+            "22761553"
+        ],
+        "Johannsen, Eric": [
+            "22810586"
+        ],
+        "Beroukhim, Rameen": [
+            "22810586"
+        ],
+        "Kieff, Elliott": [
+            "22810586",
+            "22761553"
+        ],
+        "Munger, Karl": [
+            "22810586",
+            "22761553"
+        ],
+        "Marto, Jarrod": [
+            "22810586",
+            "22761553"
+        ],
+        "Quackenbush, John": [
+            "22810586",
+            "22761553"
+        ],
+        "DeCaprio, James": [
+            "22810586"
+        ],
+        "Yan, Han": [
+            "22761553"
+        ],
+        "Lee, Deok Sun": [
+            "19357641",
+            "19376871",
+            "22761553"
+        ],
+        "Baldwin, Amy": [
+            "22761553"
+        ],
+        "Zhao, Bo": [
+            "22761553"
+        ],
+        "Simonis, Nicolas": [
+            "18719252",
+            "19060904",
+            "22761553"
+        ],
+        "Huh, Kyung Won": [
+            "22761553"
+        ],
+        "Hellner, Karin": [
+            "22761553"
+        ],
+        "Christakis, Nicholas": [
+            "19360091",
+            "19357641",
+            "19197046",
+            "22761553",
+            "21483665"
+        ],
+        "Decaprio, James": [
+            "22761553"
+        ],
+        "Palchykov, Vasyl": [
+            "22518274"
+        ],
+        "Dunbar, Robin I": [
+            "22518274"
+        ],
+        "Parikh, Victoria": [
+            "22371328"
+        ],
+        "Jin, Richard": [
+            "22371328"
+        ],
+        "White, Kevin": [
+            "22371328"
+        ],
+        "Hale, Andrew": [
+            "22371328"
+        ],
+        "Cottrill, Katherine": [
+            "22371328"
+        ],
+        "Shaik, Rahamthulla": [
+            "22371328"
+        ],
+        "Waxman, Aaron": [
+            "22371328"
+        ],
+        "Zhang, Ying Yi": [
+            "22371328"
+        ],
+        "Hartner, Jochen": [
+            "22371328"
+        ],
+        "Fujiwara, Yuko": [
+            "22371328"
+        ],
+        "Orkin, Stuart": [
+            "22371328"
+        ],
+        "Haley, Kathleen": [
+            "22371328"
+        ],
+        "Chan, Stephen": [
+            "22371328"
+        ],
+        "Gonzalez, Marta": [
+            "18528393",
+            "19342553",
+            "22367540",
+            "32226461",
+            "21483665"
+        ],
+        "Maritan, Amos": [
+            "22367540"
+        ],
+        "Karsai, Marton": [
+            "22563526"
+        ],
+        "Onnela, Jukka Pekka": [
+            "21483665"
+        ],
+        "Arbesman, Samuel": [
+            "21483665"
+        ],
+        "Kahle, Juliette": [
+            "21078624"
+        ],
+        "Shaw, Chad": [
+            "16713569",
+            "21078624"
+        ],
+        "Lim, Janghoo": [
+            "16713569",
+            "21078624"
+        ],
+        "Zoghbi, Huda": [
+            "16713569",
+            "21078624"
+        ],
+        "Qu, Zehui": [
+            "20167789"
+        ],
+        "Burd, Henry": [
+            "19376871"
+        ],
+        "Liu, Jiangxia": [
+            "19376871"
+        ],
+        "Almaas, Eivind": [
+            "19376871",
+            "16362071",
+            "18277384"
+        ],
+        "Wiest, Olaf": [
+            "19376871"
+        ],
+        "Oltvai, Zoltan": [
+            "12888502",
+            "18846199",
+            "15048975",
+            "12399572",
+            "18215292",
+            "14559778",
+            "15018656",
+            "14735121",
+            "19376871",
+            "16362071"
+        ],
+        "Kapatral, Vinayak": [
+            "19376871"
+        ],
+        "Wang, Pu": [
+            "19342553"
+        ],
+        "Lazer, David": [
+            "19197046"
+        ],
+        "Adamic, Lada": [
+            "19197046"
+        ],
+        "Aral, Sinan": [
+            "19197046"
+        ],
+        "Brewer, Devon": [
+            "19197046"
+        ],
+        "Contractor, Noshir": [
+            "19197046"
+        ],
+        "Fowler, James": [
+            "19197046"
+        ],
+        "Gutmann, Myron": [
+            "19197046"
+        ],
+        "Jebara, Tony": [
+            "19197046"
+        ],
+        "King, Gary": [
+            "19197046"
+        ],
+        "Macy, Michael": [
+            "19197046"
+        ],
+        "Roy, Deb": [
+            "19197046"
+        ],
+        "Van Alstyne, Marshall": [
+            "19197046"
+        ],
+        "Venkatesan, Kavitha": [
+            "18719252",
+            "19060904",
+            "17486083"
+        ],
+        "Rual, Jean Francois": [
+            "18719252",
+            "19060904",
+            "16713569"
+        ],
+        "Vazquez, Alexei": [
+            "18719252",
+            "18846199",
+            "16605618",
+            "15783365",
+            "18215292",
+            "19060904",
+            "17501392"
+        ],
+        "Stelzl, Ulrich": [
+            "19060904"
+        ],
+        "Hirozane-Kishikawa, Tomoko": [
+            "18719252",
+            "19060904"
+        ],
+        "Zenkner, Martina": [
+            "19060904"
+        ],
+        "Xin, Xiaofeng": [
+            "18719252",
+            "19060904"
+        ],
+        "Goh, Kwang Il": [
+            "19060904",
+            "17921997",
+            "17502601",
+            "16605618"
+        ],
+        "Yildirim, Muhammed": [
+            "18719252",
+            "19060904",
+            "17921997"
+        ],
+        "Heinzmann, Kathrin": [
+            "19060904"
+        ],
+        "Cevik, Sebiha": [
+            "19060904"
+        ],
+        "Simon, Christophe": [
+            "18719252",
+            "19060904"
+        ],
+        "de Smet, Anne Sophie": [
+            "18719252",
+            "19060904"
+        ],
+        "Smolyar, Alex": [
+            "19060904",
+            "16713569"
+        ],
+        "Yu, Haiyuan": [
+            "18719252",
+            "19060904"
+        ],
+        "Szeto, David": [
+            "19060904"
+        ],
+        "Borick, Heather": [
+            "19060904"
+        ],
+        "Klitgord, Niels": [
+            "19060904"
+        ],
+        "Lin, Chenwei": [
+            "19060904"
+        ],
+        "Lalowski, Maciej": [
+            "19060904"
+        ],
+        "Timm, Jan": [
+            "19060904"
+        ],
+        "Rau, Kirstin": [
+            "19060904"
+        ],
+        "Boone, Charles": [
+            "19060904"
+        ],
+        "Wanker, Erich": [
+            "19060904"
+        ],
+        "Park, Juyong": [
+            "18719252",
+            "17989231",
+            "19357641"
+        ],
+        "de Menezes, Marcio": [
+            "18846199"
+        ],
+        "Li, Na": [
+            "18719252"
+        ],
+        "Tardivo, Leah": [
+            "18719252"
+        ],
+        "Svrzikapa, Nenad": [
+            "18719252",
+            "17486083"
+        ],
+        "Motyl, Adriana": [
+            "18719252"
+        ],
+        "Hudson, Michael": [
+            "18719252"
+        ],
+        "Moore, Troy": [
+            "18719252"
+        ],
+        "Boone, Charlie": [
+            "18719252"
+        ],
+        "Snyder, Michael": [
+            "18719252"
+        ],
+        "Motter, Adilson": [
+            "18277384"
+        ],
+        "Beg, Qasim": [
+            "15018656",
+            "18215292"
+        ],
+        "Demenezes, Marcio": [
+            "18215292"
+        ],
+        "Ernst, Jason": [
+            "18215292"
+        ],
+        "Bar-Joseph, Ziv": [
+            "18215292"
+        ],
+        "Boros, Laszlo": [
+            "18215292"
+        ],
+        "Dupuy, Denis": [
+            "17486083"
+        ],
+        "Bertin, Nicolas": [
+            "17486083"
+        ],
+        "Tu, Domena": [
+            "17486083"
+        ],
+        "Lee, David": [
+            "17486083"
+        ],
+        "Rosenberg, Jennifer": [
+            "17486083"
+        ],
+        "Blanc, Aurelie": [
+            "17486083"
+        ],
+        "Carnec, Alain": [
+            "17486083"
+        ],
+        "Pulak, Rock": [
+            "17486083"
+        ],
+        "Shingles, Jane": [
+            "17486083"
+        ],
+        "Reece-Hoyes, John": [
+            "17486083"
+        ],
+        "Hunt-Newbury, Rebecca": [
+            "17486083"
+        ],
+        "Viveiros, Ryan": [
+            "17486083"
+        ],
+        "Mohler, William": [
+            "17486083"
+        ],
+        "Le Peuch, Christian": [
+            "17486083"
+        ],
+        "Hope, Ian": [
+            "17486083"
+        ],
+        "Johnsen, Robert": [
+            "17486083"
+        ],
+        "Moerman, Donald": [
+            "17486083"
+        ],
+        "Baillie, David": [
+            "17486083"
+        ],
+        "Palla, Gergely": [
+            "17410175",
+            "15600468"
+        ],
+        "Vicsek, Tamas": [
+            "17410175",
+            "15600468"
+        ],
+        "Vermeirssen, Vanessa": [
+            "17513831"
+        ],
+        "Barrasa, M Inmaculada": [
+            "17513831"
+        ],
+        "Babon, Jenny Aurielle": [
+            "17513831"
+        ],
+        "Sequerra, Reynaldo": [
+            "17513831"
+        ],
+        "Doucette-Stamm, Lynn": [
+            "17513831"
+        ],
+        "Valle, David": [
+            "17502601"
+        ],
+        "Childs, Barton": [
+            "17502601"
+        ],
+        "Racz, Balazs": [
+            "17501392"
+        ],
+        "Lukacs, Andras": [
+            "17501392"
+        ],
+        "Kohane, Isaac": [
+            "17625512"
+        ],
+        "Patel, Akash": [
+            "16713569"
+        ],
+        "Szabo, Gabor": [
+            "16713569"
+        ],
+        "Fisk, C Joseph": [
+            "16713569"
+        ],
+        "Li, Ning": [
+            "16713569"
+        ],
+        "Oliveira, Joao Gama": [
+            "16605618",
+            "16251946"
+        ],
+        "Dezso, Zoltan": [
+            "16605618",
+            "12059627",
+            "14559778"
+        ],
+        "Kondor, Imre": [
+            "16605618"
+        ],
+        "Wuchty, Stefan": [
+            "16441898"
+        ],
+        "Ferdig, Michael": [
+            "16441898"
+        ],
+        "Makeev, Maxim": [
+            "15783383"
+        ],
+        "Derenyi, Imre": [
+            "15783383",
+            "15600468"
+        ],
+        "Oliveira, J": [
+            "15783365"
+        ],
+        "Farkas, Illes": [
+            "15600468"
+        ],
+        "Yook, Soon Hyung": [
+            "12368484",
+            "15048975"
+        ],
+        "Balazsi, Gabor": [
+            "12888502"
+        ],
+        "Kay, Krin": [
+            "12888502"
+        ],
+        "Ravasz, Erzsebet": [
+            "12636753"
+        ],
+        "Bonabeau, Eric": [
+            "12701331"
+        ],
+        "Jeong, Hawoong": [
+            "12368484"
+        ],
+        "Williams, Richard": [
+            "12235367"
+        ],
+        "Berlow, Eric": [
+            "12235367"
+        ],
+        "Dunne, Jennifer": [
+            "12235367"
+        ],
+        "Martinez, Neo": [
+            "12235367"
+        ]
+    },
+    "Papers": {
+        "33906951": {
+            "Keywords": [
+                "drug repurposing",
+                "infectious diseases",
+                "network medicine",
+                "systems biology"
+            ],
+            "Year": "2021",
+            "Title": "Network medicine framework for identifying drug-repurposing opportunities for COVID-19.",
+            "Authors": [
+                "Morselli Gysi, Deisy",
+                "do Valle, Italo",
+                "Zitnik, Marinka",
+                "Ameli, Asher",
+                "Gan, Xiao",
+                "Varol, Onur",
+                "Ghiassian, Susan Dina",
+                "Patten, J",
+                "Davey, Robert",
+                "Loscalzo, Joseph",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "33551673": {
+            "Keywords": [
+                "COVID-19",
+                "Contact tracing",
+                "Mobility data analysis",
+                "Personal data store"
+            ],
+            "Year": "2021",
+            "Title": "Give more data, awareness and control to individual citizens, and they will help COVID-19 containment.",
+            "Authors": [
+                "Nanni, Mirco",
+                "Andrienko, Gennady",
+                "Barabasi, Albert Laszlo",
+                "Boldrini, Chiara",
+                "Bonchi, Francesco",
+                "Cattuto, Ciro",
+                "Chiaromonte, Francesca",
+                "Comande, Giovanni",
+                "Conti, Marco",
+                "Cote, Mark",
+                "Dignum, Frank",
+                "Dignum, Virginia",
+                "Domingo-Ferrer, Josep",
+                "Ferragina, Paolo",
+                "Giannotti, Fosca",
+                "Guidotti, Riccardo",
+                "Helbing, Dirk",
+                "Kaski, Kimmo",
+                "Kertesz, Janos",
+                "Lehmann, Sune",
+                "Lepri, Bruno",
+                "Lukowicz, Paul",
+                "Matwin, Stan",
+                "Jimenez, David Megias",
+                "Monreale, Anna",
+                "Morik, Katharina",
+                "Oliver, Nuria",
+                "Passarella, Andrea",
+                "Passerini, Andrea",
+                "Pedreschi, Dino",
+                "Pentland, Alex",
+                "Pianesi, Fabio",
+                "Pratesi, Francesca",
+                "Rinzivillo, Salvatore",
+                "Ruggieri, Salvatore",
+                "Siebes, Arno",
+                "Torra, Vicenc",
+                "Trasarti, Roberto",
+                "Hoven, Jeroen van den",
+                "Vespignani, Alessandro"
+            ],
+            "Citations": "n/a"
+        },
+        "33526803": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2021",
+            "Title": "Social network structure and composition in former NFL football players.",
+            "Authors": [
+                "Dhand, Amar",
+                "McCafferty, Liam",
+                "Grashow, Rachel",
+                "Corbin, Ian",
+                "Cohan, Sarah",
+                "Whittington, Alicia",
+                "Connor, Ann",
+                "Baggish, Aaron",
+                "Weisskopf, Mark",
+                "Zafonte, Ross",
+                "Pascual-Leone, Alvaro",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "33318182": {
+            "Keywords": [
+                "C. elegans",
+                "connectome",
+                "networks",
+                "neuroscience"
+            ],
+            "Year": "2020",
+            "Title": "Uncovering the genetic blueprint of the <i>C. elegans</i> nervous system.",
+            "Authors": [
+                "Kovacs, Istvan",
+                "Barabasi, Daniel",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "33247093": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "A systematic comprehensive longitudinal evaluation of dietary factors associated with acute myocardial infarction and fatal coronary heart disease.",
+            "Authors": [
+                "Milanlouei, Soodabeh",
+                "Menichetti, Giulia",
+                "Li, Yanping",
+                "Loscalzo, Joseph",
+                "Willett, Walter",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "33875660": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2021",
+            "Title": "Author Correction: Discovering the genes mediating the interactions between chronic respiratory diseases in the human interactome.",
+            "Authors": [
+                "Maiorino, Enrico",
+                "Baek, Seung Han",
+                "Guo, Feng",
+                "Zhou, Xiaobo",
+                "Kothari, Parul",
+                "Silverman, Edwin",
+                "Barabasi, Albert Laszlo",
+                "Weiss, Scott",
+                "Raby, Benjamin",
+                "Sharma, Amitabh"
+            ],
+            "Citations": "n/a"
+        },
+        "32868765": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "A global network for network medicine.",
+            "Authors": [
+                "Maron, Bradley",
+                "Altucci, Lucia",
+                "Balligand, Jean Luc",
+                "Baumbach, Jan",
+                "Ferdinandy, Peter",
+                "Filetti, Sebastiano",
+                "Parini, Paolo",
+                "Petrillo, Enrico",
+                "Silverman, Edwin",
+                "Barabasi, Albert Laszlo",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "33568828": {
+            "Keywords": [
+                "Biotechnology",
+                "Drug discovery",
+                "Genetics",
+                "Medical research"
+            ],
+            "Year": "2021",
+            "Title": "A wealth of discovery built on the Human Genome Project - by the numbers.",
+            "Authors": [
+                "Gates, Alexander",
+                "Gysi, Deisy Morselli",
+                "Kellis, Manolis",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "33004889": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "Exploring food contents in scientific literature with FoodMine.",
+            "Authors": [
+                "Hooton, Forrest",
+                "Menichetti, Giulia",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "32071248": {
+            "Keywords": [
+                "STEM",
+                "gender inequality",
+                "science of science",
+                "scientific careers"
+            ],
+            "Year": "2020",
+            "Title": "Historical comparison of gender inequality in scientific careers across countries and disciplines.",
+            "Authors": [
+                "Huang, Junming",
+                "Gates, Alexander",
+                "Sinatra, Roberta",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "32320696": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "The Network Medicine Imperative and the Need for an International Network Medicine Consortium.",
+            "Authors": [
+                "Parini, Paolo",
+                "Altucci, Lucia",
+                "Balligand, Jean Luc",
+                "Baumbach, Jan",
+                "Ferdinandy, Peter",
+                "Filetti, Sebastiano",
+                "Maron, Bradley",
+                "Petrillo, Enrico",
+                "Silverman, Edwin",
+                "Barabasi, Albert Laszlo",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "32041952": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "Discovering the genes mediating the interactions between chronic respiratory diseases in the human interactome.",
+            "Authors": [
+                "Maiorino, Enrico",
+                "Baek, Seung Han",
+                "Guo, Feng",
+                "Zhou, Xiaobo",
+                "Kothari, Parul",
+                "Silverman, Edwin",
+                "Barabasi, Albert Laszlo",
+                "Weiss, Scott",
+                "Raby, Benjamin",
+                "Sharma, Amitabh"
+            ],
+            "Citations": "n/a"
+        },
+        "31695218": {
+            "Keywords": [
+                "Publishing",
+                "Research data",
+                "Research management"
+            ],
+            "Year": "2019",
+            "Title": "Nature's reach: narrow work has broad impact.",
+            "Authors": [
+                "Gates, Alexander",
+                "Ke, Qing",
+                "Varol, Onur",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "32550253": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19.",
+            "Authors": [
+                "Gysi, Deisy Morselli",
+                "Do Valle, Italo",
+                "Zitnik, Marinka",
+                "Ameli, Asher",
+                "Gan, Xiao",
+                "Varol, Onur",
+                "Sanchez, Helia",
+                "Baron, Rebecca Marlene",
+                "Ghiassian, Dina",
+                "Loscalzo, Joseph",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "32166208": {
+            "Keywords": [
+                "C. elegans",
+                "Graph theory",
+                "Network control theory",
+                "Neuronal ablations",
+                "Synthetic lethality"
+            ],
+            "Year": "2020",
+            "Title": "Synthetic ablations in the <i>C. elegans</i> nervous system.",
+            "Authors": [
+                "Towlson, Emma",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "31806491": {
+            "Keywords": [
+                "Brain Networks",
+                "C. elegans",
+                "Connectomics",
+                "Generative Model",
+                "Theory",
+                "development",
+                "encoding"
+            ],
+            "Year": "2020",
+            "Title": "A Genetic Model of the Connectome.",
+            "Authors": [
+                "Barabasi, Daniel",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "31974245": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "The exposome and health: Where chemistry meets biology.",
+            "Authors": [
+                "Vermeulen, Roel",
+                "Schymanski, Emma",
+                "Barabasi, Albert Laszlo",
+                "Miller, Gary"
+            ],
+            "Citations": "n/a"
+        },
+        "30988295": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "Publisher Correction: Network-based prediction of drug combinations.",
+            "Authors": [
+                "Cheng, Feixiong",
+                "Kovacs, Istvan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30918410": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "Author Correction: Universal resilience patterns in complex networks.",
+            "Authors": [
+                "Gao, Jianxi",
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30886144": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "Network-based prediction of protein interactions.",
+            "Authors": [
+                "Kovacs, Istvan",
+                "Luck, Katja",
+                "Spirohn, Kerstin",
+                "Wang, Yang",
+                "Pollis, Carl",
+                "Schlabach, Sadie",
+                "Bian, Wenting",
+                "Kim, Dae Kyum",
+                "Kishore, Nishka",
+                "Hao, Tong",
+                "Calderwood, Michael",
+                "Vidal, Marc",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30867426": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "Network-based prediction of drug combinations.",
+            "Authors": [
+                "Cheng, Feixiong",
+                "Kovacs, Istvan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30530676": {
+            "Keywords": [
+                "mentorship",
+                "science of science",
+                "scientific careers"
+            ],
+            "Year": "2018",
+            "Title": "The chaperone effect in scientific publishing.",
+            "Authors": [
+                "Sekara, Vedran",
+                "Deville, Pierre",
+                "Ahnert, Sebastian",
+                "Barabasi, Albert Laszlo",
+                "Sinatra, Roberta",
+                "Lehmann, Sune"
+            ],
+            "Citations": "n/a"
+        },
+        "30002366": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2018",
+            "Title": "Network-based approach to prediction and population-based validation of in silico drug repurposing.",
+            "Authors": [
+                "Cheng, Feixiong",
+                "Desai, Rishi",
+                "Handy, Diane",
+                "Wang, Ruisheng",
+                "Schneeweiss, Sebastian",
+                "Barabasi, Albert Laszlo",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "29977601": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2018",
+            "Title": "Controllability in an islet specific regulatory network identifies the transcriptional factor NFATC4, which regulates Type 2 Diabetes associated genes.",
+            "Authors": [
+                "Sharma, Amitabh",
+                "Halu, Arda",
+                "Decano, Julius",
+                "Padi, Megha",
+                "Liu, Yang Yu",
+                "Prasad, Rashmi",
+                "Fadista, Joao",
+                "Santolini, Marc",
+                "Menche, Jorg",
+                "Weiss, Scott",
+                "Vidal, Marc",
+                "Silverman, Edwin",
+                "Aikawa, Masanori",
+                "Barabasi, Albert Laszlo",
+                "Groop, Leif",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "30932052": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "The universal decay of collective memory and attention.",
+            "Authors": [
+                "Candia, Cristian",
+                "Jara-Figueroa, C",
+                "Rodriguez-Sickert, Carlos",
+                "Barabasi, Albert Laszlo",
+                "Hidalgo, Cesar"
+            ],
+            "Citations": "n/a"
+        },
+        "30586693": {
+            "Keywords": [
+                "Notch signaling",
+                "atherosclerosis",
+                "chronic kidney diseases",
+                "indoxyl sulfate",
+                "inflammation",
+                "macrophage"
+            ],
+            "Year": "2019",
+            "Title": "Uremic Toxin Indoxyl Sulfate Promotes Proinflammatory Macrophage Activation Via the Interplay of OATP2B1 and Dll4-Notch Signaling.",
+            "Authors": [
+                "Nakano, Toshiaki",
+                "Katsuki, Shunsuke",
+                "Chen, Mingxian",
+                "Decano, Julius",
+                "Halu, Arda",
+                "Lee, Lang Ho",
+                "Pestana, Diego V",
+                "Kum, Angelo S",
+                "Kuromoto, Rodrigo",
+                "Golden, Whitney",
+                "Boff, Mario",
+                "Guimaraes, Gabriel",
+                "Higashi, Hideyuki",
+                "Kauffman, Kevin",
+                "Maejima, Takashi",
+                "Suzuki, Takehiro",
+                "Iwata, Hiroshi",
+                "Barabasi, Albert Laszlo",
+                "Aster, Jon",
+                "Anderson, Daniel",
+                "Sharma, Amitabh",
+                "Singh, Sasha",
+                "Aikawa, Elena",
+                "Aikawa, Masanori"
+            ],
+            "Citations": "n/a"
+        },
+        "30487615": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2018",
+            "Title": "A structural transition in physical networks.",
+            "Authors": [
+                "Dehmamy, Nima",
+                "Milanlouei, Soodabeh",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30409804": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2018",
+            "Title": "Quantifying reputation and success in art.",
+            "Authors": [
+                "Fraiberger, Samuel",
+                "Sinatra, Roberta",
+                "Resch, Magnus",
+                "Riedl, Christoph",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "30373826": {
+            "Keywords": [
+                "Internet",
+                "economy",
+                "government structure",
+                "ideology",
+                "network science"
+            ],
+            "Year": "2018",
+            "Title": "Functional structures of US state governments.",
+            "Authors": [
+                "Kosack, Stephen",
+                "Coscia, Michele",
+                "Smith, Evann",
+                "Albrecht, Kim",
+                "Barabasi, Albert Laszlo",
+                "Hausmann, Ricardo"
+            ],
+            "Citations": "n/a"
+        },
+        "30201837": {
+            "Keywords": [
+                "C. elegans",
+                "connectome",
+                "control theory",
+                "locomotion",
+                "network science"
+            ],
+            "Year": "2018",
+            "Title": "<i>Caenorhabditis elegans</i> and the network control framework-FAQs.",
+            "Authors": [
+                "Towlson, Emma",
+                "Vertes, Petra",
+                "Yan, Gang",
+                "Chew, Yee Lian",
+                "Walker, Denise",
+                "Schafer, William",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "29925605": {
+            "Keywords": [
+                "biological networks",
+                "chemotaxis",
+                "perturbation patterns",
+                "topological models"
+            ],
+            "Year": "2018",
+            "Title": "Predicting perturbation patterns from the topology of biological networks.",
+            "Authors": [
+                "Santolini, Marc",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "29045391": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Network control principles predict neuron function in the Caenorhabditis elegans connectome.",
+            "Authors": [
+                "Yan, Gang",
+                "Vertes, Petra",
+                "Towlson, Emma",
+                "Chew, Yee Lian",
+                "Walker, Denise",
+                "Schafer, William",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "29496846": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2018",
+            "Title": "Science of science.",
+            "Authors": [
+                "Fortunato, Santo",
+                "Bergstrom, Carl",
+                "Borner, Katy",
+                "Evans, James",
+                "Helbing, Dirk",
+                "Milojevic, Stasa",
+                "Petersen, Alexander",
+                "Radicchi, Filippo",
+                "Sinatra, Roberta",
+                "Uzzi, Brian",
+                "Vespignani, Alessandro",
+                "Waltman, Ludo",
+                "Wang, Dashun",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "28706031": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "The elegant law that governs us all.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "29047458": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Recordings of Caenorhabditis elegans locomotor behaviour following targeted ablation of single motorneurons.",
+            "Authors": [
+                "Chew, Yee Lian",
+                "Walker, Denise",
+                "Towlson, Emma",
+                "Vertes, Petra",
+                "Yan, Gang",
+                "Barabasi, Albert Laszlo",
+                "Schafer, William"
+            ],
+            "Citations": "n/a"
+        },
+        "28649437": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Integrating personalized gene expression profiles into predictive disease-associated gene pools.",
+            "Authors": [
+                "Menche, Jorg",
+                "Guney, Emre",
+                "Sharma, Amitabh",
+                "Branigan, Patrick",
+                "Loza, Matthew",
+                "Baribaud, Frederic",
+                "Dobrin, Radu",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "28054597": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Trade-offs between driving nodes and time-to-control in complex networks.",
+            "Authors": [
+                "Pequito, Sergio",
+                "Preciado, Victor",
+                "Barabasi, Albert Laszlo",
+                "Pappas, George"
+            ],
+            "Citations": "n/a"
+        },
+        "28460026": {
+            "Keywords": [
+                "Big Data",
+                "Bioinformatics",
+                "Multiomics",
+                "Network analysis",
+                "Omics",
+                "Tailored medicine"
+            ],
+            "Year": "2017",
+            "Title": "Epigenomic and transcriptomic approaches in the post-genomic era: path to novel targets for diagnosis and therapy of the ischaemic heart? Position Paper of the European Society of Cardiology Working Group on Cellular Biology of the Heart.",
+            "Authors": [
+                "Perrino, Cinzia",
+                "Barabasi, Albert Laszlo",
+                "Condorelli, Gianluigi",
+                "Davidson, Sean Michael",
+                "De Windt, Leon",
+                "Dimmeler, Stefanie",
+                "Engel, Felix Benedikt",
+                "Hausenloy, Derek John",
+                "Hill, Joseph Addison",
+                "Van Laake, Linda Wilhelmina",
+                "Lecour, Sandrine",
+                "Leor, Jonathan",
+                "Madonna, Rosalinda",
+                "Mayr, Manuel",
+                "Prunier, Fabrice",
+                "Sluijter, Joost Petrus Geradus",
+                "Schulz, Rainer",
+                "Thum, Thomas",
+                "Ytrehus, Kirsti",
+                "Ferdinandy, Peter"
+            ],
+            "Citations": "n/a"
+        },
+        "28185567": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "From comorbidities of chronic obstructive pulmonary disease to identification of shared molecular mechanisms by data integration.",
+            "Authors": [
+                "Gomez-Cabrero, David",
+                "Menche, Jorg",
+                "Vargas, Claudia",
+                "Cano, Isaac",
+                "Maier, Dieter",
+                "Barabasi, Albert Laszlo",
+                "Tegner, Jesper",
+                "Roca, Josep"
+            ],
+            "Citations": "n/a"
+        },
+        "27811240": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Quantifying the evolution of individual scientific impact.",
+            "Authors": [
+                "Sinatra, Roberta",
+                "Wang, Dashun",
+                "Deville, Pierre",
+                "Song, Chaoming",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "28495702": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Academia under fire in Hungary.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "28443647": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Identifying and modeling the structural discontinuities of human interactions.",
+            "Authors": [
+                "Grauwin, Sebastian",
+                "Szell, Michael",
+                "Sobolevsky, Stanislav",
+                "Hovel, Philipp",
+                "Simini, Filippo",
+                "Vanhoof, Maarten",
+                "Smoreda, Zbigniew",
+                "Barabasi, Albert Laszlo",
+                "Ratti, Carlo"
+            ],
+            "Citations": "n/a"
+        },
+        "28276443": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Corrigendum: Trade-offs between driving nodes and time-to-control in complex networks.",
+            "Authors": [
+                "Pequito, Sergio",
+                "Preciado, Victor",
+                "Barabasi, Albert Laszlo",
+                "Pappas, George"
+            ],
+            "Citations": "n/a"
+        },
+        "28148769": {
+            "Keywords": [
+                "network reconstruction",
+                "networked systems",
+                "system identification"
+            ],
+            "Year": "2017",
+            "Title": "Fundamental limitations of network reconstruction from temporal data.",
+            "Authors": [
+                "Angulo, Marco Tulio",
+                "Moreno, Jaime",
+                "Lippner, Gabor",
+                "Barabasi, Albert Laszlo",
+                "Liu, Yang Yu"
+            ],
+            "Citations": "n/a"
+        },
+        "27197218": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Control of fluxes in metabolic networks.",
+            "Authors": [
+                "Basler, Georg",
+                "Nikoloski, Zoran",
+                "Larhlimi, Abdelhalim",
+                "Barabasi, Albert Laszlo",
+                "Liu, Yang Yu"
+            ],
+            "Citations": "n/a"
+        },
+        "27091990": {
+            "Keywords": [
+                "controllability",
+                "disease genes",
+                "drug targets",
+                "network biology",
+                "protein\u2013protein interaction network"
+            ],
+            "Year": "2016",
+            "Title": "Controllability analysis of the directed human protein interaction network identifies disease genes and drug targets.",
+            "Authors": [
+                "Vinayagam, Arunachalam",
+                "Gibson, Travis",
+                "Lee, Ho Joon",
+                "Yilmazel, Bahar",
+                "Roesel, Charles",
+                "Hu, Yanhui",
+                "Kwon, Young",
+                "Sharma, Amitabh",
+                "Liu, Yang Yu",
+                "Perrimon, Norbert",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "27107014": {
+            "Keywords": [
+                "Cross\u2010species complementation",
+                "Network evolution",
+                "Selection"
+            ],
+            "Year": "2016",
+            "Title": "An inter-species protein-protein interaction network across vast evolutionary distance.",
+            "Authors": [
+                "Zhong, Quan",
+                "Pevzner, Samuel",
+                "Hao, Tong",
+                "Wang, Yang",
+                "Mosca, Roberto",
+                "Menche, Jorg",
+                "Taipale, Mikko",
+                "Tasan, Murat",
+                "Fan, Changyu",
+                "Yang, Xinping",
+                "Haley, Patrick",
+                "Murray, Ryan",
+                "Mer, Flora",
+                "Gebreab, Fana",
+                "Tam, Stanley",
+                "MacWilliams, Andrew",
+                "Dricot, Amelie",
+                "Reichert, Patrick",
+                "Santhanam, Balaji",
+                "Ghamsari, Lila",
+                "Calderwood, Michael",
+                "Rolland, Thomas",
+                "Charloteaux, Benoit",
+                "Lindquist, Susan",
+                "Barabasi, Albert Laszlo",
+                "Hill, David",
+                "Aloy, Patrick",
+                "Cusick, Michael",
+                "Xia, Yu",
+                "Roth, Frederick",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "27796300": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "PARP9 and PARP14 cross-regulate macrophage activation via STAT1 ADP-ribosylation.",
+            "Authors": [
+                "Iwata, Hiroshi",
+                "Goettsch, Claudia",
+                "Sharma, Amitabh",
+                "Ricchiuto, Piero",
+                "Goh, Wilson Wen Bin",
+                "Halu, Arda",
+                "Yamada, Iwao",
+                "Yoshida, Hideo",
+                "Hara, Takuya",
+                "Wei, Mei",
+                "Inoue, Noriyuki",
+                "Fukuda, Daiju",
+                "Mojcher, Alexander",
+                "Mattson, Peter",
+                "Barabasi, Albert Laszlo",
+                "Boothby, Mark",
+                "Aikawa, Elena",
+                "Singh, Sasha",
+                "Aikawa, Masanori"
+            ],
+            "Citations": "n/a"
+        },
+        "27748412": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Tissue Specificity of Human Disease Module.",
+            "Authors": [
+                "Kitsak, Maksim",
+                "Sharma, Amitabh",
+                "Menche, Jorg",
+                "Guney, Emre",
+                "Ghiassian, Susan Dina",
+                "Loscalzo, Joseph",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "27739809": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Controllability of multiplex, multi-time-scale networks.",
+            "Authors": [
+                "Posfai, Marton",
+                "Gao, Jianxi",
+                "Cornelius, Sean",
+                "Barabasi, Albert Laszlo",
+                "D'Souza, Raissa"
+            ],
+            "Citations": "n/a"
+        },
+        "26887493": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Universal resilience patterns in complex networks.",
+            "Authors": [
+                "Gao, Jianxi",
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "27144362": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Universal resilience patterns in complex networks.",
+            "Authors": [
+                "Gao, Jianxi",
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "26571460": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Canonical genetic signatures of the adult human brain.",
+            "Authors": [
+                "Hawrylycz, Michael",
+                "Miller, Jeremy",
+                "Menon, Vilas",
+                "Feng, David",
+                "Dolbeare, Tim",
+                "Guillozet-Bongaarts, Angela",
+                "Jegga, Anil",
+                "Aronow, Bruce",
+                "Lee, Chang Kyu",
+                "Bernard, Amy",
+                "Glasser, Matthew",
+                "Dierker, Donna",
+                "Menche, Jorg",
+                "Szafer, Aaron",
+                "Collman, Forrest",
+                "Grange, Pascal",
+                "Berman, Kenneth",
+                "Mihalas, Stefan",
+                "Yao, Zizhen",
+                "Stewart, Lance",
+                "Barabasi, Albert Laszlo",
+                "Schulkin, Jay",
+                "Phillips, John",
+                "Ng, Lydia",
+                "Dang, Chinh",
+                "Haynor, David",
+                "Jones, Allan",
+                "Van Essen, David",
+                "Koch, Christof",
+                "Lein, Ed"
+            ],
+            "Citations": "n/a"
+        },
+        "27278246": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Endophenotype Network Models: Common Core of Complex Diseases.",
+            "Authors": [
+                "Ghiassian, Susan Dina",
+                "Menche, Jorg",
+                "Chasman, Daniel",
+                "Giulianini, Franco",
+                "Wang, Ruisheng",
+                "Ricchiuto, Piero",
+                "Aikawa, Masanori",
+                "Iwata, Hiroshi",
+                "Muller, Christian",
+                "Zeller, Tania",
+                "Sharma, Amitabh",
+                "Wild, Philipp",
+                "Lackner, Karl",
+                "Singh, Sasha",
+                "Ridker, Paul",
+                "Blankenberg, Stefan",
+                "Barabasi, Albert Laszlo",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "27274050": {
+            "Keywords": [
+                "human mobility",
+                "mobile phone data",
+                "social interactions",
+                "social networks",
+                "spatial networks"
+            ],
+            "Year": "2016",
+            "Title": "Scaling identity connects human mobility and social interactions.",
+            "Authors": [
+                "Deville, Pierre",
+                "Song, Chaoming",
+                "Eagle, Nathan",
+                "Blondel, Vincent",
+                "Barabasi, Albert Laszlo",
+                "Wang, Dashun"
+            ],
+            "Citations": "n/a"
+        },
+        "26831545": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2016",
+            "Title": "Network-based in silico drug efficacy screening.",
+            "Authors": [
+                "Guney, Emre",
+                "Menche, Jorg",
+                "Vidal, Marc",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "26245576": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Network science: Destruction perfected.",
+            "Authors": [
+                "Kovacs, Istvan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25853560": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "A DIseAse MOdule Detection (DIAMOnD) algorithm derived from a systematic analysis of connectivity patterns of disease proteins in the human interactome.",
+            "Authors": [
+                "Ghiassian, Susan Dina",
+                "Menche, Jorg",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "26349016": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Returners and explorers dichotomy in human mobility.",
+            "Authors": [
+                "Pappalardo, Luca",
+                "Simini, Filippo",
+                "Rinzivillo, Salvatore",
+                "Pedreschi, Dino",
+                "Giannotti, Fosca",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25586491": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "A disease module in the interactome explains disease heterogeneity, drug response and captures novel pathways and genes in asthma.",
+            "Authors": [
+                "Sharma, Amitabh",
+                "Menche, Jorg",
+                "Huang, C Chris",
+                "Ort, Tatiana",
+                "Zhou, Xiaobo",
+                "Kitsak, Maksim",
+                "Sahni, Nidhi",
+                "Thibault, Derek",
+                "Voung, Linh",
+                "Guo, Feng",
+                "Ghiassian, Susan Dina",
+                "Gulbahce, Natali",
+                "Baribaud, Frederic",
+                "Tocker, Joel",
+                "Dobrin, Radu",
+                "Barnathan, Elliot",
+                "Liu, Hao",
+                "Panettieri, Reynold",
+                "Tantisira, Kelan",
+                "Qiu, Weiliang",
+                "Raby, Benjamin",
+                "Silverman, Edwin",
+                "Vidal, Marc",
+                "Weiss, Scott",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25990707": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Constructing minimal models for complex system dynamics.",
+            "Authors": [
+                "Barzel, Baruch",
+                "Liu, Yang Yu",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25471042": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Systems Medicine: from molecular features and models to the clinic in COPD.",
+            "Authors": [
+                "Gomez-Cabrero, David",
+                "Menche, Jorg",
+                "Cano, Isaac",
+                "Abugessaisa, Imad",
+                "Huertas-Miguelanez, Mercedes",
+                "Tenyi, Akos",
+                "Marin de Mas, Igor",
+                "Kiani, Narsis",
+                "Marabita, Francesco",
+                "Falciani, Francesco",
+                "Burrowes, Kelly",
+                "Maier, Dieter",
+                "Wagner, Peter",
+                "Selivanov, Vitaly",
+                "Cascante, Marta",
+                "Roca, Josep",
+                "Barabasi, Albert Laszlo",
+                "Tegner, Jesper"
+            ],
+            "Citations": "n/a"
+        },
+        "25416956": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "A proteome-scale map of the human interactome network.",
+            "Authors": [
+                "Rolland, Thomas",
+                "Tasan, Murat",
+                "Charloteaux, Benoit",
+                "Pevzner, Samuel",
+                "Zhong, Quan",
+                "Sahni, Nidhi",
+                "Yi, Song",
+                "Lemmens, Irma",
+                "Fontanillo, Celia",
+                "Mosca, Roberto",
+                "Kamburov, Atanas",
+                "Ghiassian, Susan",
+                "Yang, Xinping",
+                "Ghamsari, Lila",
+                "Balcha, Dawit",
+                "Begg, Bridget",
+                "Braun, Pascal",
+                "Brehme, Marc",
+                "Broly, Martin",
+                "Carvunis, Anne Ruxandra",
+                "Convery-Zupan, Dan",
+                "Corominas, Roser",
+                "Coulombe-Huntington, Jasmin",
+                "Dann, Elizabeth",
+                "Dreze, Matija",
+                "Dricot, Amelie",
+                "Fan, Changyu",
+                "Franzosa, Eric",
+                "Gebreab, Fana",
+                "Gutierrez, Bryan",
+                "Hardy, Madeleine",
+                "Jin, Mike",
+                "Kang, Shuli",
+                "Kiros, Ruth",
+                "Lin, Guan Ning",
+                "Luck, Katja",
+                "MacWilliams, Andrew",
+                "Menche, Jorg",
+                "Murray, Ryan",
+                "Palagi, Alexandre",
+                "Poulin, Matthew",
+                "Rambout, Xavier",
+                "Rasla, John",
+                "Reichert, Patrick",
+                "Romero, Viviana",
+                "Ruyssinck, Elien",
+                "Sahalie, Julie",
+                "Scholz, Annemarie",
+                "Shah, Akash",
+                "Sharma, Amitabh",
+                "Shen, Yun",
+                "Spirohn, Kerstin",
+                "Tam, Stanley",
+                "Tejeda, Alexander",
+                "Trigg, Shelly",
+                "Twizere, Jean Claude",
+                "Vega, Kerwin",
+                "Walsh, Jennifer",
+                "Cusick, Michael",
+                "Xia, Yu",
+                "Barabasi, Albert Laszlo",
+                "Iakoucheva, Lilia",
+                "Aloy, Patrick",
+                "De Las Rivas, Javier",
+                "Tavernier, Jan",
+                "Calderwood, Michael",
+                "Hill, David",
+                "Hao, Tong",
+                "Roth, Frederick",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "25388503": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Target control of complex networks.",
+            "Authors": [
+                "Gao, Jianxi",
+                "Liu, Yang Yu",
+                "D'Souza, Raissa",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25910212": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Widespread macromolecular interaction perturbations in human genetic disorders.",
+            "Authors": [
+                "Sahni, Nidhi",
+                "Yi, Song",
+                "Taipale, Mikko",
+                "Fuxman Bass, Juan",
+                "Coulombe-Huntington, Jasmin",
+                "Yang, Fan",
+                "Peng, Jian",
+                "Weile, Jochen",
+                "Karras, Georgios",
+                "Wang, Yang",
+                "Kovacs, Istvan",
+                "Kamburov, Atanas",
+                "Krykbaeva, Irina",
+                "Lam, Mandy",
+                "Tucker, George",
+                "Khurana, Vikram",
+                "Sharma, Amitabh",
+                "Liu, Yang Yu",
+                "Yachie, Nozomu",
+                "Zhong, Quan",
+                "Shen, Yun",
+                "Palagi, Alexandre",
+                "San-Miguel, Adriana",
+                "Fan, Changyu",
+                "Balcha, Dawit",
+                "Dricot, Amelie",
+                "Jordan, Daniel",
+                "Walsh, Jennifer",
+                "Shah, Akash",
+                "Yang, Xinping",
+                "Stoyanova, Ani",
+                "Leighton, Alex",
+                "Calderwood, Michael",
+                "Jacob, Yves",
+                "Cusick, Michael",
+                "Salehi-Ashtiani, Kourosh",
+                "Whitesell, Luke",
+                "Sunyaev, Shamil",
+                "Berger, Bonnie",
+                "Barabasi, Albert Laszlo",
+                "Charloteaux, Benoit",
+                "Hill, David",
+                "Hao, Tong",
+                "Roth, Frederick",
+                "Xia, Yu",
+                "Walhout, Albertha J",
+                "Lindquist, Susan",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "25850053": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Response to letter of correspondence - Bastiaens et al.",
+            "Authors": [
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25473422": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Modules, networks and systems medicine for understanding disease and aiding diagnosis.",
+            "Authors": [
+                "Gustafsson, Mika",
+                "Nestor, Colm",
+                "Zhang, Huan",
+                "Barabasi, Albert Laszlo",
+                "Baranzini, Sergio",
+                "Brunak, Soren",
+                "Chung, Kian Fan",
+                "Federoff, Howard",
+                "Gavin, Anne Claude",
+                "Meehan, Richard",
+                "Picotti, Paola",
+                "Pujana, Miguel Angel",
+                "Rajewsky, Nikolaus",
+                "Smith, Kenneth Gc",
+                "Sterk, Peter",
+                "Villoslada, Pablo",
+                "Benson, Mikael"
+            ],
+            "Citations": "n/a"
+        },
+        "25700523": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2015",
+            "Title": "Disease networks. Uncovering disease-disease relationships through the incomplete interactome.",
+            "Authors": [
+                "Menche, Jorg",
+                "Sharma, Amitabh",
+                "Kitsak, Maksim",
+                "Ghiassian, Susan Dina",
+                "Vidal, Marc",
+                "Loscalzo, Joseph",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25013056": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Science communication. Response to Comment on \"Quantifying long-term scientific impact\".",
+            "Authors": [
+                "Wang, Dashun",
+                "Song, Chaoming",
+                "Shen, Hua Wei",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25114238": {
+            "Keywords": [
+                "network science",
+                "scientific impact",
+                "team science"
+            ],
+            "Year": "2014",
+            "Title": "Collective credit allocation in science.",
+            "Authors": [
+                "Shen, Hua Wei",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25082701": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Quantitative social science. A network framework of cultural history.",
+            "Authors": [
+                "Schich, Maximilian",
+                "Song, Chaoming",
+                "Ahn, Yong Yeol",
+                "Mirsky, Alexander",
+                "Martino, Mauro",
+                "Barabasi, Albert Laszlo",
+                "Helbing, Dirk"
+            ],
+            "Citations": "n/a"
+        },
+        "25028059": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "A genetic epidemiology approach to cyber-security.",
+            "Authors": [
+                "Gil, Santiago",
+                "Kott, Alexander",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "24967666": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Human symptoms-disease network.",
+            "Authors": [
+                "Zhou, XueZhong",
+                "Menche, Jorg",
+                "Barabasi, Albert Laszlo",
+                "Sharma, Amitabh"
+            ],
+            "Citations": "n/a"
+        },
+        "24759743": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Career on the move: geography, stratification, and scientific impact.",
+            "Authors": [
+                "Deville, Pierre",
+                "Wang, Dashun",
+                "Sinatra, Roberta",
+                "Song, Chaoming",
+                "Blondel, Vincent",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "24092745": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Quantifying long-term scientific impact.",
+            "Authors": [
+                "Wang, Dashun",
+                "Song, Chaoming",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "24499738": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "Quantifying information flow during emergencies.",
+            "Authors": [
+                "Gao, Liang",
+                "Song, Chaoming",
+                "Gao, Ziyou",
+                "Barabasi, Albert Laszlo",
+                "Bagrow, James",
+                "Wang, Dashun"
+            ],
+            "Citations": "n/a"
+        },
+        "23851447": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Network link prediction by global silencing of indirect correlations.",
+            "Authors": [
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "25032995": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2014",
+            "Title": "A diVIsive Shuffling Approach (VIStA) for gene expression analysis to identify subtypes in Chronic Obstructive Pulmonary Disease.",
+            "Authors": [
+                "Menche, Jorg",
+                "Sharma, Amitabh",
+                "Cho, Michael",
+                "Mayer, Ruth",
+                "Rennard, Stephen",
+                "Celli, Bartolome",
+                "Miller, Bruce",
+                "Locantore, Nick",
+                "Tal-Singer, Ruth",
+                "Ghosh, Soumitra",
+                "Larminie, Chris",
+                "Bradley, Glyn",
+                "Riley, John",
+                "Agusti, Alvar",
+                "Silverman, Edwin",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23882023": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Network-based analysis of genome wide association data provides novel candidate genes for lipid and lipoprotein traits.",
+            "Authors": [
+                "Sharma, Amitabh",
+                "Gulbahce, Natali",
+                "Pevzner, Samuel",
+                "Menche, Jorg",
+                "Ladenvall, Claes",
+                "Folkersen, Lasse",
+                "Eriksson, Per",
+                "Orho-Melander, Marju",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "24108146": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Uncovering the role of elementary processes in network evolution.",
+            "Authors": [
+                "Ghoshal, Gourab",
+                "Chi, Liping",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "24319492": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Universality in network dynamics.",
+            "Authors": [
+                "Barzel, Baruch",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23912679": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Control capacity and a random sampling method in exploring controllability of complex networks.",
+            "Authors": [
+                "Jia, Tao",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "22972190": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Network science: Luck or reason.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23419844": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Network science.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23359701": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Observability of complex systems.",
+            "Authors": [
+                "Liu, Yang Yu",
+                "Slotine, Jean Jacques",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23774965": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Emergence of bimodality in controlling complex networks.",
+            "Authors": [
+                "Jia, Tao",
+                "Liu, Yang Yu",
+                "Csoka, Endre",
+                "Posfai, Marton",
+                "Slotine, Jean Jacques",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23323210": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2013",
+            "Title": "Effect of correlations on network controllability.",
+            "Authors": [
+                "Posfai, Marton",
+                "Liu, Yang Yu",
+                "Slotine, Jean Jacques",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23128218": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Publishing: Handful of papers dominates citation.",
+            "Authors": [
+                "Barabasi, Albert Laszlo",
+                "Song, Chaoming",
+                "Wang, Dashun"
+            ],
+            "Citations": "n/a"
+        },
+        "23005999": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Dynamics of ranking processes in complex systems.",
+            "Authors": [
+                "Blumm, Nicholas",
+                "Ghoshal, Gourab",
+                "Forro, Zalan",
+                "Schich, Maximilian",
+                "Bianconi, Ginestra",
+                "Bouchaud, Jean Philippe",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "22810586": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins.",
+            "Authors": [
+                "Rozenblatt-Rosen, Orit",
+                "Deo, Rahul",
+                "Padi, Megha",
+                "Adelmant, Guillaume",
+                "Calderwood, Michael",
+                "Rolland, Thomas",
+                "Grace, Miranda",
+                "Dricot, Amelie",
+                "Askenazi, Manor",
+                "Tavares, Maria",
+                "Pevzner, Samuel",
+                "Abderazzaq, Fieda",
+                "Byrdsong, Danielle",
+                "Carvunis, Anne Ruxandra",
+                "Chen, Alyce",
+                "Cheng, Jingwei",
+                "Correll, Mick",
+                "Duarte, Melissa",
+                "Fan, Changyu",
+                "Feltkamp, Mariet",
+                "Ficarro, Scott",
+                "Franchi, Rachel",
+                "Garg, Brijesh",
+                "Gulbahce, Natali",
+                "Hao, Tong",
+                "Holthaus, Amy",
+                "James, Robert",
+                "Korkhin, Anna",
+                "Litovchick, Larisa",
+                "Mar, Jessica",
+                "Pak, Theodore",
+                "Rabello, Sabrina",
+                "Rubio, Renee",
+                "Shen, Yun",
+                "Singh, Saurav",
+                "Spangle, Jennifer",
+                "Tasan, Murat",
+                "Wanamaker, Shelly",
+                "Webber, James",
+                "Roecklein-Canfield, Jennifer",
+                "Johannsen, Eric",
+                "Barabasi, Albert Laszlo",
+                "Beroukhim, Rameen",
+                "Kieff, Elliott",
+                "Cusick, Michael",
+                "Hill, David",
+                "Munger, Karl",
+                "Marto, Jarrod",
+                "Quackenbush, John",
+                "Roth, Frederick",
+                "DeCaprio, James",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "22761553": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Viral perturbations of host networks reflect disease etiology.",
+            "Authors": [
+                "Gulbahce, Natali",
+                "Yan, Han",
+                "Dricot, Amelie",
+                "Padi, Megha",
+                "Byrdsong, Danielle",
+                "Franchi, Rachel",
+                "Lee, Deok Sun",
+                "Rozenblatt-Rosen, Orit",
+                "Mar, Jessica",
+                "Calderwood, Michael",
+                "Baldwin, Amy",
+                "Zhao, Bo",
+                "Santhanam, Balaji",
+                "Braun, Pascal",
+                "Simonis, Nicolas",
+                "Huh, Kyung Won",
+                "Hellner, Karin",
+                "Grace, Miranda",
+                "Chen, Alyce",
+                "Rubio, Renee",
+                "Marto, Jarrod",
+                "Christakis, Nicholas",
+                "Kieff, Elliott",
+                "Roth, Frederick",
+                "Roecklein-Canfield, Jennifer",
+                "Decaprio, James",
+                "Cusick, Michael",
+                "Quackenbush, John",
+                "Hill, David",
+                "Munger, Karl",
+                "Vidal, Marc",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "22518274": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Sex differences in intimate relationships.",
+            "Authors": [
+                "Palchykov, Vasyl",
+                "Kaski, Kimmo",
+                "Kertesz, Janos",
+                "Barabasi, Albert Laszlo",
+                "Dunbar, Robin I"
+            ],
+            "Citations": "n/a"
+        },
+        "22371328": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "MicroRNA-21 integrates pathogenic signaling to control pulmonary hypertension: results of a network bioinformatics approach.",
+            "Authors": [
+                "Parikh, Victoria",
+                "Jin, Richard",
+                "Rabello, Sabrina",
+                "Gulbahce, Natali",
+                "White, Kevin",
+                "Hale, Andrew",
+                "Cottrill, Katherine",
+                "Shaik, Rahamthulla",
+                "Waxman, Aaron",
+                "Zhang, Ying Yi",
+                "Maron, Bradley",
+                "Hartner, Jochen",
+                "Fujiwara, Yuko",
+                "Orkin, Stuart",
+                "Haley, Kathleen",
+                "Barabasi, Albert Laszlo",
+                "Loscalzo, Joseph",
+                "Chan, Stephen"
+            ],
+            "Citations": "n/a"
+        },
+        "22367540": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "A universal model for mobility and migration patterns.",
+            "Authors": [
+                "Simini, Filippo",
+                "Gonzalez, Marta",
+                "Maritan, Amos",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "23028542": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Control centrality and hierarchical structure in complex networks.",
+            "Authors": [
+                "Liu, Yang Yu",
+                "Slotine, Jean Jacques",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "22563526": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2012",
+            "Title": "Universal features of correlated bursty behaviour.",
+            "Authors": [
+                "Karsai, Marton",
+                "Kaski, Kimmo",
+                "Barabasi, Albert Laszlo",
+                "Kertesz, Janos"
+            ],
+            "Citations": "n/a"
+        },
+        "21772265": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Ranking stability and super-stable nodes in complex networks.",
+            "Authors": [
+                "Ghoshal, Gourab",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "21164525": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Network medicine: a network-based approach to human disease.",
+            "Authors": [
+                "Barabasi, Albert Laszlo",
+                "Gulbahce, Natali",
+                "Loscalzo, Joseph"
+            ],
+            "Citations": "n/a"
+        },
+        "21562557": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Controllability of complex networks.",
+            "Authors": [
+                "Liu, Yang Yu",
+                "Slotine, Jean Jacques",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "21483665": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Geographic constraints on social network groups.",
+            "Authors": [
+                "Onnela, Jukka Pekka",
+                "Arbesman, Samuel",
+                "Gonzalez, Marta",
+                "Barabasi, Albert Laszlo",
+                "Christakis, Nicholas"
+            ],
+            "Citations": "n/a"
+        },
+        "21479206": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Collective response of human populations to large-scale emergencies.",
+            "Authors": [
+                "Bagrow, James",
+                "Wang, Dashun",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "21414488": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Interactome networks and human disease.",
+            "Authors": [
+                "Vidal, Marc",
+                "Cusick, Michael",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "21078624": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Comparison of an expanded ataxia interactome with patient medical records reveals a relationship between macular degeneration and ataxia.",
+            "Authors": [
+                "Kahle, Juliette",
+                "Gulbahce, Natali",
+                "Shaw, Chad",
+                "Lim, Janghoo",
+                "Hill, David",
+                "Barabasi, Albert Laszlo",
+                "Zoghbi, Huda"
+            ],
+            "Citations": "n/a"
+        },
+        "22355711": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2011",
+            "Title": "Flavor network and the principles of food pairing.",
+            "Authors": [
+                "Ahn, Yong Yeol",
+                "Ahnert, Sebastian",
+                "Bagrow, James",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "20167789": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2010",
+            "Title": "Limits of predictability in human mobility.",
+            "Authors": [
+                "Song, Chaoming",
+                "Qu, Zehui",
+                "Blumm, Nicholas",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "19376871": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "Comparative genome-scale metabolic reconstruction and flux balance analysis of multiple Staphylococcus aureus genomes identify novel antimicrobial drug targets.",
+            "Authors": [
+                "Lee, Deok Sun",
+                "Burd, Henry",
+                "Liu, Jiangxia",
+                "Almaas, Eivind",
+                "Wiest, Olaf",
+                "Barabasi, Albert Laszlo",
+                "Oltvai, Zoltan",
+                "Kapatral, Vinayak"
+            ],
+            "Citations": "n/a"
+        },
+        "19342553": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "Understanding the spreading patterns of mobile phone viruses.",
+            "Authors": [
+                "Wang, Pu",
+                "Gonzalez, Marta",
+                "Hidalgo, Cesar",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "19360091": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "A dynamic network approach for the study of human phenotypes.",
+            "Authors": [
+                "Hidalgo, Cesar",
+                "Blumm, Nicholas",
+                "Barabasi, Albert Laszlo",
+                "Christakis, Nicholas"
+            ],
+            "Citations": "n/a"
+        },
+        "19628854": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "Scale-free networks: a decade and beyond.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "19197046": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "Social science. Computational social science.",
+            "Authors": [
+                "Lazer, David",
+                "Pentland, Alex",
+                "Adamic, Lada",
+                "Aral, Sinan",
+                "Barabasi, Albert Laszlo",
+                "Brewer, Devon",
+                "Christakis, Nicholas",
+                "Contractor, Noshir",
+                "Fowler, James",
+                "Gutmann, Myron",
+                "Jebara, Tony",
+                "King, Gary",
+                "Macy, Michael",
+                "Roy, Deb",
+                "Van Alstyne, Marshall"
+            ],
+            "Citations": "n/a"
+        },
+        "19060904": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "An empirical framework for binary interactome mapping.",
+            "Authors": [
+                "Venkatesan, Kavitha",
+                "Rual, Jean Francois",
+                "Vazquez, Alexei",
+                "Stelzl, Ulrich",
+                "Lemmens, Irma",
+                "Hirozane-Kishikawa, Tomoko",
+                "Hao, Tong",
+                "Zenkner, Martina",
+                "Xin, Xiaofeng",
+                "Goh, Kwang Il",
+                "Yildirim, Muhammed",
+                "Simonis, Nicolas",
+                "Heinzmann, Kathrin",
+                "Gebreab, Fana",
+                "Sahalie, Julie",
+                "Cevik, Sebiha",
+                "Simon, Christophe",
+                "de Smet, Anne Sophie",
+                "Dann, Elizabeth",
+                "Smolyar, Alex",
+                "Vinayagam, Arunachalam",
+                "Yu, Haiyuan",
+                "Szeto, David",
+                "Borick, Heather",
+                "Dricot, Amelie",
+                "Klitgord, Niels",
+                "Murray, Ryan",
+                "Lin, Chenwei",
+                "Lalowski, Maciej",
+                "Timm, Jan",
+                "Rau, Kirstin",
+                "Boone, Charles",
+                "Braun, Pascal",
+                "Cusick, Michael",
+                "Roth, Frederick",
+                "Hill, David",
+                "Tavernier, Jan",
+                "Wanker, Erich",
+                "Barabasi, Albert Laszlo",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "19357641": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2009",
+            "Title": "The impact of cellular networks on disease comorbidity.",
+            "Authors": [
+                "Park, Juyong",
+                "Lee, Deok Sun",
+                "Christakis, Nicholas",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "18528393": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2008",
+            "Title": "Understanding individual human mobility patterns.",
+            "Authors": [
+                "Gonzalez, Marta",
+                "Hidalgo, Cesar",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "18846199": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2008",
+            "Title": "Impact of limited solvent capacity on metabolic rate, enzyme activities, and metabolite concentrations of S. cerevisiae glycolysis.",
+            "Authors": [
+                "Vazquez, Alexei",
+                "de Menezes, Marcio",
+                "Barabasi, Albert Laszlo",
+                "Oltvai, Zoltan"
+            ],
+            "Citations": "n/a"
+        },
+        "18719252": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2008",
+            "Title": "High-quality binary protein interaction map of the yeast interactome network.",
+            "Authors": [
+                "Yu, Haiyuan",
+                "Braun, Pascal",
+                "Yildirim, Muhammed",
+                "Lemmens, Irma",
+                "Venkatesan, Kavitha",
+                "Sahalie, Julie",
+                "Hirozane-Kishikawa, Tomoko",
+                "Gebreab, Fana",
+                "Li, Na",
+                "Simonis, Nicolas",
+                "Hao, Tong",
+                "Rual, Jean Francois",
+                "Dricot, Amelie",
+                "Vazquez, Alexei",
+                "Murray, Ryan",
+                "Simon, Christophe",
+                "Tardivo, Leah",
+                "Tam, Stanley",
+                "Svrzikapa, Nenad",
+                "Fan, Changyu",
+                "de Smet, Anne Sophie",
+                "Motyl, Adriana",
+                "Hudson, Michael",
+                "Park, Juyong",
+                "Xin, Xiaofeng",
+                "Cusick, Michael",
+                "Moore, Troy",
+                "Boone, Charlie",
+                "Snyder, Michael",
+                "Roth, Frederick",
+                "Barabasi, Albert Laszlo",
+                "Tavernier, Jan",
+                "Hill, David",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "18277384": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2008",
+            "Title": "Predicting synthetic rescues in metabolic networks.",
+            "Authors": [
+                "Motter, Adilson",
+                "Gulbahce, Natali",
+                "Almaas, Eivind",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "17989231": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Distribution of node characteristics in complex networks.",
+            "Authors": [
+                "Park, Juyong",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "17921997": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Drug-target network.",
+            "Authors": [
+                "Yildirim, Muhammed",
+                "Goh, Kwang Il",
+                "Cusick, Michael",
+                "Barabasi, Albert Laszlo",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "18215292": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2008",
+            "Title": "Impact of the solvent capacity constraint on E. coli metabolism.",
+            "Authors": [
+                "Vazquez, Alexei",
+                "Beg, Qasim",
+                "Demenezes, Marcio",
+                "Ernst, Jason",
+                "Bar-Joseph, Ziv",
+                "Barabasi, Albert Laszlo",
+                "Boros, Laszlo",
+                "Oltvai, Zoltan"
+            ],
+            "Citations": "n/a"
+        },
+        "17652657": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Network medicine--from obesity to the \"diseasome\".",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "17486083": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Genome-scale analysis of in vivo spatiotemporal promoter activity in Caenorhabditis elegans.",
+            "Authors": [
+                "Dupuy, Denis",
+                "Bertin, Nicolas",
+                "Hidalgo, Cesar",
+                "Venkatesan, Kavitha",
+                "Tu, Domena",
+                "Lee, David",
+                "Rosenberg, Jennifer",
+                "Svrzikapa, Nenad",
+                "Blanc, Aurelie",
+                "Carnec, Alain",
+                "Carvunis, Anne Ruxandra",
+                "Pulak, Rock",
+                "Shingles, Jane",
+                "Reece-Hoyes, John",
+                "Hunt-Newbury, Rebecca",
+                "Viveiros, Ryan",
+                "Mohler, William",
+                "Tasan, Murat",
+                "Roth, Frederick",
+                "Le Peuch, Christian",
+                "Hope, Ian",
+                "Johnsen, Robert",
+                "Moerman, Donald",
+                "Barabasi, Albert Laszlo",
+                "Baillie, David",
+                "Vidal, Marc"
+            ],
+            "Citations": "n/a"
+        },
+        "17410175": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Quantifying social group evolution.",
+            "Authors": [
+                "Palla, Gergely",
+                "Barabasi, Albert Laszlo",
+                "Vicsek, Tamas"
+            ],
+            "Citations": "n/a"
+        },
+        "17513831": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Transcription factor modularity in a gene-centered C. elegans core neuronal protein-DNA interaction network.",
+            "Authors": [
+                "Vermeirssen, Vanessa",
+                "Barrasa, M Inmaculada",
+                "Hidalgo, Cesar",
+                "Babon, Jenny Aurielle",
+                "Sequerra, Reynaldo",
+                "Doucette-Stamm, Lynn",
+                "Barabasi, Albert Laszlo",
+                "Walhout, Albertha J"
+            ],
+            "Citations": "n/a"
+        },
+        "17502601": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "The human disease network.",
+            "Authors": [
+                "Goh, Kwang Il",
+                "Cusick, Michael",
+                "Valle, David",
+                "Childs, Barton",
+                "Vidal, Marc",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "17501392": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Impact of non-Poissonian activity patterns on spreading processes.",
+            "Authors": [
+                "Vazquez, Alexei",
+                "Racz, Balazs",
+                "Lukacs, Andras",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "17625512": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "Human disease classification in the postgenomic era: a complex systems approach to human pathobiology.",
+            "Authors": [
+                "Loscalzo, Joseph",
+                "Kohane, Isaac",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "32226461": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2007",
+            "Title": "From data to models.",
+            "Authors": [
+                "Gonzalez, Marta",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "16713569": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2006",
+            "Title": "A protein-protein interaction network for human inherited ataxias and disorders of Purkinje cell degeneration.",
+            "Authors": [
+                "Lim, Janghoo",
+                "Hao, Tong",
+                "Shaw, Chad",
+                "Patel, Akash",
+                "Szabo, Gabor",
+                "Rual, Jean Francois",
+                "Fisk, C Joseph",
+                "Li, Ning",
+                "Smolyar, Alex",
+                "Hill, David",
+                "Barabasi, Albert Laszlo",
+                "Vidal, Marc",
+                "Zoghbi, Huda"
+            ],
+            "Citations": "n/a"
+        },
+        "16605618": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2006",
+            "Title": "Modeling bursts and heavy tails in human dynamics.",
+            "Authors": [
+                "Vazquez, Alexei",
+                "Oliveira, Joao Gama",
+                "Dezso, Zoltan",
+                "Goh, Kwang Il",
+                "Kondor, Imre",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "16441898": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2006",
+            "Title": "Stable evolutionary signal in a yeast protein interaction network.",
+            "Authors": [
+                "Wuchty, Stefan",
+                "Barabasi, Albert Laszlo",
+                "Ferdig, Michael"
+            ],
+            "Citations": "n/a"
+        },
+        "16362071": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "The activity reaction core and plasticity of metabolic networks.",
+            "Authors": [
+                "Almaas, Eivind",
+                "Oltvai, Zoltan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "16251946": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "Human dynamics: Darwin and Einstein correspondence patterns.",
+            "Authors": [
+                "Oliveira, Joao Gama",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15783383": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "Emergence of large-scale vorticity during diffusion in a random potential under an alternating bias.",
+            "Authors": [
+                "Makeev, Maxim",
+                "Derenyi, Imre",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15783365": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "Inhomogeneous evolution of subgraphs and cycles in complex networks.",
+            "Authors": [
+                "Vazquez, Alexei",
+                "Oliveira, J",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15889093": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "The origin of bursts and heavy tails in human dynamics.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15860613": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2005",
+            "Title": "Sociology. Network theory--the emergence of the creative enterprise.",
+            "Authors": [
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15600468": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2004",
+            "Title": "Reverse engineering of linking preferences from network restructuring.",
+            "Authors": [
+                "Palla, Gergely",
+                "Farkas, Illes",
+                "Derenyi, Imre",
+                "Barabasi, Albert Laszlo",
+                "Vicsek, Tamas"
+            ],
+            "Citations": "n/a"
+        },
+        "14735121": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2004",
+            "Title": "Network biology: understanding the cell's functional organization.",
+            "Authors": [
+                "Barabasi, Albert Laszlo",
+                "Oltvai, Zoltan"
+            ],
+            "Citations": "n/a"
+        },
+        "15048975": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2004",
+            "Title": "Functional and topological characterization of protein interaction networks.",
+            "Authors": [
+                "Yook, Soon Hyung",
+                "Oltvai, Zoltan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "15018656": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2004",
+            "Title": "Aggregation of topological motifs in the Escherichia coli transcriptional regulatory network.",
+            "Authors": [
+                "Dobrin, Radu",
+                "Beg, Qasim",
+                "Barabasi, Albert Laszlo",
+                "Oltvai, Zoltan"
+            ],
+            "Citations": "n/a"
+        },
+        "12888502": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2003",
+            "Title": "Spurious spatial periodicity of co-expression in microarray data due to printing design.",
+            "Authors": [
+                "Balazsi, Gabor",
+                "Kay, Krin",
+                "Barabasi, Albert Laszlo",
+                "Oltvai, Zoltan"
+            ],
+            "Citations": "n/a"
+        },
+        "14559778": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2003",
+            "Title": "Bioinformatics analysis of experimentally determined protein complexes in the yeast Saccharomyces cerevisiae.",
+            "Authors": [
+                "Dezso, Zoltan",
+                "Oltvai, Zoltan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "12636753": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2003",
+            "Title": "Hierarchical organization in complex networks.",
+            "Authors": [
+                "Ravasz, Erzsebet",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "12701331": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2003",
+            "Title": "Scale-free networks.",
+            "Authors": [
+                "Barabasi, Albert Laszlo",
+                "Bonabeau, Eric"
+            ],
+            "Citations": "n/a"
+        },
+        "12399572": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2002",
+            "Title": "Systems biology. Life's complexity pyramid.",
+            "Authors": [
+                "Oltvai, Zoltan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "12368484": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2002",
+            "Title": "Modeling the Internet's large-scale topology.",
+            "Authors": [
+                "Yook, Soon Hyung",
+                "Jeong, Hawoong",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        },
+        "12235367": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2002",
+            "Title": "Two degrees of separation in complex food webs.",
+            "Authors": [
+                "Williams, Richard",
+                "Berlow, Eric",
+                "Dunne, Jennifer",
+                "Barabasi, Albert Laszlo",
+                "Martinez, Neo"
+            ],
+            "Citations": "n/a"
+        },
+        "12059627": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2002",
+            "Title": "Halting viruses in scale-free networks.",
+            "Authors": [
+                "Dezso, Zoltan",
+                "Barabasi, Albert Laszlo"
+            ],
+            "Citations": "n/a"
+        }
+    },
+    "Publication year counter": {
+        "2021": 2,
+        "2020": 4,
+        "2019": 2,
+        "2018": 4,
+        "2017": 6,
+        "2016": 7,
+        "2015": 2,
+        "2014": 6,
+        "2013": 0,
+        "2012": 5,
+        "2011": 3,
+        "2010": 0,
+        "2009": 4,
+        "2008": 3,
+        "2007": 4,
+        "2006": 2,
+        "2005": 0,
+        "2004": 3,
+        "2003": 2,
+        "2002": 1
+    }
+}

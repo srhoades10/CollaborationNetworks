@@ -1,0 +1,789 @@
+{
+    "First author": 4,
+    "Last author": 0,
+    "Coauthors": {
+        "Cal-Kayitmazbatir, Sibel": [
+            "32383312"
+        ],
+        "Kulkoyluoglu-Cotul, Eylem": [
+            "32383312"
+        ],
+        "Growe, Jacqueline": [
+            "28380384",
+            "28467936",
+            "32383312",
+            "27472375"
+        ],
+        "Selby, Christopher": [
+            "28380384",
+            "28467936",
+            "32383312"
+        ],
+        "Malik, Dania": [
+            "29930022",
+            "32383312",
+            "31980651",
+            "29623284"
+        ],
+        "Oner, Hasimcan": [
+            "32383312"
+        ],
+        "Asimgil, Hande": [
+            "32383312"
+        ],
+        "Francey, Lauren": [
+            "28380384",
+            "28467936",
+            "32383312"
+        ],
+        "Sancar, Aziz": [
+            "28380384",
+            "28467936",
+            "32383312"
+        ],
+        "Kruger, Warren": [
+            "32383312"
+        ],
+        "Hogenesch, John": [
+            "28380384",
+            "28467936",
+            "32383312",
+            "27472375"
+        ],
+        "Weljie, Aalim": [
+            "28348510",
+            "32383312",
+            "28689661",
+            "29623284",
+            "29215023",
+            "27701007",
+            "28467936",
+            "28860003",
+            "31722196",
+            "26124278",
+            "27472375",
+            "28380384",
+            "29930022",
+            "29355066",
+            "31980651"
+        ],
+        "Anafi, Ron": [
+            "28380384",
+            "28467936",
+            "32383312"
+        ],
+        "Kavakli, Ibrahim Halil": [
+            "32383312"
+        ],
+        "Lee, Pearl": [
+            "31980651"
+        ],
+        "Perkons, Nicholas": [
+            "31980651"
+        ],
+        "Huangyang, Peiwei": [
+            "31980651"
+        ],
+        "Khare, Sanika": [
+            "31980651"
+        ],
+        "Gong, Yao Yu": [
+            "31980651"
+        ],
+        "Burrows, Michelle": [
+            "31980651"
+        ],
+        "Finan, Jennifer": [
+            "31980651"
+        ],
+        "Nissim, Itzhak": [
+            "31980651"
+        ],
+        "Gade, Terence P": [
+            "31980651"
+        ],
+        "Simon, M Celeste": [
+            "31980651"
+        ],
+        "Hsieh, Annie": [
+            "31722196"
+        ],
+        "Zheng, Xiangzhong": [
+            "31722196"
+        ],
+        "Yue, Zhifeng": [
+            "26124278",
+            "31722196"
+        ],
+        "Stine, Zachary": [
+            "31722196"
+        ],
+        "Mancuso, Anthony": [
+            "31722196"
+        ],
+        "Brooks, Rebekah": [
+            "31722196"
+        ],
+        "Eisenman, Robert": [
+            "31722196"
+        ],
+        "Sehgal, Amita": [
+            "29355066",
+            "26124278",
+            "31722196"
+        ],
+        "Dang, Chi": [
+            "28380384",
+            "28467936",
+            "31722196"
+        ],
+        "Hughey, Jacob": [
+            "31684865",
+            "30183400"
+        ],
+        "Fu, Darwin": [
+            "31684865"
+        ],
+        "Bastarache, Lisa": [
+            "31684865",
+            "30183400"
+        ],
+        "Denny, Joshua": [
+            "31684865",
+            "30183400"
+        ],
+        "Chen, Qingxia": [
+            "31684865"
+        ],
+        "Ricciotti, Emanuela": [
+            "29930022"
+        ],
+        "Castro, Cecilia": [
+            "29930022"
+        ],
+        "Tang, Soon Yew": [
+            "29930022"
+        ],
+        "Briggs, William T": [
+            "29930022"
+        ],
+        "West, James": [
+            "29930022"
+        ],
+        "Meng, Hu": [
+            "29930022"
+        ],
+        "Li, Xuanwen": [
+            "29930022"
+        ],
+        "Lahens, Nicholas": [
+            "29215023",
+            "29930022"
+        ],
+        "Sparks, Jeffrey": [
+            "29930022"
+        ],
+        "Karlson, Elizabeth": [
+            "29930022"
+        ],
+        "Griffin, Julian": [
+            "29930022"
+        ],
+        "FitzGerald, Garret": [
+            "29215023",
+            "29930022"
+        ],
+        "Nayak, Katrina": [
+            "29355066"
+        ],
+        "Zhang, Shirley": [
+            "29355066"
+        ],
+        "Skarke, Carsten": [
+            "29215023"
+        ],
+        "Campbell, Amy": [
+            "29215023"
+        ],
+        "Bittinger, Kyle": [
+            "29215023"
+        ],
+        "Bailey, Aubrey": [
+            "29215023"
+        ],
+        "Hoffmann, Christian": [
+            "29215023"
+        ],
+        "Olson, Randal": [
+            "29215023"
+        ],
+        "Chen, Lihong": [
+            "29215023"
+        ],
+        "Yang, Guangrui": [
+            "29215023"
+        ],
+        "Price, Thomas": [
+            "29215023"
+        ],
+        "Moore, Jason": [
+            "29215023"
+        ],
+        "Bushman, Frederic": [
+            "29215023"
+        ],
+        "Greene, Casey": [
+            "29215023"
+        ],
+        "Grant, Gregory": [
+            "29215023",
+            "28860003"
+        ],
+        "Krishnaiah, Saikumari": [
+            "28380384",
+            "28467936",
+            "27472375"
+        ],
+        "Wu, Gang": [
+            "28380384",
+            "28467936"
+        ],
+        "Altman, Brian": [
+            "28380384",
+            "28467936"
+        ],
+        "Coldren, Faith": [
+            "28380384",
+            "28467936"
+        ],
+        "Venkataraman, Anand": [
+            "28380384",
+            "28467936",
+            "27472375"
+        ],
+        "Olarerin-George, Anthony": [
+            "28380384",
+            "28467936",
+            "27472375"
+        ],
+        "Mukherjee, Sarmistha": [
+            "28380384",
+            "28467936"
+        ],
+        "Girish, Saiveda": [
+            "28380384",
+            "28467936"
+        ],
+        "Cal, Sibel": [
+            "28380384",
+            "28467936"
+        ],
+        "Er, Ubeydullah": [
+            "28380384",
+            "28467936"
+        ],
+        "Sianati, Bahareh": [
+            "28380384",
+            "28467936"
+        ],
+        "Sengupta, Arjun": [
+            "27701007",
+            "28467936",
+            "28860003",
+            "26124278",
+            "27472375",
+            "28380384"
+        ],
+        "Kavakli, I Halil": [
+            "28380384",
+            "28467936"
+        ],
+        "Baur, Joseph": [
+            "28380384",
+            "28467936"
+        ],
+        "Kim, Eun Ji": [
+            "28860003"
+        ],
+        "Nayak, Soumyashant": [
+            "28860003"
+        ],
+        "Meerlo, Peter": [
+            "28860003"
+        ],
+        "Sivanand, Sharanya": [
+            "28689661"
+        ],
+        "Jiang, Qinqin": [
+            "28689661"
+        ],
+        "Lee, Joyce": [
+            "28689661"
+        ],
+        "Benci, Joseph": [
+            "28689661"
+        ],
+        "Zhang, Jingwen": [
+            "28689661"
+        ],
+        "Yuan, Salina": [
+            "28689661"
+        ],
+        "Viney, Isabella": [
+            "28689661"
+        ],
+        "Zhao, Steven": [
+            "28689661"
+        ],
+        "Carrer, Alessandro": [
+            "28689661"
+        ],
+        "Bennett, Michael": [
+            "28689661"
+        ],
+        "Minn, Andy": [
+            "28689661"
+        ],
+        "Greenberg, Roger": [
+            "28689661"
+        ],
+        "Wellen, Kathryn": [
+            "28689661"
+        ],
+        "Slaff, Barry": [
+            "27472375"
+        ],
+        "Van Dang, Chi": [
+            "27472375"
+        ],
+        "Maguire, Sarah": [
+            "26124278"
+        ],
+        "Chen, Wen Feng": [
+            "26124278"
+        ],
+        "Lim, Jason": [
+            "26124278"
+        ],
+        "Mitchell, Claire": [
+            "26124278"
+        ]
+    },
+    "Papers": {
+        "32383312": {
+            "Keywords": [
+                "circadian rhythm",
+                "cryptochrome",
+                "cystathionine \u03b2-synthase",
+                "metabolism",
+                "transcriptional regulation"
+            ],
+            "Year": "2021",
+            "Title": "CRY1-CBS binding regulates circadian clock function and metabolism.",
+            "Authors": [
+                "Cal-Kayitmazbatir, Sibel",
+                "Kulkoyluoglu-Cotul, Eylem",
+                "Growe, Jacqueline",
+                "Selby, Christopher",
+                "Rhoades, Seth",
+                "Malik, Dania",
+                "Oner, Hasimcan",
+                "Asimgil, Hande",
+                "Francey, Lauren",
+                "Sancar, Aziz",
+                "Kruger, Warren",
+                "Hogenesch, John",
+                "Weljie, Aalim",
+                "Anafi, Ron",
+                "Kavakli, Ibrahim Halil"
+            ],
+            "Citations": "n/a"
+        },
+        "31980651": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2020",
+            "Title": "Targeting glutamine metabolism slows soft tissue sarcoma growth.",
+            "Authors": [
+                "Lee, Pearl",
+                "Malik, Dania",
+                "Perkons, Nicholas",
+                "Huangyang, Peiwei",
+                "Khare, Sanika",
+                "Rhoades, Seth",
+                "Gong, Yao Yu",
+                "Burrows, Michelle",
+                "Finan, Jennifer",
+                "Nissim, Itzhak",
+                "Gade, Terence P",
+                "Weljie, Aalim",
+                "Simon, M Celeste"
+            ],
+            "Citations": "n/a"
+        },
+        "31722196": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2019",
+            "Title": "Misregulation of Drosophila Myc Disrupts Circadian Behavior and Metabolism.",
+            "Authors": [
+                "Hsieh, Annie",
+                "Zheng, Xiangzhong",
+                "Yue, Zhifeng",
+                "Stine, Zachary",
+                "Mancuso, Anthony",
+                "Rhoades, Seth",
+                "Brooks, Rebekah",
+                "Weljie, Aalim",
+                "Eisenman, Robert",
+                "Sehgal, Amita",
+                "Dang, Chi"
+            ],
+            "Citations": "n/a"
+        },
+        "31684865": {
+            "Keywords": [
+                "Cox regression",
+                "Electronic health record",
+                "GWAS",
+                "Time-to-event modeling"
+            ],
+            "Year": "2019",
+            "Title": "Cox regression increases power to detect genotype-phenotype associations in genomic studies using the electronic health record.",
+            "Authors": [
+                "Hughey, Jacob",
+                "Rhoades, Seth",
+                "Fu, Darwin",
+                "Bastarache, Lisa",
+                "Denny, Joshua",
+                "Chen, Qingxia"
+            ],
+            "Citations": "n/a"
+        },
+        "29930022": {
+            "Keywords": [
+                "endothelium",
+                "kidney",
+                "nitric oxide",
+                "pharmacology",
+                "prostaglandins"
+            ],
+            "Year": "2018",
+            "Title": "Cyclooxygenase-2, Asymmetric Dimethylarginine, and the Cardiovascular Hazard From Nonsteroidal Anti-Inflammatory Drugs.",
+            "Authors": [
+                "Ricciotti, Emanuela",
+                "Castro, Cecilia",
+                "Tang, Soon Yew",
+                "Briggs, William T",
+                "West, James",
+                "Malik, Dania",
+                "Rhoades, Seth",
+                "Meng, Hu",
+                "Li, Xuanwen",
+                "Lahens, Nicholas",
+                "Sparks, Jeffrey",
+                "Karlson, Elizabeth",
+                "Weljie, Aalim",
+                "Griffin, Julian",
+                "FitzGerald, Garret"
+            ],
+            "Citations": "n/a"
+        },
+        "29355066": {
+            "Keywords": [
+                "Drosophila",
+                "LC-MS metabolomics",
+                "circadian clock",
+                "conserved oscillators",
+                "photic metabolism",
+                "ultradian rhythms"
+            ],
+            "Year": "2018",
+            "Title": "Circadian- and Light-driven Metabolic Rhythms in Drosophila melanogaster.",
+            "Authors": [
+                "Rhoades, Seth",
+                "Nayak, Katrina",
+                "Zhang, Shirley",
+                "Sehgal, Amita",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "29623284": {
+            "Keywords": [
+                "Liquid chromatography",
+                "Liquid-liquid extraction",
+                "MRM",
+                "Metabolomics",
+                "Tandem mass spectrometry",
+                "Triple quadrupole",
+                "UPLC-MS"
+            ],
+            "Year": "2018",
+            "Title": "Extraction and Analysis of Pan-metabolome Polar Metabolites by Ultra Performance Liquid Chromatography-Tandem Mass Spectrometry (UPLC-MS/MS).",
+            "Authors": [
+                "Malik, Dania",
+                "Rhoades, Seth",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "30183400": {
+            "Keywords": [
+                "Sleep",
+                "electronic health records",
+                "genetics",
+                "phenome-wide association study"
+            ],
+            "Year": "2018",
+            "Title": "Pulling the covers in electronic health records for an association study with self-reported sleep behaviors.",
+            "Authors": [
+                "Rhoades, Seth",
+                "Bastarache, Lisa",
+                "Denny, Joshua",
+                "Hughey, Jacob"
+            ],
+            "Citations": "n/a"
+        },
+        "29215023": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "A Pilot Characterization of the Human Chronobiome.",
+            "Authors": [
+                "Skarke, Carsten",
+                "Lahens, Nicholas",
+                "Rhoades, Seth",
+                "Campbell, Amy",
+                "Bittinger, Kyle",
+                "Bailey, Aubrey",
+                "Hoffmann, Christian",
+                "Olson, Randal",
+                "Chen, Lihong",
+                "Yang, Guangrui",
+                "Price, Thomas",
+                "Moore, Jason",
+                "Bushman, Frederic",
+                "Greene, Casey",
+                "Grant, Gregory",
+                "Weljie, Aalim",
+                "FitzGerald, Garret"
+            ],
+            "Citations": "n/a"
+        },
+        "28467936": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Clock Regulation of Metabolites Reveals Coupling between Transcription and Metabolism.",
+            "Authors": [
+                "Krishnaiah, Saikumari",
+                "Wu, Gang",
+                "Altman, Brian",
+                "Growe, Jacqueline",
+                "Rhoades, Seth",
+                "Coldren, Faith",
+                "Venkataraman, Anand",
+                "Olarerin-George, Anthony",
+                "Francey, Lauren",
+                "Mukherjee, Sarmistha",
+                "Girish, Saiveda",
+                "Selby, Christopher",
+                "Cal, Sibel",
+                "Er, Ubeydullah",
+                "Sianati, Bahareh",
+                "Sengupta, Arjun",
+                "Anafi, Ron",
+                "Kavakli, I Halil",
+                "Sancar, Aziz",
+                "Baur, Joseph",
+                "Dang, Chi",
+                "Hogenesch, John",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "28380384": {
+            "Keywords": [
+                "LCMS",
+                "chronometabolism",
+                "chronopharmacology",
+                "circadian clock",
+                "circadian metabolism",
+                "mass spectrometry",
+                "metabolomics",
+                "translational transcription feedback loop"
+            ],
+            "Year": "2017",
+            "Title": "Clock Regulation of Metabolites Reveals Coupling between Transcription and Metabolism.",
+            "Authors": [
+                "Krishnaiah, Saikumari",
+                "Wu, Gang",
+                "Altman, Brian",
+                "Growe, Jacqueline",
+                "Rhoades, Seth",
+                "Coldren, Faith",
+                "Venkataraman, Anand",
+                "Olarerin-George, Anthony",
+                "Francey, Lauren",
+                "Mukherjee, Sarmistha",
+                "Girish, Saiveda",
+                "Selby, Christopher",
+                "Cal, Sibel",
+                "Er, Ubeydullah",
+                "Sianati, Bahareh",
+                "Sengupta, Arjun",
+                "Anafi, Ron",
+                "Kavakli, I Halil",
+                "Sancar, Aziz",
+                "Baur, Joseph",
+                "Dang, Chi",
+                "Hogenesch, John",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "28860003": {
+            "Keywords": [
+                "Mass spectrometry",
+                "Metabolism",
+                "Metabolomics",
+                "Sleep",
+                "Transcriptomics"
+            ],
+            "Year": "2017",
+            "Title": "Sleep restriction induced energy, methylation and lipogenesis metabolic switches in rat liver.",
+            "Authors": [
+                "Sengupta, Arjun",
+                "Rhoades, Seth",
+                "Kim, Eun Ji",
+                "Nayak, Soumyashant",
+                "Grant, Gregory",
+                "Meerlo, Peter",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "28689661": {
+            "Keywords": [
+                "ATP-citrate lyase",
+                "DNA damage",
+                "DNA repair",
+                "acetyl-CoA",
+                "histone acetylation",
+                "homologous recombination",
+                "metabolism",
+                "non-homologous end joining",
+                "nucleus"
+            ],
+            "Year": "2017",
+            "Title": "Nuclear Acetyl-CoA Production by ACLY Promotes Homologous Recombination.",
+            "Authors": [
+                "Sivanand, Sharanya",
+                "Rhoades, Seth",
+                "Jiang, Qinqin",
+                "Lee, Joyce",
+                "Benci, Joseph",
+                "Zhang, Jingwen",
+                "Yuan, Salina",
+                "Viney, Isabella",
+                "Zhao, Steven",
+                "Carrer, Alessandro",
+                "Bennett, Michael",
+                "Minn, Andy",
+                "Weljie, Aalim",
+                "Greenberg, Roger",
+                "Wellen, Kathryn"
+            ],
+            "Citations": "n/a"
+        },
+        "27701007": {
+            "Keywords": [
+                "[]"
+            ],
+            "Year": "2017",
+            "Title": "Time is ripe: maturation of metabolomics in chronobiology.",
+            "Authors": [
+                "Rhoades, Seth",
+                "Sengupta, Arjun",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "28348510": {
+            "Keywords": [
+                "Design of Experiments",
+                "HILIC LC-MS",
+                "Method Development",
+                "Multivariate Statistical Analysis"
+            ],
+            "Year": "2016",
+            "Title": "Comprehensive Optimization of LC-MS Metabolomics Methods Using Design of Experiments (COLMeD).",
+            "Authors": [
+                "Rhoades, Seth",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "27472375": {
+            "Keywords": [
+                "NMR spectroscopy",
+                "U2 OS",
+                "circadian oscillations",
+                "detrending",
+                "metabolomics"
+            ],
+            "Year": "2016",
+            "Title": "Deciphering the Duality of Clock and Growth Metabolism in a Cell Autonomous System Using NMR Profiling of the Secretome.",
+            "Authors": [
+                "Sengupta, Arjun",
+                "Krishnaiah, Saikumari",
+                "Rhoades, Seth",
+                "Growe, Jacqueline",
+                "Slaff, Barry",
+                "Venkataraman, Anand",
+                "Olarerin-George, Anthony",
+                "Van Dang, Chi",
+                "Hogenesch, John",
+                "Weljie, Aalim"
+            ],
+            "Citations": "n/a"
+        },
+        "26124278": {
+            "Keywords": [
+                "Drosophila metabolism",
+                "amino acid",
+                "glutamate",
+                "mitochondria",
+                "tricarboxylic acid cycle (TCA cycle) (Krebs cycle)"
+            ],
+            "Year": "2015",
+            "Title": "Independent Effects of \u03b3-Aminobutyric Acid Transaminase (GABAT) on Metabolic and Sleep Homeostasis.",
+            "Authors": [
+                "Maguire, Sarah",
+                "Rhoades, Seth",
+                "Chen, Wen Feng",
+                "Sengupta, Arjun",
+                "Yue, Zhifeng",
+                "Lim, Jason",
+                "Mitchell, Claire",
+                "Weljie, Aalim",
+                "Sehgal, Amita"
+            ],
+            "Citations": "n/a"
+        }
+    },
+    "Publication year counter": {
+        "2021": 1,
+        "2020": 1,
+        "2019": 2,
+        "2018": 4,
+        "2017": 6,
+        "2016": 2,
+        "2015": 1
+    }
+}

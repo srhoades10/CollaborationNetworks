@@ -1,0 +1,94 @@
+,Author,Total papers,First authors,Last authors,Citations,Max keyword,Major keyword,id
+0,Seth Rhoades,17,4,0,0,metabolomics,omics,0
+1,Sibel Cal-Kayitmazbatir,1,1,0,0,circadian rhythm,metabolism,1
+2,Eylem Kulkoyluoglu-Cotul,5,2,0,0,breast cancer,metabolism,2
+3,Jacqueline Growe,6,0,0,0,metabolomics,omics,3
+4,Christopher Selby,42,4,6,0,dna damage,omics,4
+5,Dania Malik,10,3,0,0,99mtc-mdp,omics,5
+6,Hasimcan Oner,2,0,0,0,circadian rhythm,metabolism,6
+7,Hande Asimgil,6,1,1,0,circadian rhythm,metabolism,7
+8,Lauren Francey,27,2,0,0,circadian clock,systems,8
+9,Aziz Sancar,177,17,115,0,dna damage,omics,9
+10,Warren Kruger,75,3,34,0,homocysteine,omics,10
+11,John Hogenesch,143,5,41,0,circadian clock,omics,11
+12,Aalim Weljie,90,13,25,0,metabolomics,omics,12
+13,Ron Anafi,22,7,1,0,gene expression,systems,13
+14,Ibrahim Halil Kavakli,33,3,15,0,circadian clock,omics,14
+15,Pearl Lee,48,12,1,0,elastin,mitochondria,15
+16,Nicholas Perkons,12,5,0,0,hyperpolarization,cancer,16
+17,Peiwei Huangyang,10,4,0,0,breast cancer,mitochondria,17
+18,Sanika Khare,6,0,0,0,metabolism,metabolism,18
+19,Michelle Burrows,9,0,0,0,earth and planetary astrophysics,,19
+20,Jennifer Finan,2,0,0,0,,,20
+21,Itzhak Nissim,50,9,10,0,metabolism,mitochondria,21
+22,Terence Gade,41,1,11,0,computer vision and pattern recognition,computer,22
+23,M Celeste Simon,198,8,125,0,hypoxia,mitochondria,23
+24,Annie Hsieh,15,4,2,0,instrumentation and methods for astrophysics,metabolism,24
+25,Xiangzhong Zheng,24,7,3,0,circadian rhythms,neuro,25
+26,Zhifeng Yue,18,0,0,0,drosophila,genetics,26
+27,Zachary Stine,20,6,0,0,metabolism,mitochondria,27
+28,Anthony Mancuso,66,2,17,0,certification,graph,28
+29,Rebekah Brooks,8,3,0,0,acidity,circadian,29
+30,Robert Eisenman,78,0,37,0,myc,neuro,30
+31,Amita Sehgal,132,7,102,0,drosophila,genetics,31
+32,Chi Dang,161,32,75,0,metabolism,mitochondria,32
+33,Jacob Hughey,36,8,11,0,circadian,systems,33
+34,Darwin Fu,9,2,0,0,circadian,systems,34
+35,Lisa Bastarache,81,3,2,0,electronic health record,omics,35
+36,Joshua Denny,320,26,51,0,electronic health records,omics,36
+37,Qingxia Chen,90,13,5,0,electronic health records,social,37
+38,Emanuela Ricciotti,45,7,2,0,apoptosis,inflammation,38
+39,Cecilia Castro,44,5,2,0,high energy astrophysical phenomena,systems,39
+40,Soon Yew Tang,24,8,0,0,atherosclerosis,,40
+41,William Briggs,124,20,17,0,high energy astrophysical phenomena,physics,41
+42,James West,428,60,51,0,earth and planetary astrophysics,graph,42
+43,Xuanwen Li,26,9,0,0,aspirin,inflammation,43
+44,Nicholas Lahens,21,2,0,0,mouse,omics,44
+45,Jeffrey Sparks,120,28,34,0,rheumatoid arthritis,omics,45
+46,Elizabeth Karlson,220,14,61,0,rheumatoid arthritis,sleep,46
+47,Julian Griffin,254,25,79,0,metabolomics,systems,47
+48,Garret FitzGerald,189,21,116,0,inflammation,systems,48
+49,Katrina Nayak,1,0,0,0,circadian clock,circadian,49
+50,Shirley Zhang,50,8,1,0,astrophysics of galaxies,sleep,50
+51,Carsten Skarke,37,16,2,0,alcoholic liver disease,sleep,51
+52,Amy Campbell,93,31,15,0,dux4,omics,52
+53,Kyle Bittinger,91,4,2,0,microbiome,mitochondria,53
+54,Aubrey Bailey,27,0,0,0,microbiome,systems,54
+55,Christian Hoffmann,221,56,25,0,pattern formation and solitons,systems,55
+56,Randal Olson,35,17,2,0,machine learning,social,56
+57,Guangrui Yang,51,9,5,0,materials science,systems,57
+58,Frederic Bushman,283,19,111,0,microbiome,sleep,58
+59,Casey Greene,119,19,38,0,machine learning,omics,59
+60,Gregory Grant,151,25,42,0,high energy physics - experiment,omics,60
+61,Saikumari Krishnaiah,8,4,0,0,metabolomics,omics,61
+62,Brian Altman,37,11,3,0,metabolism,mitochondria,62
+63,Faith Coldren,9,3,0,0,chronometabolism,omics,63
+64,Anand Venkataraman,20,9,4,0,computation and language,neuro,64
+65,Anthony Olarerin-George,15,3,0,0,metabolomics,mitochondria,65
+66,Sarmistha Mukherjee,22,6,0,0,metabolism,mitochondria,66
+67,Saiveda Girish,2,0,0,0,chronometabolism,omics,67
+68,Sibel Cal,3,0,0,0,chronometabolism,omics,68
+69,Ubeydullah Er,2,0,0,0,chronometabolism,omics,69
+70,Bahareh Sianati,4,1,0,0,chronometabolism,omics,70
+71,Arjun Sengupta,30,9,1,0,metabolomics,omics,71
+72,I Halil Kavakli,17,2,1,0,adp-glucose pyrophosphorylase,omics,72
+73,Joseph Baur,106,11,28,0,aging,sleep,73
+74,Eun Ji Kim,248,61,9,0,apoptosis,omics,74
+75,Soumyashant Nayak,12,7,8,0,operator algebras,omics,75
+76,Peter Meerlo,87,7,32,0,sleep deprivation,omics,76
+77,Sharanya Sivanand,18,6,0,0,cancer metabolism,mitochondria,77
+78,Qinqin Jiang,18,3,0,0,dna repair,omics,78
+79,Joyce Lee,336,68,62,0,interstitial lung disease,social,79
+80,Joseph Benci,15,5,0,0,survivorship,metabolism,80
+81,Salina Yuan,40,2,0,0,high energy astrophysical phenomena,metabolism,81
+82,Isabella Viney,3,0,0,0,acetyl-coa,metabolism,82
+83,Steven Zhao,104,3,0,0,machine learning,systems,83
+84,Alessandro Carrer,16,5,3,0,acetyl-coa,omics,84
+85,Andy Minn,49,6,11,0,metastasis,omics,85
+86,Roger Greenberg,98,10,49,0,homologous recombination,metabolism,86
+87,Kathryn Wellen,55,9,23,0,metabolism,mitochondria,87
+88,Barry Slaff,6,1,0,0,social media,social,88
+89,Chi Van Dang,7,4,3,0,circadian oscillations,omics,89
+90,Sarah Maguire,50,17,6,0,eating disorders,aging,90
+91,Jason Lim,41,3,0,0,atp release,sleep,91
+92,Claire Mitchell,118,18,35,0,autophagy,social,92

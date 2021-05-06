@@ -1,0 +1,583 @@
+,Author,Total papers,First authors,Last authors,Citations,Max keyword,Major keyword,id
+0,Albert Laszlo Barabasi,148,12,88,0,c. elegans,systems,0
+1,Deisy Morselli Gysi,6,2,0,0,molecular networks,systems,1
+2,Italo do Valle,3,0,0,0,machine learning,systems,2
+3,Marinka Zitnik,59,20,8,0,machine learning,systems,3
+4,Asher Ameli,6,0,0,0,machine learning,systems,4
+5,Onur Varol,29,7,2,0,social and information networks,systems,5
+6,Susan Dina Ghiassian,8,2,1,0,machine learning,systems,6
+7,Robert Davey,111,3,28,0,ebola,systems,7
+8,Joseph Loscalzo,403,49,246,0,network medicine,omics,8
+9,Mirco Nanni,9,3,2,0,social and information networks,social,9
+10,Gennady Andrienko,25,5,2,0,computers and society,social,10
+11,Chiara Boldrini,7,4,0,0,computers and society,social,11
+12,Francesco Bonchi,39,8,8,0,social and information networks,social,12
+13,Ciro Cattuto,82,10,20,0,physics and society,social,13
+14,Francesca Chiaromonte,73,2,14,0,machine learning,social,14
+15,Giovanni Comande,4,1,0,0,civil law,social,15
+16,Marco Conti,286,17,69,0,general relativity and quantum cosmology,social,16
+17,Mark Cote,181,16,23,0,biomechanics,social,17
+18,Frank Dignum,14,3,7,0,artificial intelligence,social,18
+19,Virginia Dignum,20,3,3,0,artificial intelligence,social,19
+20,Josep Domingo-Ferrer,34,10,8,0,cryptography and security,social,20
+21,Paolo Ferragina,18,8,1,0,data structures and algorithms,social,21
+22,Fosca Giannotti,27,1,8,0,social and information networks,social,22
+23,Riccardo Guidotti,10,5,0,0,machine learning,social,23
+24,Dirk Helbing,270,122,143,0,physics and society,systems,24
+25,Kimmo Kaski,174,2,84,0,physics and society,physics,25
+26,Janos Kertesz,175,3,70,0,physics and society,social,26
+27,Sune Lehmann,85,8,45,0,physics and society,social,27
+28,Bruno Lepri,74,2,20,0,computers and society,social,28
+29,Paul Lukowicz,32,1,12,0,machine learning,social,29
+30,Stan Matwin,48,0,25,0,machine learning,social,30
+31,David Megias Jimenez,2,0,0,0,computers and society,social,31
+32,Anna Monreale,8,0,0,0,artificial intelligence,social,32
+33,Katharina Morik,19,0,8,0,machine learning,social,33
+34,Nuria Oliver,31,7,11,0,computers and society,social,34
+35,Andrea Passarella,15,0,3,0,networking and internet architecture,social,35
+36,Andrea Passerini,51,5,23,0,machine learning,social,36
+37,Dino Pedreschi,33,2,8,0,artificial intelligence,social,37
+38,Alex Pentland,144,7,68,0,social and information networks,social,38
+39,Fabio Pianesi,12,0,1,0,computers and society,social,39
+40,Francesca Pratesi,3,0,0,0,beta-blocker,social,40
+41,Salvatore Rinzivillo,9,0,1,0,social and information networks,social,41
+42,Salvatore Ruggieri,32,0,13,0,computers and society,social,42
+43,Arno Siebes,9,1,6,0,artificial intelligence,social,43
+44,Vicenc Torra,7,0,0,0,cryptography and security,social,44
+45,Roberto Trasarti,6,0,1,0,astrophysics,social,45
+46,Jeroen van den Hoven,5,1,1,0,computers and society,social,46
+47,Alessandro Vespignani,247,11,156,0,statistical mechanics,social,47
+48,Amar Dhand,40,21,9,0,stroke,social,48
+49,Liam McCafferty,7,0,0,0,carbon nanotubes,social,49
+50,Rachel Grashow,27,12,3,0,biomarker,neuro,50
+51,Ian Corbin,35,7,10,0,nanoparticle,mitochondria,51
+52,Sarah Cohan,9,0,2,0,developmental prosopagnosia,computer,52
+53,Alicia Whittington,3,0,0,0,anxiety,,53
+54,Ann Connor,19,4,3,0,football,physics,54
+55,Aaron Baggish,238,44,85,0,exercise,sleep,55
+56,Mark Weisskopf,6,0,0,0,astrophysics,physics,56
+57,Ross Zafonte,286,20,67,0,rehabilitation,sleep,57
+58,Alvaro Pascual-Leone,554,9,259,0,transcranial magnetic stimulation,social,58
+59,Istvan Kovacs,150,19,7,0,combinatorics,systems,59
+60,Daniel Barabasi,4,1,0,0,c. elegans,neuro,60
+61,Soodabeh Milanlouei,4,1,0,0,optimization and control,,61
+62,Giulia Menichetti,21,12,0,0,physics and society,social,62
+63,Enrico Maiorino,19,4,0,0,"data analysis, statistics and probability",systems,63
+64,Seung Han Baek,16,3,0,0,adsorption,systems,64
+65,Parul Kothari,12,2,0,0,aspirin-exacerbated respiratory disease,neuro,65
+66,Benjamin Raby,199,16,27,0,asthma,systems,66
+67,Amitabh Sharma,44,6,10,0,network medicine,omics,67
+68,Bradley Maron,134,58,38,0,pulmonary hypertension,systems,68
+69,Lucia Altucci,231,11,67,0,epigenetics,neuro,69
+70,Jean Luc Balligand,109,13,43,0,heart failure,omics,70
+71,Jan Baumbach,158,11,53,0,machine learning,systems,71
+72,Peter Ferdinandy,219,8,74,0,cardioprotection,omics,72
+73,Sebastiano Filetti,158,8,46,0,thyroid cancer,graph,73
+74,Paolo Parini,99,8,20,0,liver,network,74
+75,Enrico Petrillo,12,0,0,0,astrophysics of galaxies,network,75
+76,Alexander Gates,25,9,0,0,high energy physics - theory,systems,76
+77,Deisy Morselli Gysi,9,6,0,0,molecular networks,network,77
+78,Manolis Kellis,236,8,67,0,machine learning,social,78
+79,Forrest Hooton,1,1,0,0,,social,79
+80,Junming Huang,45,6,1,0,physics and society,social,80
+81,Roberta Sinatra,37,8,10,0,physics and society,social,81
+82,Qing Ke,101,30,15,0,physics and society,social,82
+83,Italo Do Valle,2,0,0,0,machine learning,,83
+84,Helia Sanchez,7,2,0,0,aid,genetics,84
+85,Rebecca Marlene Baron,1,0,0,0,,genetics,85
+86,Dina Ghiassian,2,0,0,0,machine learning,,86
+87,Emma Towlson,14,10,1,0,neurons and cognition,physics,87
+88,Emma Schymanski,53,13,4,0,compound identification,omics,88
+89,Gary Miller,332,54,111,0,data structures and algorithms,systems,89
+90,Feixiong Cheng,133,39,41,0,drug repurposing,systems,90
+91,Jianxi Gao,59,12,17,0,physics and society,systems,91
+92,Baruch Barzel,39,16,11,0,physics and society,physics,92
+93,Katja Luck,15,5,1,0,angelman syndrome,omics,93
+94,Kerstin Spirohn,14,0,0,0,drosophila,,94
+95,Carl Pollis,2,0,0,0,,,95
+96,Sadie Schlabach,3,0,0,0,ethanol,,96
+97,Wenting Bian,4,0,0,0,computer vision and pattern recognition,computer,97
+98,Dae Kyum Kim,36,4,0,0,exosomes,omics,98
+99,Nishka Kishore,6,0,0,0,alternative oxidase,neuro,99
+100,Tong Hao,221,17,1,0,high energy astrophysical phenomena,systems,100
+101,Michael Calderwood,63,21,5,0,methicillin-resistant staphylococcus aureus,omics,101
+102,Marc Vidal,211,10,65,0,information theory,systems,102
+103,Vedran Sekara,19,9,1,0,physics and society,social,103
+104,Pierre Deville,11,4,0,0,physics and society,social,104
+105,Sebastian Ahnert,57,8,14,0,physics and society,social,105
+106,Rishi Desai,150,60,17,0,rheumatoid arthritis,social,106
+107,Diane Handy,63,9,9,0,methylation,systems,107
+108,Ruisheng Wang,56,3,2,0,solar and stellar astrophysics,systems,108
+109,Sebastian Schneeweiss,412,61,153,0,pharmacoepidemiology,diabetes,109
+110,Arda Halu,32,14,0,0,proteomics,omics,110
+111,Julius Decano,18,7,0,0,inflammation,omics,111
+112,Megha Padi,21,2,5,0,high energy physics - theory,omics,112
+113,Rashmi Prasad,52,6,1,0,diabetes,network,113
+114,Joao Fadista,47,10,1,0,insulin secretion,omics,114
+115,Marc Santolini,19,6,0,0,allergy,systems,115
+116,Jorg Menche,45,6,4,0,inflammation,systems,116
+117,Masanori Aikawa,127,7,45,0,atherosclerosis,omics,117
+118,Leif Groop,472,16,74,0,type 2 diabetes,sleep,118
+119,Cristian Candia,8,4,2,0,physics and society,social,119
+120,Carlos Rodriguez-Sickert,9,1,2,0,physics and society,social,120
+121,Cesar Hidalgo,61,11,27,0,physics and society,social,121
+122,Toshiaki Nakano,199,43,8,0,hemodialysis,aging,122
+123,Shunsuke Katsuki,16,4,0,0,inflammation,mitochondria,123
+124,Mingxian Chen,44,16,0,0,atrial fibrillation,neuro,124
+125,Lang Ho Lee,29,2,0,0,general relativity and quantum cosmology,omics,125
+126,Diego Pestana,0,0,0,0,,omics,126
+127,Angelo Kum,0,0,0,0,,omics,127
+128,Rodrigo Kuromoto,1,0,0,0,atherosclerosis,inflammation,128
+129,Whitney Golden,1,0,0,0,atherosclerosis,inflammation,129
+130,Mario Boff,2,0,0,0,atherosclerosis,inflammation,130
+131,Hideyuki Higashi,16,1,0,0,proteomics,omics,131
+132,Kevin Kauffman,25,6,0,0,drug delivery,inflammation,132
+133,Takashi Maejima,31,7,0,0,orexin,sleep,133
+134,Takehiro Suzuki,233,17,0,0,arsenic,complex,134
+135,Hiroshi Iwata,147,19,6,0,coronary artery disease,systems,135
+136,Jon Aster,198,13,34,0,notch,inflammation,136
+137,Sasha Singh,44,11,3,0,proteomics,omics,137
+138,Elena Aikawa,178,9,75,0,atherosclerosis,omics,138
+139,Nima Dehmamy,11,5,1,0,machine learning,social,139
+140,Samuel Fraiberger,6,2,0,0,computers and society,physics,140
+141,Magnus Resch,1,0,0,0,,physics,141
+142,Christoph Riedl,18,4,8,0,computer science and game theory,social,142
+143,Stephen Kosack,1,1,0,0,economy,network,143
+144,Michele Coscia,19,16,6,0,social and information networks,social,144
+145,Evann Smith,1,0,0,0,economy,network,145
+146,Ricardo Hausmann,19,3,10,0,physics and society,social,146
+147,Petra Vertes,59,7,6,0,connectome,omics,147
+148,Gang Yan,230,24,9,0,materials science,systems,148
+149,Yee Lian Chew,25,9,1,0,caenorhabditis elegans,sleep,149
+150,Denise Walker,90,21,9,0,cannabis,social,150
+151,William Schafer,125,12,62,0,c. elegans,sleep,151
+152,Santo Fortunato,146,37,69,0,physics and society,physics,152
+153,Carl Bergstrom,83,20,31,0,physics and society,social,153
+154,Katy Borner,65,9,24,0,digital libraries,social,154
+155,Stasa Milojevic,33,6,4,0,digital libraries,social,155
+156,Alexander Petersen,85,38,9,0,physics and society,systems,156
+157,Filippo Radicchi,127,74,46,0,physics and society,social,157
+158,Brian Uzzi,51,4,29,0,physics and society,social,158
+159,Ludo Waltman,71,34,25,0,digital libraries,social,159
+160,Dashun Wang,53,4,24,0,physics and society,social,160
+161,Emre Guney,33,6,4,0,biomarkers,systems,161
+162,Patrick Branigan,24,2,0,0,asthma,inflammation,162
+163,Matthew Loza,57,21,7,0,asthma,graph,163
+164,Frederic Baribaud,48,2,5,0,asthma,omics,164
+165,Radu Dobrin,25,3,1,0,antiviral and antibacterial networks,omics,165
+166,Sergio Pequito,42,11,2,0,optimization and control,systems,166
+167,Victor Preciado,93,20,50,0,optimization and control,systems,167
+168,George Pappas,217,20,112,0,optimization and control,systems,168
+169,Cinzia Perrino,107,21,16,0,heart failure,omics,169
+170,Gianluigi Condorelli,193,12,77,0,heart failure,omics,170
+171,Sean Michael Davidson,6,1,1,0,astrophysics of galaxies,omics,171
+172,Leon De Windt,78,3,39,0,heart failure,omics,172
+173,Stefanie Dimmeler,391,28,191,0,heart failure,omics,173
+174,Felix Benedikt Engel,8,0,1,0,high energy astrophysical phenomena,omics,174
+175,Derek John Hausenloy,5,1,2,0,acute myocardial infarction,omics,175
+176,Joseph Addison Hill,9,0,0,0,cosmology and nongalactic astrophysics,omics,176
+177,Linda Wilhelmina Van Laake,2,0,0,0,big data,omics,177
+178,Sandrine Lecour,87,15,33,0,cardioprotection,sleep,178
+179,Jonathan Leor,115,12,32,0,myocardial infarction,omics,179
+180,Rosalinda Madonna,138,65,17,0,diabetes,omics,180
+181,Manuel Mayr,244,30,96,0,proteomics,systems,181
+182,Fabrice Prunier,90,11,23,0,myocardial infarction,omics,182
+183,Joost Petrus Geradus Sluijter,1,0,0,0,big data,omics,183
+184,Rainer Schulz,254,26,76,0,mitochondria,diabetes,184
+185,Thomas Thum,359,51,168,0,heart failure,omics,185
+186,Kirsti Ytrehus,43,4,11,0,cardioprotection,omics,186
+187,David Gomez-Cabrero,81,11,7,0,dna methylation,systems,187
+188,Claudia Vargas,66,3,19,0,cosmology and nongalactic astrophysics,social,188
+189,Isaac Cano,32,5,3,0,integrated care,systems,189
+190,Dieter Maier,81,12,18,0,asthma,omics,190
+191,Jesper Tegner,157,9,47,0,information theory,systems,191
+192,Josep Roca,150,3,36,0,integrated care,systems,192
+193,Chaoming Song,70,13,1,0,disordered systems and neural networks,social,193
+194,Sebastian Grauwin,23,6,1,0,physics and society,social,194
+195,Michael Szell,34,11,5,0,physics and society,social,195
+196,Stanislav Sobolevsky,56,18,18,0,physics and society,social,196
+197,Philipp Hovel,84,1,13,0,adaptation and self-organizing systems,systems,197
+198,Filippo Simini,30,11,7,0,physics and society,social,198
+199,Maarten Vanhoof,9,4,1,0,computers and society,social,199
+200,Zbigniew Smoreda,29,0,3,0,physics and society,social,200
+201,Carlo Ratti,144,15,90,0,physics and society,systems,201
+202,Marco Tulio Angulo,12,8,0,0,systems and control,systems,202
+203,Jaime Moreno,84,12,18,0,high energy astrophysical phenomena,systems,203
+204,Gabor Lippner,37,6,7,0,combinatorics,systems,204
+205,Georg Basler,18,12,1,0,flux balance analysis,network,205
+206,Zoran Nikoloski,162,5,87,0,metabolomics,omics,206
+207,Abdelhalim Larhlimi,13,3,0,0,molecular networks,,207
+208,Arunachalam Vinayagam,27,8,1,0,protein complexes,network,208
+209,Travis Gibson,33,12,6,0,optimization and control,systems,209
+210,Ho Joon Lee,154,20,5,0,instrumentation and methods for astrophysics,neuro,210
+211,Bahar Yilmazel,8,1,0,0,colorectal adenocarcinoma,network,211
+212,Charles Roesel,11,2,0,0,annotation,omics,212
+213,Yanhui Hu,125,15,5,0,drosophila,systems,213
+214,Young Kwon,343,29,51,0,nuclear experiment,social,214
+215,Norbert Perrimon,334,10,201,0,drosophila,systems,215
+216,Quan Zhong,53,8,1,0,high energy physics - experiment,omics,216
+217,Samuel Pevzner,9,0,0,0,cross‐species complementation,network,217
+218,Roberto Mosca,35,8,2,0,activity based costing,network,218
+219,Mikko Taipale,39,11,6,0,8-stranded β-sandwich domain (sbdβ),omics,219
+220,Murat Tasan,23,3,0,0,cardiovascular,systems,220
+221,Changyu Fan,21,3,0,0,covid-19,social,221
+222,Xinping Yang,96,12,6,0,systems and control,systems,222
+223,Patrick Haley,21,5,6,0,high energy physics - experiment,network,223
+224,Ryan Murray,262,22,9,0,general relativity and quantum cosmology,social,224
+225,Flora Mer,1,0,0,0,cross‐species complementation,network,225
+226,Fana Gebreab,9,0,0,0,cross‐species complementation,network,226
+227,Stanley Tam,25,2,2,0,ultrasensitivity,sleep,227
+228,Andrew MacWilliams,6,0,0,0,cross‐species complementation,network,228
+229,Amelie Dricot,20,1,0,0,brca1 interaction screening,network,229
+230,Patrick Reichert,22,0,0,0,high energy physics - experiment,network,230
+231,Balaji Santhanam,29,3,0,0,development,social,231
+232,Lila Ghamsari,19,2,0,0,arrhenius plot,network,232
+233,Thomas Rolland,161,3,0,0,general relativity and quantum cosmology,neuro,233
+234,Benoit Charloteaux,34,2,3,0,breast cancer,network,234
+235,Susan Lindquist,200,7,120,0,yeast,neuro,235
+236,Patrick Aloy,112,18,57,0,disease,systems,236
+237,Michael Cusick,64,13,2,0,reverse shoulder arthroplasty,network,237
+238,Frederick Roth,142,2,60,0,high energy astrophysical phenomena,systems,238
+239,Claudia Goettsch,56,14,4,0,atherosclerosis,omics,239
+240,Piero Ricchiuto,17,4,0,0,astrocytes,omics,240
+241,Wilson Wen Bin Goh,41,27,6,0,proteomics,systems,241
+242,Iwao Yamada,12,0,0,0,proteomics,omics,242
+243,Hideo Yoshida,191,14,45,0,neuroblastoma,neuro,243
+244,Takuya Hara,40,5,0,0,cell proliferation,,244
+245,Noriyuki Inoue,18,3,0,0,anagliptin,physics,245
+246,Daiju Fukuda,133,18,1,0,inflammation,inflammation,246
+247,Alexander Mojcher,2,0,0,0,cardiovascular,systems,247
+248,Peter Mattson,13,2,0,0,machine learning,math,248
+249,Mark Boothby,77,10,31,0,cancer immunotherapy,metabolism,249
+250,Maksim Kitsak,34,17,1,0,physics and society,social,250
+251,Marton Posfai,26,3,4,0,physics and society,systems,251
+252,Sean Cornelius,17,6,0,0,physics and society,social,252
+253,Raissa D'Souza,92,12,58,0,physics and society,systems,253
+254,Michael Hawrylycz,81,6,10,0,neurons and cognition,omics,254
+255,Jeremy Miller,300,52,34,0,high energy physics - experiment,omics,255
+256,Vilas Menon,39,6,6,0,single-cell rna-sequencing,omics,256
+257,Tim Dolbeare,13,0,0,0,3d brain atlas,neuro,257
+258,Angela Guillozet-Bongaarts,19,3,0,0,cholinergic basal forebrain,neuro,258
+259,Anil Jegga,109,7,24,0,inflammation,systems,259
+260,Bruce Aronow,275,1,27,0,covid-19,systems,260
+261,Chang Kyu Lee,188,22,46,0,pig,sleep,261
+262,Amy Bernard,68,3,8,0,high energy physics - experiment,omics,262
+263,Matthew Glasser,78,8,7,0,connectivity,graph,263
+264,Donna Dierker,32,3,4,0,mri,aging,264
+265,Aaron Szafer,13,0,0,0,parvalbumin,omics,265
+266,Forrest Collman,17,1,1,0,neurons and cognition,omics,266
+267,Pascal Grange,42,34,17,0,neurons and cognition,neuro,267
+268,Kenneth Berman,14,5,0,0,accelerator physics,,268
+269,Stefan Mihalas,56,3,11,0,mouse,physics,269
+270,Zizhen Yao,60,9,0,0,cell types,omics,270
+271,Lance Stewart,86,2,28,0,classical analysis and odes,neuro,271
+272,Jay Schulkin,273,14,153,0,pregnancy,social,272
+273,Lydia Ng,63,8,5,0,neuroscience,omics,273
+274,Chinh Dang,25,5,2,0,computer vision and pattern recognition,neuro,274
+275,David Haynor,52,1,7,0,biplane fluoroscopy,diabetes,275
+276,Allan Jones,148,28,32,0,astrophysics,graph,276
+277,David Van Essen,127,24,39,0,connectivity,graph,277
+278,Christof Koch,202,24,100,0,consciousness,omics,278
+279,Ed Lein,84,5,22,0,human,omics,279
+280,Franco Giulianini,50,1,0,0,metabolomics,mitochondria,280
+281,Tania Zeller,1,0,0,0,,mitochondria,281
+282,Philipp Wild,287,13,38,0,epidemiology,systems,282
+283,Karl Lackner,354,20,52,0,epidemiology,systems,283
+284,Nathan Eagle,20,2,3,0,physics and society,social,284
+285,Vincent Blondel,66,17,29,0,physics and society,social,285
+286,Luca Pappalardo,36,12,4,0,applications,social,286
+287,C Chris Huang,113,1,0,0,cosmology and nongalactic astrophysics,systems,287
+288,Tatiana Ort,14,2,1,0,antibody,,288
+289,Nidhi Sahni,50,5,8,0,alternative splicing,systems,289
+290,Derek Thibault,13,1,0,0,aspirin-exacerbated respiratory disease,social,290
+291,Linh Voung,1,0,0,0,,social,291
+292,Natali Gulbahce,44,11,5,0,disordered systems and neural networks,omics,292
+293,Joel Tocker,20,0,0,0,asthma,,293
+294,Elliot Barnathan,55,0,12,0,asthma,inflammation,294
+295,Reynold Panettieri,265,19,75,0,asthma,bacteria,295
+296,Kelan Tantisira,163,19,44,0,asthma,omics,296
+297,Weiliang Qiu,104,9,15,0,asthma,omics,297
+298,Imad Abugessaisa,30,9,1,0,genome annotation,omics,298
+299,Mercedes Huertas-Miguelanez,2,1,0,0,,omics,299
+300,Akos Tenyi,7,3,0,0,systems medicine,systems,300
+301,Igor Marin de Mas,12,5,1,0,cancer stem cells,mitochondria,301
+302,Narsis Kiani,51,6,2,0,information theory,systems,302
+303,Francesco Marabita,26,6,0,0,dna methylation,omics,303
+304,Francesco Falciani,91,0,25,0,machine learning,omics,304
+305,Kelly Burrowes,23,8,7,0,asthma,math,305
+306,Peter Wagner,368,76,131,0,nuclear experiment,systems,306
+307,Vitaly Selivanov,34,12,0,0,high energy physics - experiment,mitochondria,307
+308,Marta Cascante,183,4,92,0,apoptosis,systems,308
+309,Irma Lemmens,37,6,0,0,kiss,omics,309
+310,Celia Fontanillo,20,2,2,0,colorectal carcinoma,,310
+311,Atanas Kamburov,38,8,2,0,cancer,omics,311
+312,Susan Ghiassian,3,0,0,0,machine learning,systems,312
+313,Dawit Balcha,7,0,0,0,gateway,,313
+314,Bridget Begg,6,1,0,0,7q-,cancer,314
+315,Pascal Braun,37,10,4,0,mesoscale and nanoscale physics,systems,315
+316,Marc Brehme,13,6,2,0,\noxphos\n,,316
+317,Martin Broly,5,0,0,0,carcinoma cuniculatum,,317
+318,Anne Ruxandra Carvunis,25,4,7,0,evolution,systems,318
+319,Dan Convery-Zupan,1,0,0,0,,systems,319
+320,Roser Corominas,20,3,0,0,alternatively spliced isoforms,systems,320
+321,Jasmin Coulombe-Huntington,26,5,0,0,alternative splicing,systems,321
+322,Elizabeth Dann,12,3,3,0,,,322
+323,Matija Dreze,12,3,1,0,breast cancer,,323
+324,Eric Franzosa,57,14,0,0,metagenomics,systems,324
+325,Bryan Gutierrez,5,0,0,0,adaptive immune system,omics,325
+326,Madeleine Hardy,2,0,0,0,,omics,326
+327,Mike Jin,15,1,0,0,astrophysics,neuro,327
+328,Shuli Kang,21,2,0,0,rna-seq data,cancer,328
+329,Ruth Kiros,1,0,0,0,,cancer,329
+330,Alexandre Palagi,5,1,0,0,cis-regulatory elements,,330
+331,Matthew Poulin,22,1,0,0,quantum physics,inflammation,331
+332,Xavier Rambout,10,5,0,0,cap-binding complex,,332
+333,John Rasla,2,0,0,0,,,333
+334,Viviana Romero,16,3,0,0,computational physics,computational,334
+335,Elien Ruyssinck,3,0,0,0,,computational,335
+336,Julie Sahalie,9,0,0,0,adaptive immunity,,336
+337,Annemarie Scholz,4,0,0,0,adhesion,bacteria,337
+338,Akash Shah,63,15,3,0,spinal epidural abscess,aging,338
+339,Alexander Tejeda,4,0,0,0,chemical physics,,339
+340,Shelly Trigg,6,3,0,0,developmental physiology,omics,340
+341,Jean Claude Twizere,42,3,5,0,hox,complex,341
+342,Kerwin Vega,1,0,0,0,,complex,342
+343,Jennifer Walsh,257,80,26,0,pregnancy,social,343
+344,Lilia Iakoucheva,44,5,9,0,alternatively spliced isoforms,systems,344
+345,Javier De Las Rivas,86,12,23,0,bioinformatics,omics,345
+346,Jan Tavernier,174,0,67,0,leptin receptor,omics,346
+347,Juan Fuxman Bass,29,12,7,0,transcription factors,systems,347
+348,Jochen Weile,21,5,0,0,deep mutational scanning,,348
+349,Georgios Karras,11,3,0,0,adp-ribosylation,cancer,349
+350,Irina Krykbaeva,8,0,0,0,cholesterol,metabolism,350
+351,Mandy Lam,13,2,0,0,\nlegionella\n,,351
+352,George Tucker,89,6,3,0,machine learning,social,352
+353,Vikram Khurana,28,10,4,0,alpha-synuclein,neuro,353
+354,Nozomu Yachie,44,7,5,0,drug resistance,network,354
+355,Adriana San-Miguel,13,3,6,0,aging,neuro,355
+356,Ani Stoyanova,3,0,0,0,"trail, apoptosis, cancer, inflammation, immune system",,356
+357,Alex Leighton,1,0,0,0,,,357
+358,Yves Jacob,71,0,6,0,ubiquitination,omics,358
+359,Kourosh Salehi-Ashtiani,50,3,18,0,genomics,systems,359
+360,Luke Whitesell,79,7,10,0,antifungal,neuro,360
+361,Shamil Sunyaev,134,7,46,0,genetics,sleep,361
+362,Bonnie Berger,194,7,103,0,machine learning,social,362
+363,Albertha Walhout,0,0,0,0,,social,363
+364,Mika Gustafsson,32,7,4,0,dna methylation,physics,364
+365,Colm Nestor,36,8,4,0,bioinformatics,omics,365
+366,Sergio Baranzini,132,26,46,0,multiple sclerosis,omics,366
+367,Soren Brunak,268,2,69,0,type 2 diabetes,omics,367
+368,Kian Fan Chung,351,57,123,0,asthma,omics,368
+369,Howard Federoff,162,8,67,0,metabolomics,omics,369
+370,Anne Claude Gavin,71,8,22,0,metabolism,systems,370
+371,Richard Meehan,116,6,43,0,dna methylation,omics,371
+372,Paola Picotti,88,12,18,0,parkinson’s disease,omics,372
+373,Miguel Angel Pujana,52,4,21,0,breast cancer,genetics,373
+374,Nikolaus Rajewsky,123,8,49,0,circrna,omics,374
+375,Kenneth Gc Smith,12,1,5,0,covid-19,genetics,375
+376,Peter Sterk,275,19,62,0,asthma,omics,376
+377,Pablo Villoslada,159,23,58,0,multiple sclerosis,graph,377
+378,Mikael Benson,67,11,29,0,microrna,network,378
+379,Hua Wei Shen,30,3,0,0,instrumentation and methods for astrophysics,network,379
+380,Maximilian Schich,6,3,2,0,physics and society,social,380
+381,Yong Yeol Ahn,33,4,15,0,covid-19,social,381
+382,Alexander Mirsky,2,1,0,0,alignment,,382
+383,Mauro Martino,23,0,2,0,combinatorics,computer,383
+384,Santiago Gil,34,4,2,0,astrophysics of galaxies,social,384
+385,Alexander Kott,46,27,13,0,cryptography and security,systems,385
+386,XueZhong Zhou,2,1,0,0,applied physics,,386
+387,Ziyou Gao,24,0,9,0,physics and society,social,387
+388,James Bagrow,83,28,26,0,physics and society,social,388
+389,Ruth Mayer,14,0,1,0,clinical trial,,389
+390,Stephen Rennard,354,59,110,0,copd,omics,390
+391,Bartolome Celli,354,65,119,0,copd,sleep,391
+392,Nick Locantore,2,0,0,0,emphysema,,392
+393,Ruth Tal-Singer,169,3,16,0,copd,sleep,393
+394,Soumitra Ghosh,145,29,40,0,high energy physics - phenomenology,genetics,394
+395,Chris Larminie,4,0,0,0,,genetics,395
+396,Glyn Bradley,11,1,0,0,acute respiratory distress syndrome,aging,396
+397,John Riley,153,18,6,0,copd,systems,397
+398,Alvar Agusti,308,67,114,0,chronic obstructive pulmonary disease,systems,398
+399,Claes Ladenvall,42,3,0,0,genome-wide association study,genetics,399
+400,Lasse Folkersen,107,12,3,0,atherosclerosis,genetics,400
+401,Per Eriksson,311,15,55,0,abdominal aortic aneurysm,omics,401
+402,Marju Orho-Melander,233,3,39,0,type 2 diabetes,omics,402
+403,Gourab Ghoshal,58,7,20,0,physics and society,social,403
+404,Liping Chi,12,2,3,0,statistical mechanics,physics,404
+405,Jean Jacques Slotine,29,0,16,0,albatross,computational,405
+406,Endre Csoka,27,1,0,0,combinatorics,social,406
+407,Nicholas Blumm,4,1,0,0,biological physics,,407
+408,Zalan Forro,7,0,0,0,general finance,,408
+409,Ginestra Bianconi,230,88,134,0,disordered systems and neural networks,social,409
+410,Jean Philippe Bouchaud,35,4,18,0,confidence collapse,,410
+411,Orit Rozenblatt-Rosen,88,7,0,0,cancer,omics,411
+412,Rahul Deo,56,16,14,0,machine learning,omics,412
+413,Guillaume Adelmant,44,3,0,0,cancer biology,omics,413
+414,Miranda Grace,26,1,0,0,high energy physics - experiment,omics,414
+415,Manor Askenazi,38,10,0,0,alzheimer’s disease,omics,415
+416,Maria Tavares,33,4,1,0,soft condensed matter,,416
+417,Fieda Abderazzaq,4,0,0,0,,,417
+418,Danielle Byrdsong,2,0,0,0,,,418
+419,Alyce Chen,12,5,0,0,adenolymphoma,,419
+420,Jingwei Cheng,46,5,1,0,high energy physics - experiment,math,420
+421,Mick Correll,24,1,0,0,actionable,,421
+422,Melissa Duarte,13,5,3,0,information theory,network,422
+423,Mariet Feltkamp,13,0,2,0,basal cell carcinoma,,423
+424,Scott Ficarro,105,10,1,0,cancer,systems,424
+425,Rachel Franchi,2,0,0,0,,systems,425
+426,Brijesh Garg,10,2,0,0,c1-inhibitor,,426
+427,Amy Holthaus,9,0,0,0,batf,,427
+428,Anna Korkhin,3,1,0,0,anxiety,,428
+429,Larisa Litovchick,41,16,17,0,cell cycle,cancer,429
+430,Jessica Mar,62,8,14,0,gene expression,mitochondria,430
+431,Theodore Pak,20,6,0,0,genome analysis,immunology,431
+432,Sabrina Rabello,2,0,0,0,,immunology,432
+433,Renee Rubio,22,0,0,0,colon cancer,,433
+434,Saurav Singh,16,2,0,0,computation and language,systems,434
+435,Jennifer Spangle,12,7,0,0,cancer,genetics,435
+436,Shelly Wanamaker,1,0,0,0,,genetics,436
+437,James Webber,54,19,3,0,functional analysis,omics,437
+438,Jennifer Roecklein-Canfield,9,1,0,0,codon bias,,438
+439,Eric Johannsen,47,2,15,0,epstein-barr virus,genetics,439
+440,Rameen Beroukhim,201,5,19,0,meningioma,cancer,440
+441,Elliott Kieff,83,0,31,0,epstein–barr virus,,441
+442,Karl Munger,112,11,76,0,cervical cancer,omics,442
+443,Jarrod Marto,149,0,31,0,cancer,systems,443
+444,John Quackenbush,273,17,70,0,gene expression,social,444
+445,James DeCaprio,114,22,46,0,merkel cell carcinoma,neuro,445
+446,Deok Sun Lee,18,7,10,0,,neuro,446
+447,Amy Baldwin,36,11,2,0,cancer,cancer,447
+448,Nicolas Simonis,28,5,0,0,artificial intelligence,genetics,448
+449,Kyung Won Huh,11,2,0,0,superconductivity,,449
+450,Karin Hellner,12,4,0,0,ovarian cancer,cancer,450
+451,Nicholas Christakis,174,24,110,0,social networks,social,451
+452,James Decaprio,8,0,2,0,,social,452
+453,Vasyl Palchykov,14,8,2,0,physics and society,social,453
+454,Robin Dunbar,37,2,12,0,physics and society,social,454
+455,Victoria Parikh,26,11,5,0,genetics,omics,455
+456,Richard Jin,97,6,0,0,superconductivity,systems,456
+457,Andrew Hale,135,49,9,0,solar and stellar astrophysics,systems,457
+458,Katherine Cottrill,10,3,0,0,mitochondria,systems,458
+459,Rahamthulla Shaik,10,1,0,0,arabidopsis,,459
+460,Aaron Waxman,97,14,30,0,pulmonary hypertension,systems,460
+461,Ying Yi Zhang,111,1,9,0,high energy astrophysical phenomena,social,461
+462,Jochen Hartner,15,2,2,0,diffusion weighted imaging,,462
+463,Yuko Fujiwara,141,11,3,0,enhancer,omics,463
+464,Stuart Orkin,301,16,128,0,mouse,omics,464
+465,Kathleen Haley,40,3,2,0,mitochondria,mitochondria,465
+466,Stephen Chan,360,73,81,0,pulmonary hypertension,systems,466
+467,Marta Gonzalez,170,15,38,0,physics and society,systems,467
+468,Amos Maritan,250,2,147,0,statistical mechanics,social,468
+469,Marton Karsai,80,6,6,0,physics and society,social,469
+470,Jukka Pekka Onnela,84,9,34,0,digital phenotyping,systems,470
+471,Samuel Arbesman,18,11,2,0,physics and society,social,471
+472,Juliette Kahle,7,3,0,0,accessible matrices,,472
+473,Chad Shaw,198,2,15,0,genetics,systems,473
+474,Janghoo Lim,28,8,9,0,mouse,neuro,474
+475,Huda Zoghbi,227,18,142,0,neuroscience,neuro,475
+476,Zehui Qu,12,2,0,0,crystal structure,,476
+477,Henry Burd,8,0,0,0,comparison,,477
+478,Jiangxia Liu,12,0,0,0,artificial intelligence,social,478
+479,Eivind Almaas,61,4,26,0,disordered systems and neural networks,systems,479
+480,Olaf Wiest,119,3,46,0,largazole,social,480
+481,Zoltan Oltvai,51,3,26,0,molecular networks,graph,481
+482,Vinayak Kapatral,19,3,3,0,comparison,,482
+483,David Lazer,36,6,22,0,social and information networks,social,483
+484,Lada Adamic,31,8,13,0,social and information networks,social,484
+485,Sinan Aral,21,9,10,0,machine learning,social,485
+486,Devon Brewer,43,24,5,0,community engagement,social,486
+487,Noshir Contractor,18,2,9,0,participant-aided sociograms,social,487
+488,James Fowler,173,29,51,0,high energy physics - experiment,social,488
+489,Myron Gutmann,17,6,6,0,agricultural management,,489
+490,Tony Jebara,33,4,20,0,machine learning,computer,490
+491,Gary King,153,40,35,0,high energy physics - experiment,omics,491
+492,Michael Macy,35,3,24,0,physics and society,social,492
+493,Deb Roy,52,3,24,0,computation and language,social,493
+494,Marshall Van Alstyne,1,0,1,0,,social,494
+495,Kavitha Venkatesan,24,2,1,0,cancer dependency,cancer,495
+496,Jean Francois Rual,39,5,4,0,\nrbpj\n,cardio,496
+497,Alexei Vazquez,147,71,64,0,statistical mechanics,physics,497
+498,Ulrich Stelzl,49,6,14,0,phosphorylation,network,498
+499,Tomoko Hirozane-Kishikawa,16,1,0,0,,network,499
+500,Martina Zenkner,7,0,0,0,aggregation modulators,neuro,500
+501,Xiaofeng Xin,35,4,0,0,nuclear experiment,systems,501
+502,Kwang Il Goh,9,4,0,0,,systems,502
+503,Muhammed Yildirim,23,4,1,0,3t,physics,503
+504,Kathrin Heinzmann,14,4,0,0,18f-flt pet,cancer,504
+505,Sebiha Cevik,9,3,0,0,,cancer,505
+506,Christophe Simon,125,0,1,0,astrophysics of galaxies,computer,506
+507,Anne Sophie de Smet,6,0,0,0,cell microarray screen,,507
+508,Alex Smolyar,6,0,0,0,,,508
+509,Haiyuan Yu,109,13,32,0,statistical mechanics,systems,509
+510,David Szeto,21,0,0,0,instrumentation and methods for astrophysics,physics,510
+511,Heather Borick,4,0,0,0,,physics,511
+512,Niels Klitgord,32,3,0,0,microbiome,microbiome,512
+513,Chenwei Lin,53,1,0,0,astrophysics of galaxies,omics,513
+514,Maciej Lalowski,48,2,9,0,proteomics,omics,514
+515,Jan Timm,14,0,0,0,nuclear experiment,neuro,515
+516,Kirstin Rau,7,0,0,0,cspα,,516
+517,Charles Boone,250,7,59,0,genetic interactions,mitochondria,517
+518,Erich Wanker,137,2,34,0,protein aggregation,neuro,518
+519,Juyong Park,45,18,17,0,physics and society,social,519
+520,Marcio de Menezes,31,3,0,0,statistical mechanics,social,520
+521,Leah Tardivo,2,0,0,0,,social,521
+522,Nenad Svrzikapa,13,1,0,0,antisense oligonucleotide,,522
+523,Adriana Motyl,1,0,0,0,,,523
+524,Michael Hudson,258,32,45,0,cosmology and nongalactic astrophysics,physics,524
+525,Troy Moore,38,4,6,0,mental health,physics,525
+526,Charlie Boone,9,1,0,0,antifungal,,526
+527,Adilson Motter,188,46,119,0,disordered systems and neural networks,systems,527
+528,Qasim Beg,10,1,1,0,molecular networks,,528
+529,Marcio Demenezes,1,0,0,0,,,529
+530,Jason Ernst,61,14,9,0,enhancers,omics,530
+531,Ziv Bar-Joseph,124,9,81,0,machine learning,systems,531
+532,Laszlo Boros,62,12,10,0,analysis of pdes,omics,532
+533,Denis Dupuy,25,3,4,0,aaa+ atpase,,533
+534,Nicolas Bertin,62,6,1,0,materials science,omics,534
+535,Domena Tu,17,0,0,0,cluster randomized controlled trial,,535
+536,Jennifer Rosenberg,23,5,5,0,acute toxicity,omics,536
+537,Aurelie Blanc,2,0,0,0,atherosclerosis,,537
+538,Alain Carnec,1,0,0,0,,,538
+539,Rock Pulak,4,2,2,0,automation,,539
+540,Jane Shingles,4,0,0,0,,,540
+541,John Reece-Hoyes,61,19,0,0,crispr screen,systems,541
+542,Rebecca Hunt-Newbury,3,1,0,0,,systems,542
+543,Ryan Viveiros,5,1,0,0,high energy physics - experiment,,543
+544,William Mohler,36,5,11,0,alkylphospholipid analogs,systems,544
+545,Christian Le Peuch,4,0,0,0,,systems,545
+546,Ian Hope,27,2,13,0,caenorhabditis elegans,neuro,546
+547,Robert Johnsen,33,0,0,0,high energy astrophysical phenomena,genetics,547
+548,Donald Moerman,71,2,18,0,c. elegans,omics,548
+549,David Baillie,85,1,15,0,caenorhabditis elegans,mitochondria,549
+550,Gergely Palla,60,16,19,0,physics and society,social,550
+551,Tamas Vicsek,127,5,80,0,statistical mechanics,social,551
+552,Vanessa Vermeirssen,16,10,1,0,,social,552
+553,M Inmaculada Barrasa,34,3,0,0,yeast,neuro,553
+554,Jenny Aurielle Babon,15,5,2,0,autoreactivity,diabetes,554
+555,Reynaldo Sequerra,12,0,0,0,,diabetes,555
+556,Lynn Doucette-Stamm,20,0,0,0,comparative effectiveness research,genetics,556
+557,David Valle,234,4,30,0,nuclear experiment,physics,557
+558,Barton Childs,4,3,2,0,,physics,558
+559,Balazs Racz,11,0,0,0,high energy astrophysical phenomena,physics,559
+560,Andras Lukacs,38,6,5,0,amino acids,physics,560
+561,Isaac Kohane,333,23,117,0,machine learning,omics,561
+562,Akash Patel,185,34,21,0,catheter ablation,graph,562
+563,Gabor Szabo,457,58,151,0,operator algebras,cardio,563
+564,C Joseph Fisk,4,0,0,0,"distributed, parallel, and cluster computing",,564
+565,Joao Gama Oliveira,13,1,0,0,physics and society,social,565
+566,Zoltan Dezso,29,8,1,0,statistical mechanics,network,566
+567,Imre Kondor,33,9,12,0,portfolio management,social,567
+568,Stefan Wuchty,71,25,16,0,prediction,omics,568
+569,Michael Ferdig,70,1,27,0,artemisinin resistance,,569
+570,Maxim Makeev,16,8,7,0,materials science,computational,570
+571,Imre Derenyi,57,13,9,0,statistical mechanics,physics,571
+572,Illes Farkas,39,13,2,0,statistical mechanics,social,572
+573,Soon Hyung Yook,31,5,10,0,,social,573
+574,Gabor Balazsi,65,9,31,0,synthetic gene circuit,systems,574
+575,Krin Kay,3,0,0,0,,systems,575
+576,Erzsebet Ravasz,7,4,1,0,soft condensed matter,,576
+577,Eric Bonabeau,11,6,6,0,condensed matter,,577
+578,Hawoong Jeong,132,1,83,0,statistical mechanics,social,578
+579,Eric Berlow,16,4,4,0,ecological network,,579
+580,Jennifer Dunne,32,8,3,0,muscular dystrophy,social,580
+581,Neo Martinez,32,0,17,0,stability,social,581

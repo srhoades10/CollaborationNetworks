@@ -18,10 +18,10 @@ defaultAgent = {'User-Agent': 'SomeAgent 11.0'}
 
 checkCitations = False
 overwrite = False
-resultDir = 'collaborationResults'
+resultDir = 'ref'
 
-firstNames = ['Albert Laszlo', 'Seth', 'Schekman', 'Rothman']
-lastNames = ['Barabasi', 'Rhoades', 'Randy', 'James']
+firstNames = ['Albert Laszlo', 'Seth']
+lastNames = ['Barabasi', 'Rhoades']
 
 for firstName, lastName in zip(firstNames, lastNames):
     try:
