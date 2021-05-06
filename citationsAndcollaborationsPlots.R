@@ -11,6 +11,7 @@ source('src/setup_citationsAndcollaborationsPlotting.R')
 
 filePath = c('.')
 colabPath = c('ref')
+
 firstName = 'AlbertLaszlo'
 lastName = 'Barabasi'
 nodeDF = as.data.frame(read_csv(file.path(filePath, colabPath, paste0(firstName, '_', 

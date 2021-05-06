@@ -1,8 +1,7 @@
 """ Query pubmed and Arxiv to generate citation/collaboration networks.
 
-    Examples herein include Albert-Laszlo Barabasi, my (much sparser) 
-    network, and former Nobel Prize winners Randy Schekman and James Rothman.
-    
+    Examples herein include Albert-Laszlo Barabasi, my (much sparser) network
+
     Default parameters are to limit the number of citations, and keep to within
     the past 5 years. First papers are extracted, followed by a search for
     coauthors. A network is then built from all authors (nodes), and their
@@ -14,7 +13,6 @@ import json, requests, re, time, sys, os
 sys.path.append('./src')
 import setup_citationsAndcollaborations as util
 import pandas as pd
-defaultAgent = {'User-Agent': 'SomeAgent 11.0'}
 
 checkCitations = False
 overwrite = False
